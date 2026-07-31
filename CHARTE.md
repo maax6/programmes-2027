@@ -68,3 +68,20 @@ Tout contributeur ayant un lien avec une campagne, un parti ou un candidat (sala
 ## 9. Révision de la charte
 
 Cette charte peut évoluer par pull request publique, discutée avant fusion. Aucune modification n'est apportée pendant les deux semaines précédant le premier tour.
+
+## 10. Réseaux sociaux — écarts assumés
+
+Le projet publie sur les réseaux sociaux. Le format y impose des contraintes que le site n'a pas, et il serait malhonnête de prétendre appliquer la charte à l'identique. Les écarts sont donc listés ici, publiquement, plutôt que pratiqués en silence.
+
+**Ce qui est allégé :**
+
+- la source complète (titre, URL, éditeur, date) est reportée **en légende** au lieu d'être affichée sur le visuel, qui ne porte que le nom de l'éditeur ;
+- les propositions sont réduites à leur titre, sans le résumé ;
+- une sélection est opérée (les trois premières propositions d'un candidat) là où le site les affiche toutes ;
+- les accroches peuvent être plus directes que la formulation strictement descriptive de la règle 3.
+
+**Ce qui ne l'est jamais :** les règles 1 (rien sans source), 2 (le vide est une information), 4 (pas d'évaluation) et 5 (traitement symétrique) s'appliquent intégralement. Concrètement, un visuel comparatif comporte toujours une vue des candidats qui ne se sont pas prononcés, et aucun contenu ne recommande, ne note ni ne classe.
+
+**Contrainte technique tenant lieu de garantie :** tous les visuels sont générés depuis `data/*.json` par `social/generate.mjs`. Aucun visuel n'est fabriqué à la main. Un chiffre publié sur un réseau social est donc, par construction, celui du dépôt à la date de génération.
+
+Les règles opérationnelles détaillées sont dans [social/LIGNE-EDITORIALE.md](social/LIGNE-EDITORIALE.md).

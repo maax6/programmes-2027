@@ -1,0 +1,164 @@
+[
+  {
+    "id": "retraites-age",
+    "theme": "retraites",
+    "question": "Sur quel levier agir pour les retraites ?",
+    "options": [
+      { "id": "retour-60", "label": "Retour à la retraite à 60 ans" },
+      { "id": "abroger-64", "label": "Abroger la réforme de 2023 sans revenir à 60 ans" },
+      { "id": "maintien-64", "label": "Maintenir l'âge légal à 64 ans" },
+      { "id": "duree-cotisation", "label": "Agir sur la durée de cotisation plutôt que sur l'âge" },
+      { "id": "travailler-plus", "label": "Travailler plus longtemps, modalités à préciser" }
+    ],
+    "positions": {
+      "melenchon-jean-luc": { "option": "retour-60", "proposition": "melenchon-retraites-01" },
+      "attal-gabriel": { "option": "duree-cotisation", "proposition": "attal-retraites-01" },
+      "philippe-edouard": { "option": "travailler-plus", "proposition": "philippe-retraites-01" }
+    }
+  },
+  {
+    "id": "retraites-capitalisation",
+    "theme": "retraites",
+    "question": "Introduire un étage de retraite par capitalisation ?",
+    "options": [
+      { "id": "pour", "label": "Pour" },
+      { "id": "contre", "label": "Contre" }
+    ],
+    "positions": {
+      "philippe-edouard": { "option": "pour", "proposition": "philippe-retraites-01" }
+    }
+  },
+  {
+    "id": "salaires-levier",
+    "theme": "travail-salaires",
+    "question": "Comment augmenter les salaires ?",
+    "options": [
+      { "id": "hausse-legale-smic", "label": "Hausse légale du SMIC" },
+      { "id": "baisse-charges", "label": "Baisse des charges et gains de productivité" },
+      { "id": "negociation-branches", "label": "Négociation de branche" }
+    ],
+    "positions": {
+      "melenchon-jean-luc": { "option": "hausse-legale-smic", "proposition": "melenchon-salaires-01" },
+      "attal-gabriel": { "option": "baisse-charges", "proposition": "attal-travail-01" }
+    }
+  },
+  {
+    "id": "code-travail",
+    "theme": "travail-salaires",
+    "question": "Que faire du code du travail ?",
+    "options": [
+      { "id": "simplifier", "label": "Le simplifier fortement / le refondre" },
+      { "id": "renforcer", "label": "Renforcer les protections" },
+      { "id": "statu-quo", "label": "Le laisser en l'état" }
+    ],
+    "positions": {
+      "attal-gabriel": { "option": "simplifier", "proposition": "attal-travail-02" }
+    }
+  },
+  {
+    "id": "regle-or",
+    "theme": "economie",
+    "question": "Inscrire une règle d'or budgétaire dans la Constitution ?",
+    "options": [
+      { "id": "pour", "label": "Pour" },
+      { "id": "contre", "label": "Contre" }
+    ],
+    "positions": {
+      "philippe-edouard": { "option": "pour", "proposition": "philippe-economie-02" }
+    }
+  },
+  {
+    "id": "immigration-quotas",
+    "theme": "immigration",
+    "question": "Instaurer des quotas ou une sélection de l'immigration économique ?",
+    "options": [
+      { "id": "pour", "label": "Pour" },
+      { "id": "contre", "label": "Contre" }
+    ],
+    "positions": {
+      "attal-gabriel": { "option": "pour", "proposition": "attal-immigration-01" },
+      "philippe-edouard": { "option": "pour", "proposition": "philippe-immigration-01" }
+    }
+  },
+  {
+    "id": "regroupement-familial",
+    "theme": "immigration",
+    "question": "Faut-il restreindre le regroupement familial ?",
+    "options": [
+      { "id": "restreindre", "label": "Le restreindre" },
+      { "id": "maintenir", "label": "Le maintenir en l'état" },
+      { "id": "elargir", "label": "L'élargir" }
+    ],
+    "positions": {
+      "attal-gabriel": { "option": "restreindre", "proposition": "attal-immigration-01" },
+      "philippe-edouard": { "option": "restreindre", "proposition": "philippe-immigration-01" }
+    }
+  },
+  {
+    "id": "accord-1968",
+    "theme": "immigration",
+    "question": "Dénoncer l'accord franco-algérien de 1968 ?",
+    "options": [
+      { "id": "denoncer", "label": "Le dénoncer" },
+      { "id": "renegocier", "label": "Lerenégocier" },
+      { "id": "maintenir", "label": "Le maintenir" }
+    ],
+    "positions": {
+      "philippe-edouard": { "option": "denoncer", "proposition": "philippe-immigration-01" }
+    }
+  },
+  {
+    "id": "effort-defense",
+    "theme": "defense",
+    "question": "Quel niveau d'effort de défense ?",
+    "options": [
+      { "id": "augmenter", "label": "Augmenter fortement" },
+      { "id": "stabiliser", "label": "Stabiliser" },
+      { "id": "reduire", "label": "Réduire" }
+    ],
+    "positions": {
+      "attal-gabriel": { "option": "augmenter", "proposition": "attal-defense-01" },
+      "philippe-edouard": { "option": "augmenter", "proposition": "philippe-defense-01" }
+    }
+  },
+  {
+    "id": "commerce-chine",
+    "theme": "europe-international",
+    "question": "Quelle réponse aux surcapacités industrielles chinoises ?",
+    "options": [
+      { "id": "barrieres-ciblees", "label": "Barrières commerciales ciblées au niveau européen" },
+      { "id": "libre-echange", "label": "Maintenir l'ouverture commerciale" },
+      { "id": "protectionnisme-national", "label": "Protectionnisme au niveau national" }
+    ],
+    "positions": {
+      "attal-gabriel": { "option": "barrieres-ciblees", "proposition": "attal-europe-01" },
+      "philippe-edouard": { "option": "barrieres-ciblees", "proposition": "philippe-europe-01" }
+    }
+  },
+  {
+    "id": "vie-republique",
+    "theme": "institutions",
+    "question": "Changer de République ?",
+    "options": [
+      { "id": "constituante", "label": "Convoquer une Assemblée constituante (VIe République)" },
+      { "id": "reformer", "label": "Réformer les institutions actuelles" },
+      { "id": "statu-quo", "label": "Conserver les institutions de la Ve République" }
+    ],
+    "positions": {
+      "melenchon-jean-luc": { "option": "constituante", "proposition": "melenchon-institutions-01" }
+    }
+  },
+  {
+    "id": "justice-fermete",
+    "theme": "securite-justice",
+    "question": "Quelle orientation pour la politique pénale ?",
+    "options": [
+      { "id": "fermete-peines-planchers", "label": "Peines planchers et automaticité des sanctions" },
+      { "id": "equilibre", "label": "Individualisation des peines, alternatives à l'incarcération" },
+      { "id": "prevention", "label": "Priorité à la prévention et à la réinsertion" }
+    ],
+    "positions": {
+      "philippe-edouard": { "option": "fermete-peines-planchers", "proposition": "philippe-securite-01" }
+    }
+  }
+]

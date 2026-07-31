@@ -1,0 +1,289 @@
+[
+  {
+    "id": "attal-travail-01",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Réduire les charges salariales pour faire monter le salaire net",
+    "resume": "Baisser les charges pesant sur les salariés afin d'augmenter le salaire net, en faisant reposer moins lourdement les dépenses sociales sur les actifs.",
+    "citation": "Nous y arriverons enfin en réduisant les charges salariales pour faire monter le salaire net. Nos dépenses sociales ne peuvent plus reposer autant sur les Français qui travaillent.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-travail-02",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Refondre le code du travail en « Constitution du travail »",
+    "resume": "Réécrire le code du travail, passé de 5 000 à 11 000 articles entre 2004 et 2025, autour de quelques articles fondamentaux, le reste étant renvoyé aux branches et aux entreprises.",
+    "citation": "Je propose que le Gouvernement, des experts et les partenaires sociaux réécrivent un code plus simple, structuré autour de quelques articles fondamentaux, une Constitution du travail.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-travail-03",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Supprimer le plafond annuel d'heures supplémentaires",
+    "resume": "Supprimer le plafond d'heures supplémentaires fixé par le code du travail, aujourd'hui de 220 heures par an et par salarié à défaut d'accord collectif.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-travail-04",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Réforme de l'assurance chômage incitant au travail",
+    "resume": "Réformer l'assurance chômage pour inciter au retour à l'emploi, avec un objectif annoncé de 100 000 emplois supplémentaires.",
+    "chiffrage": "+100 000 emplois (objectif annoncé)",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-retraites-01",
+    "candidat": "attal-gabriel",
+    "theme": "retraites",
+    "titre": "Déplacer le curseur de l'âge légal vers la durée de cotisation",
+    "resume": "Pour relever le taux d'emploi des seniors, l'enjeu ne serait plus l'âge de départ mais la durée de cotisation.",
+    "citation": "Pour augmenter le taux d'emploi des seniors, l'enjeu ne sera plus l'âge de départ à la retraite, mais la durée de cotisation.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-education-01",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Créer un livret d'épargne « garde d'enfant » et former 200 000 professionnels",
+    "resume": "Nouveau livret d'épargne sur le modèle du livret A pour financer des places en crèche, et formation de 200 000 professionnels de la petite enfance d'ici 2030.",
+    "chiffrage": "200 000 professionnels formés d'ici 2030 ; besoin estimé de 3 Md€ pour la garde d'enfants",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-education-02",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Démassifier l'enseignement supérieur et raccourcir les études initiales",
+    "resume": "Réduire l'écart de taux d'emploi des jeunes avec l'Allemagne en démassifiant l'enseignement supérieur, en valorisant les métiers manuels, techniques et industriels et en réduisant la durée initiale des études.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-immigration-01",
+    "candidat": "attal-gabriel",
+    "theme": "immigration",
+    "titre": "« Préférence travail » et système à points",
+    "resume": "Privilégier l'immigration de travail via un système à points inspiré du Canada (offre d'emploi stable, logement, maîtrise du français, connaissance et respect des valeurs), au détriment notamment du regroupement familial, qui devrait être mieux encadré et diminuer.",
+    "citation": "Accueillir moins pour accueillir mieux, privilégier l'immigration de travail au détriment d'autres types d'immigration comme le regroupement familial.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-defense-01",
+    "candidat": "attal-gabriel",
+    "theme": "defense",
+    "titre": "Amplifier le réarmement autour de quatre vecteurs de puissance",
+    "resume": "Poursuivre et amplifier la hausse de l'effort de défense en développant les capacités militaires, les réserves humaines et opérationnelles, l'outil industriel et les alliances. Soutien continu à l'Ukraine et dissuasion nucléaire présentée comme outil de puissance, y compris dans sa dimension « avancée ».",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-europe-01",
+    "candidat": "attal-gabriel",
+    "theme": "europe-international",
+    "titre": "Barrières commerciales ciblées face aux surcapacités chinoises",
+    "resume": "Taxes à l'importation ciblées sur les produits chinois vendus à perte (acier, voitures électriques, panneaux solaires), contrôle strict des investissements chinois dans les infrastructures sensibles, et extension automatique à toute l'UE des interdictions de marchés publics prononcées par un État membre.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-numerique-01",
+    "candidat": "attal-gabriel",
+    "theme": "numerique-ia",
+    "titre": "Former 20 millions de salariés à l'IA en cinq ans",
+    "resume": "Plan de formation à l'intelligence artificielle visant 20 millions de salariés sur cinq ans, l'IA étant l'un des quatre chantiers capitaux de la campagne.",
+    "chiffrage": "20 millions de salariés en 5 ans",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Chantier capital 04 — Intelligence artificielle", "url": "https://attalpresident.fr/programme/intelligence-artificielle", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme", "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html", "editeur": "Orange Actu", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "philippe-economie-01",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Pacte fiscal : 50 Md€ d'impôts de production en moins contre 50 Md€ d'aides publiques supprimées",
+    "resume": "Échanger 50 milliards d'euros de baisses d'impôts de production contre la suppression de 50 milliards d'euros d'aides publiques jugées improductives.",
+    "chiffrage": "50 Md€ / 50 Md€",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-economie-02",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Règle d'or constitutionnelle et déficit ramené à 2 % du PIB",
+    "resume": "Inscrire dans la Constitution une règle de maîtrise des déficits et ramener le déficit public de plus de 5 % à 2 % du PIB en fin de quinquennat.",
+    "chiffrage": "Déficit : > 5 % → 2 % du PIB en 5 ans",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-economie-03",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Moratoire normatif et fiscal sur le quinquennat",
+    "resume": "Aucune nouvelle norme ni nouvel impôt pendant la durée du quinquennat ; réorganisation de l'État par regroupement ou privatisation des agences et opérateurs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-retraites-01",
+    "candidat": "philippe-edouard",
+    "theme": "retraites",
+    "titre": "Travailler plus longtemps et créer un pilier de capitalisation",
+    "resume": "Garantir l'équilibre du système en travaillant plus tout en tenant compte de la diversité des carrières, créer un pilier de capitalisation représentant 10 à 15 % des pensions d'ici quinze ans, et confier la gestion du régime à l'équilibre aux partenaires sociaux.",
+    "chiffrage": "Capitalisation : 10-15 % des pensions d'ici 15 ans",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-sante-01",
+    "candidat": "philippe-edouard",
+    "theme": "sante",
+    "titre": "Stabiliser les dépenses de santé",
+    "resume": "Stabiliser les dépenses de santé en misant sur la prévention et les transformations technologiques plutôt que sur la seule hausse des moyens.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-securite-01",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "Courtes peines dès la première infraction et peines planchers",
+    "resume": "S'inspirer des pays du Nord en condamnant dès la première infraction à une peine courte et dissuasive, et instaurer des peines planchers pour les infractions les plus graves, en particulier contre les dépositaires de l'autorité publique.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-securite-02",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "Supprimer le juge d'application des peines",
+    "resume": "Supprimer le juge d'application des peines « afin de garantir que ce qu'un juge a décidé ne soit pas défait par un autre que lui », renforcer la responsabilité des juges et l'autorité du Garde des Sceaux sur le parquet, y compris par des instructions individuelles aux procureurs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-securite-03",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "« État d'urgence narco » et levée de l'excuse de minorité",
+    "resume": "Créer un régime d'exception limité dans le temps et l'espace contre le narcotrafic, allant jusqu'à l'usage ciblé de la reconnaissance faciale ; lever l'excuse de minorité pour les faits liés au narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-immigration-01",
+    "candidat": "philippe-edouard",
+    "theme": "immigration",
+    "titre": "Dénoncer l'accord franco-algérien de 1968 et instaurer des quotas",
+    "resume": "Dénoncer l'accord de 1968 avec l'Algérie, faire voter chaque année par le Parlement une liste de pays sûrs, restreindre l'immigration familiale, mettre en place des quotas d'immigration économique et expulser immédiatement les étrangers délinquants.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-defense-01",
+    "candidat": "philippe-edouard",
+    "theme": "defense",
+    "titre": "Porter la réserve de 45 000 à 250 000 personnes",
+    "resume": "Massifier les armées : réserve portée de 45 000 à 250 000, service militaire volontaire de 3 000 à 50 000 places par an, plan drones tactiques, plan munitions au-delà de 100 000 obus par an, renforcement de la flotte navale et nouvelle loi de programmation militaire « de la massification ».",
+    "chiffrage": "Réserve 45 000 → 250 000 ; SMV 3 000 → 50 000/an",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-europe-01",
+    "candidat": "philippe-edouard",
+    "theme": "europe-international",
+    "titre": "Achever le marché unique et créer une union des marchés de capitaux",
+    "resume": "Supprimer les spécifications nationales agissant comme des droits de douane à l'intérieur du marché unique, construire une union européenne des marchés de capitaux, et protéger le marché européen face à la concurrence chinoise (transferts de technologie, quotas de production, joint-ventures dans les secteurs stratégiques).",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-agriculture-01",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Zéro surtransposition agricole et 100 territoires de souveraineté alimentaire",
+    "resume": "Renforcer la compétitivité agricole : suppression des surtranspositions, plan de transmission et de modernisation, création de 100 territoires de souveraineté alimentaire, inscription du développement agricole dans la Charte de l'environnement.",
+    "chiffrage": "100 territoires de souveraineté alimentaire",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "melenchon-retraites-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "retraites",
+    "titre": "Retraite à 60 ans",
+    "resume": "Rétablissement du droit à la retraite à 60 ans, mesure présentée comme l'une des propositions phares du programme « L'Avenir en commun » (édition 2025), corpus de référence pour la candidature 2027.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "L'Avenir en commun, édition 2025", "url": "https://melenchon2027.fr/programme2025/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "melenchon-salaires-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "travail-salaires",
+    "titre": "SMIC à 1 600 € net",
+    "resume": "Porter le SMIC à 1 600 euros net, mesure phare affichée par le site officiel de campagne.",
+    "chiffrage": "SMIC 1 600 € net",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "L'Avenir en commun, édition 2025", "url": "https://melenchon2027.fr/programme2025/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "melenchon-institutions-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "institutions",
+    "titre": "VIe République par une Assemblée constituante",
+    "resume": "Convocation d'une Assemblée constituante pour instaurer une VIe République, chapitre « Le pouvoir au peuple » du programme.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "L'Avenir en commun — Chapitre 1 : Le pouvoir au peuple", "url": "https://melenchon2027.fr/programme2025/livre/chapitre1", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "melenchon-ecologie-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "ecologie",
+    "titre": "Planification écologique",
+    "resume": "Organisation de l'État et des territoires autour d'objectifs écologiques contraignants (« planification écologique » et « bifurcation écologique »), développée aux chapitres 12 à 14 du programme.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "L'Avenir en commun — Chapitre 12 : Planification écologique", "url": "https://melenchon2027.fr/programme2025/livre/chapitre12", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "retailleau-positionnement-01",
+    "candidat": "retailleau-bruno",
+    "theme": "securite-justice",
+    "titre": "Se présente comme « le président de l'ordre, de la justice et de la fierté française »",
+    "resume": "Positionnement de campagne annoncé lors de sa déclaration de candidature. Les mesures détaillées correspondantes n'étaient pas publiées sous forme de programme au 31 juillet 2026.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [{ "titre": "« Je serai le Président de l'ordre, de la justice et de la fierté française »", "url": "https://www.publicsenat.fr/actualites/politique/https-www-publicsenat-fr-actualites-politique-je-serai-le-president-de-lordre-de-la-justice-et-de-la-fierte-francaise-bruno-retailleau-se-declare-candidat-a-la-presidentielle-de-2027", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-07-31" }]
+  }
+]

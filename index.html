@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Programmes 2027 — Comparer les programmes de la présidentielle française</title>
+<meta name="description" content="Outil citoyen, ouvert et sourcé, pour comparer les programmes officiels des candidats à l'élection présidentielle française de 2027.">
+<meta property="og:title" content="Programmes 2027">
+<meta property="og:description" content="Comparer les programmes officiels des candidats à la présidentielle française de 2027. Chaque information est sourcée et datée.">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗳️</text></svg>">
+</head>
+<body>
+
+<a class="skip" href="#contenu">Aller au contenu</a>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="#/">
+      <span class="brand-mark" aria-hidden="true">🗳️</span>
+      <span>
+        <strong>Programmes 2027</strong>
+        <small>Présidentielle française · outil citoyen</small>
+      </span>
+    </a>
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="mainNav">☰<span class="sr-only">Menu</span></button>
+    <nav id="mainNav" aria-label="Navigation principale">
+      <a href="#/candidats" data-route="candidats">Candidats</a>
+      <a href="#/themes" data-route="themes">Thèmes</a>
+      <a href="#/comparateur" data-route="comparateur">Comparateur</a>
+      <a href="#/convergences" data-route="convergences">Accords &amp; désaccords</a>
+      <a href="#/methodologie" data-route="methodologie">Méthodologie</a>
+    </nav>
+  </div>
+</header>
+
+<main id="contenu" class="wrap" tabindex="-1">
+  <div id="app" aria-live="polite">
+    <p class="loading">Chargement des données…</p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>
+      <strong>Programmes 2027</strong> — projet ouvert et non partisan. Données sous licence CC BY-SA 4.0, code sous licence MIT.
+    </p>
+    <p class="muted" id="footerMeta"></p>
+    <p>
+      <a id="repoLink" href="https://github.com/maax6/programmes-2027">Code source et données sur GitHub</a> ·
+      <a href="#/methodologie">Méthodologie</a> ·
+      <a id="issueLink" href="https://github.com/maax6/programmes-2027/issues/new/choose">Signaler une erreur</a>
+    </p>
+    <p class="muted small">Ce site n'est affilié à aucun candidat, parti ou institution. Il ne formule aucune recommandation de vote.</p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

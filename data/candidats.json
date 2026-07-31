@@ -1,0 +1,537 @@
+[
+  {
+    "id": "arthaud-nathalie",
+    "nom": "Nathalie Arthaud",
+    "parti": "Lutte ouvrière",
+    "famille": "extreme-gauche",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#8b1a1a",
+    "site_officiel": "https://www.lutte-ouvriere.org/",
+    "programme_url": null,
+    "note": "Candidature portée par Lutte ouvrière, comme en 2012, 2017 et 2022.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "melenchon-jean-luc",
+    "nom": "Jean-Luc Mélenchon",
+    "parti": "La France insoumise",
+    "famille": "gauche",
+    "statut": "declare",
+    "date_declaration": "2026-05",
+    "etat_programme": "corpus-existant",
+    "couleur": "#cc2443",
+    "site_officiel": "https://melenchon2027.fr/",
+    "programme_url": "https://melenchon2027.fr/programme2025/livre/",
+    "note": "Quatrième candidature consécutive. Le programme de référence est « L'Avenir en commun », édition 2025, en cours d'actualisation pour 2027 via des contributions citoyennes et des auditions programmatiques.",
+    "sources": [
+      { "titre": "L'Avenir en commun, édition 2025", "url": "https://melenchon2027.fr/programme2025/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle : Jean-Luc Mélenchon officialise sa candidature pour 2027", "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "autain-clementine",
+    "nom": "Clémentine Autain",
+    "parti": "L'Après",
+    "famille": "gauche",
+    "statut": "conditionnel",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#e0517a",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Candidature initialement déposée dans le cadre d'une primaire de la gauche non-mélenchoniste, abandonnée le 9 juillet 2026 après le vote des militants socialistes en faveur d'une primaire fermée.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "ruffin-francois",
+    "nom": "François Ruffin",
+    "parti": "Debout",
+    "famille": "gauche",
+    "statut": "conditionnel",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#d94f3d",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "A déclaré qu'il serait candidat en l'absence de primaire de la gauche : « S'il n'y a pas de primaire, moi j'y vais ».",
+    "sources": [
+      { "titre": "Présidentielle 2027 : « S'il n'y a pas de primaire, moi j'y vais », annonce François Ruffin", "url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "tondelier-marine",
+    "nom": "Marine Tondelier",
+    "parti": "Les Écologistes",
+    "famille": "gauche",
+    "statut": "conditionnel",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#2e9e5b",
+    "site_officiel": "https://lesecologistes.fr/",
+    "programme_url": null,
+    "note": "Investie par son parti dans la perspective d'une primaire de la gauche et des écologistes, abandonnée en juillet 2026. Les Écologistes doivent redéfinir leur stratégie.",
+    "sources": [
+      { "titre": "« Les adhérents du PS ont décidé d'enterrer la primaire » : Marine Tondelier acte la rupture", "url": "https://lcp.fr/actualites/les-adherents-du-ps-ont-decide-d-enterrer-la-primaire-marine-tondelier-acte-la-rupture", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "batho-delphine",
+    "nom": "Delphine Batho",
+    "parti": "Génération Écologie",
+    "famille": "gauche",
+    "statut": "declare",
+    "date_declaration": "2025-11-25",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#3fa96b",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Candidate « pour reconstruire une écologie capable de gouverner ».",
+    "sources": [
+      { "titre": "Delphine Batho : « Je suis candidate à l'élection présidentielle »", "url": "https://www.nouvelobs.com/politique/20251125.OBS110076/delphine-batho-je-suis-candidate-a-l-election-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner.html", "editeur": "L'Obs", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "roussel-fabien",
+    "nom": "Fabien Roussel",
+    "parti": "Parti communiste français",
+    "famille": "gauche",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#b5233a",
+    "site_officiel": "https://www.pcf.fr/",
+    "programme_url": null,
+    "note": "Candidat en 2022. En juin 2026, plus de 60 % des militants PCF ont validé un texte affirmant la légitimité d'une candidature communiste.",
+    "sources": [
+      { "titre": "PCF : la ligne de la direction sortante confortée", "url": "https://www.humanite.fr/politique/40e-congres-du-pcf-2026/pcf-la-ligne-de-la-direction-sortante-confortee", "editeur": "L'Humanité", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "guedj-jerome",
+    "nom": "Jérôme Guedj",
+    "parti": "Parti socialiste",
+    "famille": "gauche",
+    "statut": "declare",
+    "date_declaration": "2026-02-05",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#e8546a",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Candidat pour représenter une « gauche républicaine », « universaliste » et « laïque ».",
+    "sources": [
+      { "titre": "L'invité de 7h50 du jeudi 5 février 2026", "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-jeudi-05-fevrier-2026-7548548", "editeur": "France Inter", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "bouamrane-karim",
+    "nom": "Karim Bouamrane",
+    "parti": "Parti socialiste",
+    "famille": "gauche",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#f0708a",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Maire de Saint-Ouen, candidat « pour une France humaine et une France forte ».",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "royal-segolene",
+    "nom": "Ségolène Royal",
+    "parti": "Parti socialiste",
+    "famille": "gauche",
+    "statut": "conditionnel",
+    "date_declaration": "2026-07-10",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#ef7d95",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Candidate à la primaire fermée du Parti socialiste, annoncée le 10 juillet 2026.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : Ségolène Royal annonce sa candidature à la primaire socialiste", "url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "glucksmann-raphael",
+    "nom": "Raphaël Glucksmann",
+    "parti": "Place publique",
+    "famille": "gauche",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#d9587f",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "A lancé une dynamique de campagne lors d'un meeting le 13 juin 2026 sans officialiser sa candidature. Place publique pourrait participer à la primaire fermée du PS.",
+    "sources": [
+      { "titre": "« Gagner en 2027 » : Raphaël Glucksmann lance sa campagne", "url": "https://lcp.fr/actualites/gagner-en-2027-raphael-glucksmann-lance-sa-campagne-et-veut-ramener-la-gauche-au-pouvoir", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "faure-olivier",
+    "nom": "Olivier Faure",
+    "parti": "Parti socialiste",
+    "famille": "gauche",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#e8829b",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Premier secrétaire du PS, désavoué lors du vote militant du 9 juillet 2026 ; doit annoncer s'il participe à la primaire.",
+    "sources": [
+      { "titre": "Présidentielle : le PS se prononce pour une primaire fermée, un désaveu pour Olivier Faure", "url": "https://lcp.fr/actualites/presidentielle-le-ps-se-prononce-pour-une-primaire-fermee-un-desaveu-pour-olivier-faure", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "vallaud-boris",
+    "nom": "Boris Vallaud",
+    "parti": "Parti socialiste",
+    "famille": "gauche",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#e693a9",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Président du groupe Socialistes à l'Assemblée nationale.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : trois questions pour comprendre la crise au Parti socialiste", "url": "https://lcp.fr/actualites/presidentielle-2027-trois-questions-pour-comprendre-la-crise-au-parti-socialiste-436261", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "hollande-francois",
+    "nom": "François Hollande",
+    "parti": "Parti socialiste",
+    "famille": "gauche",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#c96585",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Ancien président de la République (2012-2017). Se prépare en coulisses sans avoir officialisé de candidature.",
+    "sources": [
+      { "titre": "François Hollande : lui candidat ? Comment il accélère en coulisses pour la présidentielle", "url": "https://lcp.fr/actualites/francois-hollande-lui-candidat-comment-il-accelere-en-coulisses-pour-la-presidentielle", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "cazeneuve-bernard",
+    "nom": "Bernard Cazeneuve",
+    "parti": "La Convention",
+    "famille": "gauche",
+    "statut": "declare",
+    "date_declaration": "2026-07-16",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#9e6f9e",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Ancien Premier ministre. S'est déclaré candidat dans un entretien au Parisien le 16 juillet 2026 et a décliné la primaire socialiste.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : qui sont les candidats officiellement déclarés", "url": "https://www.france24.com/fr/france/20260524-france-presidentielle-2027-qui-sont-les-candidats-officiellement-declares", "editeur": "France 24", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "attal-gabriel",
+    "nom": "Gabriel Attal",
+    "parti": "Renaissance",
+    "famille": "centre",
+    "statut": "declare",
+    "date_declaration": "2026-05-22",
+    "etat_programme": "orientations",
+    "couleur": "#f2a33c",
+    "site_officiel": "https://attalpresident.fr/",
+    "programme_url": "https://attalpresident.fr/programme",
+    "note": "Ancien Premier ministre. Campagne structurée autour de quatre « chantiers capitaux » (école, travail et salaires, frontières, intelligence artificielle) et deux « dettes à résorber » (dette de l'État, dette écologique). Le programme détaillé est annoncé comme à venir.",
+    "sources": [
+      { "titre": "Mes chantiers capitaux", "url": "https://attalpresident.fr/programme", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : Gabriel Attal officialise sa candidature", "url": "https://lcp.fr/actualites/presidentielle-2027-gabriel-attal-officialise-sa-candidature-436721", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "philippe-edouard",
+    "nom": "Édouard Philippe",
+    "parti": "Horizons",
+    "famille": "centre",
+    "statut": "declare",
+    "date_declaration": "2024-09-03",
+    "etat_programme": "orientations",
+    "couleur": "#2f6fb5",
+    "site_officiel": "https://www.edouardphilippe.fr/",
+    "programme_url": "https://www.edouardphilippe.fr/#priorites",
+    "note": "Ancien Premier ministre, premier candidat déclaré (septembre 2024). Quatre priorités publiées : une France plus sûre, plus attentive à ses enfants, plus prospère, plus conquérante. Ces pages sont présentées comme « les premières orientations » du programme.",
+    "sources": [
+      { "titre": "Les priorités d'Édouard Philippe", "url": "https://www.edouardphilippe.fr/#priorites", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" },
+      { "titre": "Édouard Philippe : « Je serai candidat à la prochaine élection présidentielle »", "url": "https://www.lepoint.fr/politique/exclusif-edouard-philippe-je-serai-candidat-a-la-prochaine-election-presidentielle-03-09-2024-2569359_20.php", "editeur": "Le Point", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "borne-elisabeth",
+    "nom": "Élisabeth Borne",
+    "parti": "Renaissance",
+    "famille": "centre",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#f6bb6a",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Ancienne Première ministre. A quitté la direction de Renaissance en mai 2026 et publié un livre, « Réveillons-nous ! », sans annoncer de candidature.",
+    "sources": [
+      { "titre": "L'invité de 8h20 du mercredi 6 mai 2026", "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-du-mercredi-06-mai-2026-8151349", "editeur": "France Inter", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "villepin-dominique",
+    "nom": "Dominique de Villepin",
+    "parti": "La France humaniste",
+    "famille": "centre",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#5b8fb9",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Ancien Premier ministre. Non officiellement candidat ; affirme avoir organisé une équipe dédiée à la collecte des 500 parrainages.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "le-maire-bruno",
+    "nom": "Bruno Le Maire",
+    "parti": "Renaissance",
+    "famille": "centre",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#e9a95f",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Ancien ministre de l'Économie. A indiqué qu'il annoncerait sa décision « en octobre » 2026.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : Bruno Le Maire dira « en octobre » s'il est candidat", "url": "https://lcp.fr/actualites/presidentielle-2027-bruno-le-maire-dira-en-octobre-s-il-est-candidat-437967", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "darmanin-gerald",
+    "nom": "Gérald Darmanin",
+    "parti": "Renaissance",
+    "famille": "droite",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#c98b4b",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Ministre de la Justice ; candidature évoquée mais non officialisée.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "retailleau-bruno",
+    "nom": "Bruno Retailleau",
+    "parti": "Les Républicains",
+    "famille": "droite",
+    "statut": "declare",
+    "date_declaration": "2026-04",
+    "etat_programme": "orientations",
+    "couleur": "#2b5f9e",
+    "site_officiel": "https://www.avecretailleau.fr/",
+    "programme_url": null,
+    "note": "Désigné candidat des Républicains par vote des adhérents à la mi-avril 2026 ; campagne lancée le 20 juin 2026 au Parc floral de Paris. Aucun document programmatique complet n'était publié sur son site officiel au 31 juillet 2026 : les éléments ci-dessous proviennent d'entretiens et de discours.",
+    "sources": [
+      { "titre": "Présidentielle : Bruno Retailleau choisi comme candidat officiel des Républicains", "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-choisi-comme-candidat-officiel-des-republicains-435440", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Site officiel Avec Retailleau", "url": "https://www.avecretailleau.fr/", "editeur": "avecretailleau.fr", "type": "officiel", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "bertrand-xavier",
+    "nom": "Xavier Bertrand",
+    "parti": "Nous France",
+    "famille": "droite",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#4478b5",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Président de la région Hauts-de-France.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "lisnard-david",
+    "nom": "David Lisnard",
+    "parti": "Nouvelle Énergie",
+    "famille": "droite",
+    "statut": "declare",
+    "date_declaration": "2026-03",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#5a8ec4",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Maire de Cannes ; a quitté Les Républicains fin mars 2026 en officialisant sa candidature.",
+    "sources": [
+      { "titre": "« Je suis candidat » : David Lisnard quitte LR et relance le débat sur une primaire à droite", "url": "https://lcp.fr/actualites/je-suis-candidat-david-lisnard-quitte-lr-et-relance-le-debat-sur-une-primaire-a-droite", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-nicolas",
+    "nom": "Nicolas Dupont-Aignan",
+    "parti": "Debout la France",
+    "famille": "droite",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#1f4e79",
+    "site_officiel": "https://www.debout-la-france.fr/",
+    "programme_url": null,
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "le-pen-marine",
+    "nom": "Marine Le Pen",
+    "parti": "Rassemblement national",
+    "famille": "extreme-droite",
+    "statut": "declare",
+    "date_declaration": "2023-09",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#1b3f6e",
+    "site_officiel": "https://rassemblementnational.fr/",
+    "programme_url": null,
+    "note": "Candidature confirmée le 7 juillet 2026, le soir de sa condamnation en appel dans l'affaire des assistants parlementaires du FN : la peine d'inéligibilité, ramenée à 15 mois fermes déjà exécutés, ne fait pas obstacle à sa candidature. Elle s'est pourvue en cassation. Aucun programme 2027 n'était publié à la date de consultation.",
+    "sources": [
+      { "titre": "Procès des assistants du RN : Marine Le Pen condamnée en appel, mais éligible à l'élection présidentielle 2027", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/", "editeur": "Touteleurope.eu", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Inéligibilité, peine de prison… Pourquoi la condamnation de Marine Le Pen a été réduite en appel", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/ineligibilite-peine-de-prison-pourquoi-la-condamnation-de-marine-le-pen-a-ete-reduite-en-appel_8098121.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "zemmour-eric",
+    "nom": "Éric Zemmour",
+    "parti": "Reconquête",
+    "famille": "extreme-droite",
+    "statut": "conditionnel",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#3a3a6e",
+    "site_officiel": "https://www.parti-reconquete.fr/",
+    "programme_url": null,
+    "note": "A déclaré : « S'il n'y a pas de primaire, je serai candidat. S'il y en a, je serai candidat à la primaire. »",
+    "sources": [
+      { "titre": "Éric Zemmour affirme sur RTL qu'il se prépare à la présidentielle 2027", "url": "https://www.rtl.fr/actu/politique/s-il-n-y-a-pas-de-primaire-je-serai-candidat-eric-zemmour-affirme-sur-rtl-qu-il-se-prepare-a-la-presidentielle-2027-malgre-la-percee-magnifique-de-sarah-knafo-7900630227", "editeur": "RTL", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "philippot-florian",
+    "nom": "Florian Philippot",
+    "parti": "Les Patriotes",
+    "famille": "extreme-droite",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#2a2a52",
+    "site_officiel": "https://les-patriotes.fr/",
+    "programme_url": null,
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "asselineau-francois",
+    "nom": "François Asselineau",
+    "parti": "Union populaire républicaine",
+    "famille": "divers",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#6b6b8f",
+    "site_officiel": "https://www.upr.fr/",
+    "programme_url": null,
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "egger-clara",
+    "nom": "Clara Egger",
+    "parti": "Solution démocratique",
+    "famille": "divers",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#7d7d9e",
+    "site_officiel": "https://solutiondemocratique.fr/",
+    "programme_url": null,
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "mikolajczak-antoine",
+    "nom": "Antoine Mikolajczak",
+    "parti": "Équinoxe",
+    "famille": "divers",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#4f8f8f",
+    "site_officiel": null,
+    "programme_url": null,
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "massard-lydie",
+    "nom": "Lydie Massard",
+    "parti": "Union démocratique bretonne",
+    "famille": "gauche",
+    "statut": "conditionnel",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#57a08a",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Candidature déposée dans le cadre de la primaire de la gauche, désormais abandonnée.",
+    "sources": [
+      { "titre": "La Pontivyenne Lydie Massard candidate à la primaire de la gauche", "url": "https://www.letelegramme.fr/morbihan/pontivy-56300/la-pontivyenne-lydie-massard-candidate-a-la-primaire-de-la-gauche-pour-la-prochaine-presidentielle-7017809.php", "editeur": "Le Télégramme", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "brun-philippe",
+    "nom": "Philippe Brun",
+    "parti": "Parti socialiste",
+    "famille": "gauche",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#e0768d",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Député ; veut être « le candidat des salaires ».",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "becht-olivier",
+    "nom": "Olivier Becht",
+    "parti": "Apparenté Ensemble pour la République",
+    "famille": "centre",
+    "statut": "pressenti",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#f0c68a",
+    "site_officiel": null,
+    "programme_url": null,
+    "sources": [
+      { "titre": "Présidentielle 2027 : Olivier Becht envisage une candidature", "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-ancien-ministre-et-camarade-de-macron-a-l-ena-olivier-becht-envisage-une-candidature_AN-202606160283.html", "editeur": "BFMTV", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "lucas-benjamin",
+    "nom": "Benjamin Lucas",
+    "parti": "Générations",
+    "famille": "gauche",
+    "statut": "retire",
+    "date_retrait": "2026-07-07",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#8fbf9f",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "A renoncé le 7 juillet 2026, « prenant acte qu'il n'y aura pas de primaire ».",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  }
+]

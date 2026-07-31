@@ -1,0 +1,16 @@
+[
+  { "id": "institutions", "nom": "Institutions & démocratie", "icone": "⚖️", "description": "Constitution, référendum, mode de scrutin, décentralisation." },
+  { "id": "economie", "nom": "Économie & finances publiques", "icone": "📊", "description": "Dette, déficit, dépense publique, compétitivité, industrie." },
+  { "id": "travail-salaires", "nom": "Travail & salaires", "icone": "🛠️", "description": "SMIC, salaires, code du travail, chômage, temps de travail." },
+  { "id": "retraites", "nom": "Retraites", "icone": "🕰️", "description": "Âge légal, durée de cotisation, capitalisation, financement." },
+  { "id": "fiscalite", "nom": "Fiscalité", "icone": "🧾", "description": "Impôt sur le revenu, ISF, successions, impôts de production, TVA." },
+  { "id": "sante", "nom": "Santé & protection sociale", "icone": "🏥", "description": "Hôpital, déserts médicaux, Sécurité sociale, dépendance." },
+  { "id": "education", "nom": "Éducation & jeunesse", "icone": "🎓", "description": "École, enseignement supérieur, petite enfance, formation." },
+  { "id": "ecologie", "nom": "Écologie & énergie", "icone": "🌍", "description": "Climat, nucléaire, renouvelables, biodiversité, agriculture durable." },
+  { "id": "immigration", "nom": "Immigration & intégration", "icone": "🛂", "description": "Flux migratoires, asile, regroupement familial, naturalisation." },
+  { "id": "securite-justice", "nom": "Sécurité & justice", "icone": "🚓", "description": "Police, prisons, peines, narcotrafic, justice des mineurs." },
+  { "id": "defense", "nom": "Défense & souveraineté", "icone": "🛡️", "description": "Armées, dissuasion, réserve, industrie de défense, cyber." },
+  { "id": "europe-international", "nom": "Europe & international", "icone": "🇪🇺", "description": "Union européenne, traités, diplomatie, commerce, alliances." },
+  { "id": "logement", "nom": "Logement & territoires", "icone": "🏘️", "description": "Construction, loyers, ruralité, aménagement." },
+  { "id": "numerique-ia", "nom": "Numérique & IA", "icone": "🤖", "description": "Intelligence artificielle, souveraineté technologique, réseaux sociaux." }
+]

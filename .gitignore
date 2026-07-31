@@ -1,0 +1,5 @@
+# Visuels générés : ils se reconstruisent depuis data/*.json
+social/out/
+
+.DS_Store
+node_modules/

@@ -1,0 +1,46 @@
+name: Ajouter une proposition ou un candidat
+description: Signaler un programme publié, une mesure manquante ou une nouvelle candidature.
+title: "[Ajout] "
+labels: ["ajout"]
+body:
+  - type: dropdown
+    id: nature
+    attributes:
+      label: Nature de l'ajout
+      options:
+        - Une proposition d'un candidat déjà listé
+        - Un programme complet qui vient d'être publié
+        - Un nouveau candidat ou prétendant
+        - Un changement de statut (déclaration, retrait, désignation)
+        - Une question clé à ajouter au comparateur
+    validations:
+      required: true
+  - type: input
+    id: candidat
+    attributes:
+      label: Candidat concerné
+    validations:
+      required: true
+  - type: textarea
+    id: contenu
+    attributes:
+      label: Contenu
+      description: Décrivez la mesure ou le changement dans le vocabulaire du candidat, sans reformulation orientée.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: |
+        URL, éditeur, date. Les sites agrégateurs de programmes et les encyclopédies collaboratives ne sont pas des sources acceptables — remontez au document d'origine.
+    validations:
+      required: true
+  - type: checkboxes
+    id: symetrie
+    attributes:
+      label: Équilibre de traitement
+      options:
+        - label: S'il s'agit d'une question clé, j'ai cherché la position des autres candidats principaux sur cette même question (charte, règle 5).
+        - label: Je déclare mon éventuel lien avec une campagne, un parti ou un candidat dans ce ticket.
+          required: true

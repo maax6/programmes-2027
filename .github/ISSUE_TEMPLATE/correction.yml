@@ -1,0 +1,46 @@
+name: Corriger une erreur
+description: Une donnée fausse, une citation tronquée, une source périmée ou un lien mort.
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci. Les corrections sont la raison d'être de ce dépôt.
+        Une correction accompagnée d'une source officielle est traitée en priorité.
+  - type: input
+    id: emplacement
+    attributes:
+      label: Où se trouve l'erreur ?
+      description: Page du site, identifiant de la proposition ou du candidat, fichier JSON concerné.
+      placeholder: "propositions.json → attal-travail-01, ou page /candidat/philippe-edouard"
+    validations:
+      required: true
+  - type: textarea
+    id: probleme
+    attributes:
+      label: Ce qui est affiché aujourd'hui, et pourquoi c'est faux
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Ce qui devrait être affiché
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: URL, éditeur, date de publication. Une source officielle du candidat est préférable à un article de presse.
+      placeholder: |
+        https://exemple.fr/programme — Site officiel du candidat, publié le 12 septembre 2026
+    validations:
+      required: true
+  - type: checkboxes
+    id: conflit
+    attributes:
+      label: Déclaration
+      options:
+        - label: Je déclare mon éventuel lien avec une campagne, un parti ou un candidat dans ce ticket (voir la charte, point 8).
+          required: true

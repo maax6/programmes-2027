@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Charte éditoriale
+    url: https://github.com/maax6/programmes-2027/blob/main/CHARTE.md
+    about: Les règles de neutralité et de sourcing qui s'imposent à tous, y compris aux mainteneurs.
+  - name: Guide de contribution
+    url: https://github.com/maax6/programmes-2027/blob/main/CONTRIBUTING.md
+    about: Comment ajouter une proposition, un candidat ou une question clé.

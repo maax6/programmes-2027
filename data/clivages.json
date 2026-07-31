@@ -100,7 +100,7 @@
     "question": "Dénoncer l'accord franco-algérien de 1968 ?",
     "options": [
       { "id": "denoncer", "label": "Le dénoncer" },
-      { "id": "renegocier", "label": "Lerenégocier" },
+      { "id": "renegocier", "label": "Le renégocier" },
       { "id": "maintenir", "label": "Le maintenir" }
     ],
     "positions": {

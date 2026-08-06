@@ -44,15 +44,19 @@ jobs:
           cp .nojekyll _site/
           cp -r assets _site/
           cp -r data _site/
-          # Domaine personnalisé : recopié s'il existe, sans quoi l'artefact
-          # écraserait le réglage à chaque déploiement.
-          [ -f CNAME ] && cp CNAME _site/ || true
           echo "Contenu publié :"
           find _site -type f | sort
 
+      # enablement: true règle la source de Pages sur « GitHub Actions » via
+      # l'API. Sans cela, le déploiement échoue tant que le réglage n'a pas
+      # été fait à la main dans Settings → Pages.
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+
       - id: deployment
         uses: actions/deploy-pages@v4

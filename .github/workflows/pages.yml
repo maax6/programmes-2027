@@ -10,9 +10,11 @@ permissions:
   pages: write
   id-token: write
 
+# Un seul déploiement à la fois, mais on n'interrompt jamais celui qui est en
+# cours : les runs déclenchés entre-temps sont mis en file d'attente.
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   validate:
@@ -32,9 +34,25 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+
+      # Le site publié se limite à ce qu'il sert. Les sources de données
+      # (scripts/, social/) et l'historique git restent hors de l'artefact.
+      - name: Assembler le site
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp .nojekyll _site/
+          cp -r assets _site/
+          cp -r data _site/
+          # Domaine personnalisé : recopié s'il existe, sans quoi l'artefact
+          # écraserait le réglage à chaque déploiement.
+          [ -f CNAME ] && cp CNAME _site/ || true
+          echo "Contenu publié :"
+          find _site -type f | sort
+
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: _site
       - id: deployment
         uses: actions/deploy-pages@v4

@@ -123,7 +123,34 @@ main{padding-top:2rem}
 .sources a{color:var(--ink-soft)}
 
 /* tables */
-.table-scroll{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface)}
+.table-scroll{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);
+  /* empeche le geste « deux doigts » de declencher la navigation arriere */
+  overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+.table-scroll::-webkit-scrollbar{height:11px}
+.table-scroll::-webkit-scrollbar-track{background:transparent}
+.table-scroll::-webkit-scrollbar-thumb{background:var(--line-strong);border-radius:6px;border:3px solid var(--surface)}
+.table-scroll::-webkit-scrollbar-thumb:hover{background:var(--ink-faint)}
+
+/* Comparateur : les colonnes gardent leur largeur au lieu de se comprimer,
+   ce qui fait apparaitre le defilement horizontal des 5-6 candidats. */
+/* Le conteneur devient la fenetre de defilement dans les DEUX axes. C'est la
+   condition pour que thead reste colle en haut : avec overflow-x:auto, l'axe Y
+   passe implicitement en auto, et un sticky top:0 se cale sur ce conteneur, pas
+   sur la fenetre du navigateur. On lui donne donc la hauteur de l'ecran. */
+.table-scroll.cmp{max-height:calc(100vh - 96px);max-height:calc(100dvh - 96px);overflow:auto}
+.table-scroll.cmp>table{width:auto;min-width:100%}
+/* ligne d'en-tete figee en haut, ombre plutot que bordure : une bordure sur un
+   element sticky se derobe pendant le defilement sur certains moteurs */
+.table-scroll.cmp thead th{box-shadow:0 2px 0 var(--line-strong)}
+/* la cellule d'angle cumule les deux axes et passe au-dessus du reste */
+.table-scroll.cmp thead th:first-child{z-index:3;box-shadow:1px 0 0 var(--line),0 2px 0 var(--line-strong)}
+.table-scroll.cmp th,.table-scroll.cmp td{min-width:250px}
+.table-scroll.cmp th:first-child,.table-scroll.cmp .rowhead{
+  position:sticky;left:0;min-width:190px;background:var(--surface);
+  box-shadow:1px 0 0 var(--line);z-index:2}
+.table-scroll.cmp thead th:first-child{z-index:3}
+@media (max-width:640px){.table-scroll.cmp th,.table-scroll.cmp td{min-width:210px}
+  .table-scroll.cmp th:first-child,.table-scroll.cmp .rowhead{min-width:130px}}
 table{border-collapse:collapse;width:100%;font-size:.92rem}
 th,td{text-align:left;padding:11px 13px;border-bottom:1px solid var(--line);vertical-align:top}
 thead th{position:sticky;top:0;background:var(--surface);font-size:.8rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-faint);border-bottom:2px solid var(--line-strong);z-index:1}

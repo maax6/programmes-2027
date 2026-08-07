@@ -269,6 +269,21 @@
     </div>`;
   }
 
+  /* Defilement horizontal : le trackpad (deux doigts) et les molettes
+     horizontales emettent deja deltaX, gere nativement par overflow-x.
+     On n'ajoute que le cas d'une molette verticale seule, via Maj. */
+  function enableHScroll(el) {
+    if (!el || el.dataset.hscroll) return;
+    el.dataset.hscroll = '1';
+    el.addEventListener('wheel', (e) => {
+      if (e.deltaX !== 0 || !e.shiftKey) return;
+      const max = el.scrollWidth - el.clientWidth;
+      if (max <= 0) return;
+      e.preventDefault();
+      el.scrollLeft += e.deltaY;
+    }, { passive: false });
+  }
+
   function vueComparateur(query) {
     const preselect = (query.get('c') || '').split(',').filter(Boolean);
     const eligibles = DB.candidats.filter((c) => c.statut !== 'retire');
@@ -278,7 +293,7 @@
       <h1>Comparateur</h1>
       <p class="lead muted">Sélectionnez les candidats à mettre côte à côte. Le tableau n'affiche que des positions sourcées ; une case vide signifie « aucune position publique documentée à ce jour ».</p>
       <fieldset>
-        <legend>Candidats (6 maximum)</legend>
+        <legend>Candidats <span class="muted small" id="cmpCount"></span></legend>
         <div class="checks" id="cmpChecks">
           ${eligibles.map((c) => `<label class="check">
             <input type="checkbox" value="${esc(c.id)}" ${selected.has(c.id) ? 'checked' : ''}>
@@ -287,8 +302,8 @@
           </label>`).join('')}
         </div>
         <div class="row" style="margin-top:12px">
-          <button class="btn" id="cmpClear">Tout décocher</button>
-          <button class="btn" id="cmpDocumented">Ceux qui ont des données</button>
+          <button class="btn" id="cmpClear" type="button">Tout décocher</button>
+          <button class="btn" id="cmpDocumented" type="button">Ceux qui ont des données</button>
         </div>
       </fieldset>
       <div id="cmpOut"></div>`;
@@ -297,20 +312,51 @@
       const box = document.getElementById('cmpChecks');
       const out = document.getElementById('cmpOut');
       if (!box) return;
+      const btnAll = document.getElementById('cmpClear');
+      const btnDoc = document.getElementById('cmpDocumented');
+      const countEl = document.getElementById('cmpCount');
+      const inputs = () => [...box.querySelectorAll('input')];
+      const documente = (id) => propsFor(id).length > 0;
+
+      /* Les deux boutons sont des bascules : leur libelle decrit ce que fera
+         le prochain clic, en fonction de la selection courante. */
+      const syncBoutons = (ids) => {
+        const total = inputs().length;
+        btnAll.textContent = ids.length === 0 ? 'Tout cocher' : 'Tout décocher';
+        const avecDonnees = inputs().map((i) => i.value).filter(documente);
+        const estSelectionDocumentee = avecDonnees.length > 0
+          && ids.length === avecDonnees.length
+          && avecDonnees.every((id) => ids.includes(id));
+        btnDoc.textContent = estSelectionDocumentee ? 'Ceux sans données' : 'Ceux qui ont des données';
+        btnDoc.dataset.inverse = estSelectionDocumentee ? '1' : '';
+        countEl.textContent = `— ${ids.length} sur ${total} sélectionné${ids.length > 1 ? 's' : ''}`;
+      };
+
       const render = () => {
-        const ids = [...box.querySelectorAll('input:checked')].map((i) => i.value).slice(0, 6);
+        const ids = inputs().filter((i) => i.checked).map((i) => i.value);
         out.innerHTML = ids.length < 1
           ? `<div class="empty-state">Sélectionnez au moins un candidat.</div>`
           : tableauComparatif(ids);
+        syncBoutons(ids);
         const q = new URLSearchParams(); if (ids.length) q.set('c', ids.join(','));
         history.replaceState(null, '', `#/comparateur${ids.length ? '?' + q : ''}`);
+        enableHScroll(out.querySelector('.table-scroll'));
       };
+
       box.addEventListener('change', render);
-      document.getElementById('cmpClear').onclick = () => { box.querySelectorAll('input').forEach((i) => (i.checked = false)); render(); };
-      document.getElementById('cmpDocumented').onclick = () => {
-        box.querySelectorAll('input').forEach((i) => (i.checked = propsFor(i.value).length > 0));
+
+      btnAll.onclick = () => {
+        const rienCoche = inputs().every((i) => !i.checked);
+        inputs().forEach((i) => (i.checked = rienCoche));
         render();
       };
+
+      btnDoc.onclick = () => {
+        const inverse = btnDoc.dataset.inverse === '1';
+        inputs().forEach((i) => (i.checked = inverse ? !documente(i.value) : documente(i.value)));
+        render();
+      };
+
       render();
     }, 0);
 
@@ -331,7 +377,8 @@
 
     const vides = DB.themes.length - blocs.length;
 
-    return `<div class="table-scroll"><table>
+    return `${cands.length > 4 ? `<p class="muted small" style="margin:0 0 8px">${cands.length} colonnes. Défilement horizontal : deux doigts sur le trackpad, molette horizontale, ou Maj + molette. La colonne des thèmes et la ligne des candidats restent fixes.</p>` : ''}
+      <div class="table-scroll cmp"><table>
         <thead><tr><th>Thème</th>${cands.map((c) => `<th><span class="dot" style="--c:${esc(c.couleur)};display:inline-block;margin-right:6px"></span>${esc(c.nom)}<br><span class="muted small" style="font-weight:400;text-transform:none;letter-spacing:0">${esc(c.parti)}</span></th>`).join('')}</tr></thead>
         <tbody>${blocs.join('') || `<tr><td colspan="${cands.length + 1}" class="empty">Aucune donnée pour cette sélection.</td></tr>`}</tbody>
       </table></div>
@@ -476,6 +523,7 @@
     }
 
     app.innerHTML = html;
+    app.querySelectorAll('.table-scroll').forEach(enableHScroll);
     document.querySelectorAll('nav a').forEach((a) => a.classList.toggle('active', a.dataset.route === active));
     document.getElementById('mainNav')?.classList.remove('open');
     document.getElementById('navToggle')?.setAttribute('aria-expanded', 'false');

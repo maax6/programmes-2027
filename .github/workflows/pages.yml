@@ -20,8 +20,8 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
           node-version: '20'
       - run: node scripts/validate.mjs
@@ -33,7 +33,7 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # Le site publié se limite à ce qu'il sert. Les sources de données
       # (scripts/, social/) et l'historique git restent hors de l'artefact.
@@ -47,12 +47,7 @@ jobs:
           echo "Contenu publié :"
           find _site -type f | sort
 
-      # enablement: true règle la source de Pages sur « GitHub Actions » via
-      # l'API. Sans cela, le déploiement échoue tant que le réglage n'a pas
-      # été fait à la main dans Settings → Pages.
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:

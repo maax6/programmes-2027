@@ -12,6 +12,8 @@ Hiérarchie des sources, dans cet ordre :
 2. **Média identifié** — entretien, compte rendu ou verbatim publié par une rédaction identifiable. Utilisable, marqué `source-media`.
 3. **Agrégateur ou site tiers** — **jamais comme source unique.** Les sites comparateurs, générateurs de contenu et encyclopédies collaboratives peuvent servir de piste, jamais de preuve. Toute donnée qui n'a pu être remontée à un niveau 1 ou 2 est rejetée.
 
+Cette règle vise le **rôle** joué par un site, pas son type. Un site de candidat qui publie un comparateur des programmes des autres candidats est une source de niveau 1 **pour son seul candidat**, et jamais pour les autres, quelle que soit la qualité apparente de sa page comparative.
+
 Une source qui disparaît doit être remplacée ou l'entrée retirée. Le lien vers une archive est acceptable si l'original a été supprimé, à condition de le signaler.
 
 ## 2. Le vide est une information
@@ -25,6 +27,8 @@ L'absence de position est affichée comme telle. Elle n'est jamais comblée :
 
 Un candidat qui ne s'est pas prononcé publiquement sur une question apparaît comme non documenté. C'est souvent l'information la plus utile pour un électeur.
 
+Un site qui annonce un programme ne vaut pas programme publié. Tant qu'aucune page de programme n'est accessible, `programme_url` reste vide.
+
 ## 3. Pas de reformulation orientée
 
 Les résumés reprennent le vocabulaire du candidat, y compris quand ce vocabulaire est lui-même un choix politique. Quand une formulation est disputée ou porteuse d'enjeu, la citation textuelle est affichée à côté du résumé pour que le lecteur juge de l'écart.
@@ -33,9 +37,11 @@ Interdits : adverbes d'appréciation (« seulement », « pas moins de », « pr
 
 ## 4. Pas d'évaluation
 
-Le site ne dit pas si une mesure est bonne, réaliste, finaçable, constitutionnelle ou compatible avec le droit européen. Il ne note pas les candidats. Il ne classe pas les programmes. Il n'émet aucune recommandation de vote.
+Le site ne dit pas si une mesure est bonne, réaliste, finançable, constitutionnelle ou compatible avec le droit européen. Il ne note pas les candidats. Il ne classe pas les programmes. Il n'émet aucune recommandation de vote.
 
 Le chiffrage affiché est **celui annoncé par le candidat**, présenté comme tel. Un chiffrage indépendant (Cour des comptes, institut, presse spécialisée) peut être ajouté à condition d'être clairement identifié comme provenant d'un tiers, avec sa source.
+
+Lorsqu'une source consacre son angle à l'évaluation d'une mesure — sa faisabilité, son coût, sa constitutionnalité — seul l'énoncé de la mesure est repris. L'analyse ne l'est pas, même attribuée.
 
 ## 5. Traitement symétrique
 
@@ -50,9 +56,32 @@ Aucune exception liée aux sondages, à la famille politique ou aux opinions des
 
 Concrètement : lorsqu'une proposition est ajoutée pour un candidat sur un thème, l'ajout d'une question clé correspondante impose de chercher activement la position des autres candidats sur cette même question, et de laisser la case vide si elle n'existe pas.
 
+La symétrie s'applique aussi aux statuts : deux candidats dans une situation identique portent le même statut, sauf source établissant la différence.
+
 ## 6. Traçabilité
 
 Toutes les données vivent dans des fichiers JSON versionnés. Chaque modification est un commit horodaté, publiquement consultable et réversible. Aucune modification silencieuse : une correction de fond mentionne dans son message de commit ce qui était faux et pourquoi.
+
+### 6.1 Saisie automatique et arbitrage humain
+
+Une partie des écritures dans `data/*.json` est produite par une passe automatisée. Son périmètre est fixé ici et détaillé dans la section « Automatisation » de [MISE-A-JOUR.md](MISE-A-JOUR.md).
+
+**Ce qui peut être commité automatiquement**, parce qu'aucun jugement éditorial n'y intervient :
+
+- l'ajout de propositions en `source-primaire`, reprises du document du candidat ;
+- les corrections d'URL, de `site_officiel` et de `programme_url` ;
+- le retrait ou le remplacement des liens morts ;
+- la mise à jour de `meta.json`.
+
+**Ce qui exige une décision humaine explicite**, consignée dans un ticket public :
+
+- le classement d'un candidat dans une option d'une question clé ;
+- la création, la suppression ou la reformulation d'une question clé ou d'une de ses options ;
+- tout changement de `statut` d'un candidat.
+
+Ces trois réserves ne sont pas de précaution : ce sont les seuls endroits du dépôt où une erreur produit un tableau propre, faux, et que rien ne signale.
+
+Tout commit automatique cite la décision qu'il applique et le ticket dont elle provient, afin qu'un lecteur puisse remonter de la donnée à l'arbitrage qui l'a autorisée. Une passe qui ne produit aucun changement dépose malgré tout un compte rendu dans `veille/` : un dépôt silencieux ne doit pas pouvoir être confondu avec un dépôt à jour.
 
 ## 7. Ce que le site ne fait pas
 

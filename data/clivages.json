@@ -5,15 +5,21 @@
     "question": "Sur quel levier agir pour les retraites ?",
     "options": [
       { "id": "retour-60", "label": "Retour à la retraite à 60 ans" },
+      { "id": "retour-62", "label": "Retour à l'âge légal de 62 ans" },
       { "id": "abroger-64", "label": "Abroger la réforme de 2023 sans revenir à 60 ans" },
       { "id": "maintien-64", "label": "Maintenir l'âge légal à 64 ans" },
+      { "id": "relever-65", "label": "Relever l'âge légal à 65 ans" },
+      { "id": "travailler-plus", "label": "Travailler plus longtemps, modalités à préciser" },
       { "id": "duree-cotisation", "label": "Agir sur la durée de cotisation plutôt que sur l'âge" },
-      { "id": "travailler-plus", "label": "Travailler plus longtemps, modalités à préciser" }
+      { "id": "supprimer-age-legal", "label": "Supprimer l'âge légal, agir par décotes et surcotes" }
     ],
     "positions": {
       "melenchon-jean-luc": { "option": "retour-60", "proposition": "melenchon-retraites-01" },
-      "attal-gabriel": { "option": "duree-cotisation", "proposition": "attal-retraites-01" },
-      "philippe-edouard": { "option": "travailler-plus", "proposition": "philippe-retraites-01" }
+      "le-pen-marine": { "option": "retour-62", "proposition": "le-pen-retraites-01" },
+      "retailleau-bruno": { "option": "relever-65", "proposition": "retailleau-retraites-01" },
+      "philippe-edouard": { "option": "travailler-plus", "proposition": "philippe-retraites-01" },
+      "glucksmann-raphael": { "option": "duree-cotisation", "proposition": "glucksmann-retraites-01" },
+      "attal-gabriel": { "option": "supprimer-age-legal", "proposition": "attal-retraites-01" }
     }
   },
   {
@@ -141,11 +147,15 @@
     "question": "Changer de République ?",
     "options": [
       { "id": "constituante", "label": "Convoquer une Assemblée constituante (VIe République)" },
+      { "id": "democratie-directe", "label": "Introduire des mécanismes de démocratie directe (RIC, référendum constituant)" },
       { "id": "reformer", "label": "Réformer les institutions actuelles" },
       { "id": "statu-quo", "label": "Conserver les institutions de la Ve République" }
     ],
     "positions": {
-      "melenchon-jean-luc": { "option": "constituante", "proposition": "melenchon-institutions-01" }
+      "melenchon-jean-luc": { "option": "constituante", "proposition": "melenchon-institutions-01" },
+      "egger-clara": { "option": "democratie-directe", "proposition": "egger-institutions-01" },
+      "dupont-aignan-nicolas": { "option": "democratie-directe", "proposition": "dupont-aignan-institutions-01" },
+      "attal-gabriel": { "option": "reformer", "proposition": "attal-institutions-01" }
     }
   },
   {
@@ -153,12 +163,14 @@
     "theme": "securite-justice",
     "question": "Quelle orientation pour la politique pénale ?",
     "options": [
-      { "id": "fermete-peines-planchers", "label": "Peines planchers et automaticité des sanctions" },
+      { "id": "peines-planchers", "label": "Peines planchers pour les infractions les plus graves" },
+      { "id": "execution-des-peines", "label": "Fin des remises automatiques et exécution intégrale des peines" },
       { "id": "equilibre", "label": "Individualisation des peines, alternatives à l'incarcération" },
       { "id": "prevention", "label": "Priorité à la prévention et à la réinsertion" }
     ],
     "positions": {
-      "philippe-edouard": { "option": "fermete-peines-planchers", "proposition": "philippe-securite-01" }
+      "philippe-edouard": { "option": "peines-planchers", "proposition": "philippe-securite-01" },
+      "attal-gabriel": { "option": "execution-des-peines", "proposition": "attal-securite-01" }
     }
   }
 ]

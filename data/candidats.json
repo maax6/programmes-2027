@@ -112,13 +112,13 @@
     "nom": "Jérôme Guedj",
     "parti": "Parti socialiste",
     "famille": "gauche",
-    "statut": "declare",
+    "statut": "conditionnel",
     "date_declaration": "2026-02-05",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#e8546a",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Candidat pour représenter une « gauche républicaine », « universaliste » et « laïque ».",
+    "note": "Candidat pour représenter une « gauche républicaine », « universaliste » et « laïque ». Candidat à la primaire fermée du Parti socialiste, dont l'issue conditionne la candidature à la présidentielle.",
     "sources": [
       { "titre": "L'invité de 7h50 du jeudi 5 février 2026", "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-jeudi-05-fevrier-2026-7548548", "editeur": "France Inter", "type": "media", "consulte_le": "2026-07-31" }
     ]
@@ -164,7 +164,7 @@
     "couleur": "#d9587f",
     "site_officiel": null,
     "programme_url": null,
-    "note": "A lancé une dynamique de campagne lors d'un meeting le 13 juin 2026 sans officialiser sa candidature. Place publique pourrait participer à la primaire fermée du PS.",
+    "note": "A lancé une dynamique de campagne lors d'un meeting le 13 juin 2026 sans officialiser sa candidature. Place publique pourrait participer à la primaire fermée du PS. Les positions documentées ci-dessous sont présentées par la source comme celles d'un « possible programme » : elles ne préjugent pas d'une candidature.",
     "sources": [
       { "titre": "« Gagner en 2027 » : Raphaël Glucksmann lance sa campagne", "url": "https://lcp.fr/actualites/gagner-en-2027-raphael-glucksmann-lance-sa-campagne-et-veut-ramener-la-gauche-au-pouvoir", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
     ]
@@ -330,13 +330,14 @@
     "parti": "Les Républicains",
     "famille": "droite",
     "statut": "declare",
-    "date_declaration": "2026-04",
+    "date_declaration": "2026-02-12",
     "etat_programme": "orientations",
     "couleur": "#2b5f9e",
     "site_officiel": "https://www.avecretailleau.fr/",
     "programme_url": null,
-    "note": "Désigné candidat des Républicains par vote des adhérents à la mi-avril 2026 ; campagne lancée le 20 juin 2026 au Parc floral de Paris. Aucun document programmatique complet n'était publié sur son site officiel au 31 juillet 2026 : les éléments ci-dessous proviennent d'entretiens et de discours.",
+    "note": "A annoncé sa candidature le 12 février 2026, puis a été désigné candidat des Républicains par vote des adhérents à la mi-avril 2026 (73,8 % des voix) ; campagne lancée le 20 juin 2026 au Parc floral de Paris. Aucun document programmatique complet n'était publié sur son site officiel au 10 août 2026 : les éléments ci-dessous proviennent d'entretiens et de discours. Un livre est annoncé pour fin septembre 2026.",
     "sources": [
+      { "titre": "Présidentielle 2027 : Bruno Retailleau annonce sa candidature", "url": "https://www.franceinfo.fr/politique/bruno-retailleau/presidentielle-2027-bruno-retailleau-annonce-sa-candidature_7802885.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-08-06" },
       { "titre": "Présidentielle : Bruno Retailleau choisi comme candidat officiel des Républicains", "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-choisi-comme-candidat-officiel-des-republicains-435440", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
       { "titre": "Site officiel Avec Retailleau", "url": "https://www.avecretailleau.fr/", "editeur": "avecretailleau.fr", "type": "officiel", "consulte_le": "2026-07-31" }
     ]
@@ -378,11 +379,14 @@
     "parti": "Debout la France",
     "famille": "droite",
     "statut": "declare",
-    "etat_programme": "aucun-publie-2027",
+    "etat_programme": "orientations",
     "couleur": "#1f4e79",
-    "site_officiel": "https://www.debout-la-france.fr/",
-    "programme_url": null,
+    "site_officiel": "https://www.dupontaignan.fr/",
+    "programme_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+    "note": "Site de campagne ouvert le 15 juillet 2026, distinct du site de Debout la France, avec mandataire financier déclaré et page de parrainage. Le document « Mes mesures prioritaires », signé du candidat, réunit quatorze mesures sans développement ni chiffrage global : il constitue des orientations, non un programme complet. Sa date de publication n'a pas pu être établie.",
     "sources": [
+      { "titre": "Nicolas Dupont-Aignan — Candidat à l'élection présidentielle 2027", "url": "https://www.dupontaignan.fr/", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" },
+      { "titre": "Suivez toute l'actualité de la présidentielle sur le site de Nicolas Dupont-Aignan !", "url": "https://www.debout-la-france.fr/actualite/suivez-toute-lactualite-de-la-presidentielle-sur-le-site-de-nicolas-dupont-aignan/", "editeur": "Debout La France", "type": "officiel", "consulte_le": "2026-08-10" },
       { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
     ]
   },
@@ -395,12 +399,13 @@
     "date_declaration": "2023-09",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#1b3f6e",
-    "site_officiel": "https://rassemblementnational.fr/",
+    "site_officiel": "https://marinelepen.com/",
     "programme_url": null,
-    "note": "Candidature confirmée le 7 juillet 2026, le soir de sa condamnation en appel dans l'affaire des assistants parlementaires du FN : la peine d'inéligibilité, ramenée à 15 mois fermes déjà exécutés, ne fait pas obstacle à sa candidature. Elle s'est pourvue en cassation. Aucun programme 2027 n'était publié à la date de consultation.",
+    "note": "Candidature confirmée le 7 juillet 2026, le soir de sa condamnation en appel dans l'affaire des assistants parlementaires du FN : la peine d'inéligibilité, ramenée à 15 mois fermes déjà exécutés, ne fait pas obstacle à sa candidature. Elle s'est pourvue en cassation. Site de campagne mis en ligne le 7 juillet 2026, distinct du site du Rassemblement national. Il annonce « Découvrez son programme » mais ne publie aucune page de programme : `programme_url` reste vide.",
     "sources": [
       { "titre": "Procès des assistants du RN : Marine Le Pen condamnée en appel, mais éligible à l'élection présidentielle 2027", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/", "editeur": "Touteleurope.eu", "type": "media", "consulte_le": "2026-07-31" },
-      { "titre": "Inéligibilité, peine de prison… Pourquoi la condamnation de Marine Le Pen a été réduite en appel", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/ineligibilite-peine-de-prison-pourquoi-la-condamnation-de-marine-le-pen-a-ete-reduite-en-appel_8098121.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Inéligibilité, peine de prison… Pourquoi la condamnation de Marine Le Pen a été réduite en appel", "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/ineligibilite-peine-de-prison-pourquoi-la-condamnation-de-marine-le-pen-a-ete-reduite-en-appel_8098121.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielles 2027 : Marine Le Pen, Site Officiel de Campagne", "url": "https://marinelepen.com/", "editeur": "marinelepen.com", "type": "officiel", "consulte_le": "2026-08-10" }
     ]
   },
   {
@@ -494,13 +499,14 @@
     "nom": "Philippe Brun",
     "parti": "Parti socialiste",
     "famille": "gauche",
-    "statut": "pressenti",
+    "statut": "conditionnel",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#e0768d",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Député ; veut être « le candidat des salaires ».",
+    "note": "Député ; veut être « le candidat des salaires ». Candidat à la primaire fermée du Parti socialiste. La date de sa déclaration n'a pas été établie par une source de niveau 1 ou 2 et n'est donc pas renseignée.",
     "sources": [
+      { "titre": "Primaire du PS et de l'espace social-démocrate : le tarif de la discorde", "url": "https://lcp.fr/actualites/primaire-du-ps-et-de-l-espace-social-democrate-le-tarif-de-la-discorde-440219", "editeur": "LCP", "type": "media", "consulte_le": "2026-08-10" },
       { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
     ]
   },

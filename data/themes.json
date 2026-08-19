@@ -6,7 +6,7 @@
   { "id": "fiscalite", "nom": "Fiscalité", "icone": "🧾", "description": "Impôt sur le revenu, ISF, successions, impôts de production, TVA." },
   { "id": "sante", "nom": "Santé & protection sociale", "icone": "🏥", "description": "Hôpital, déserts médicaux, Sécurité sociale, dépendance." },
   { "id": "education", "nom": "Éducation & jeunesse", "icone": "🎓", "description": "École, enseignement supérieur, petite enfance, formation." },
-  { "id": "ecologie", "nom": "Écologie & énergie", "icone": "🌍", "description": "Climat, nucléaire, renouvelables, biodiversité, agriculture durable." },
+  { "id": "ecologie", "nom": "Écologie & énergie", "icone": "🌍", "description": "Climat, nucléaire, renouvelables, biodiversité, agriculture durable, condition animale, mobilités et zones à faibles émissions." },
   { "id": "immigration", "nom": "Immigration & intégration", "icone": "🛂", "description": "Flux migratoires, asile, regroupement familial, naturalisation." },
   { "id": "securite-justice", "nom": "Sécurité & justice", "icone": "🚓", "description": "Police, prisons, peines, narcotrafic, justice des mineurs." },
   { "id": "defense", "nom": "Défense & souveraineté", "icone": "🛡️", "description": "Armées, dissuasion, réserve, industrie de défense, cyber." },

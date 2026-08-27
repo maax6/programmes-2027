@@ -27,7 +27,33 @@ const load = (name) => {
 const meta = load('meta');
 const themes = load('themes');
 const candidats = load('candidats');
-const propositions = load('propositions');
+/* Les propositions sont réparties en un fichier par candidat, listés dans
+   data/propositions/_index.json : la source de vérité est ce répertoire, pas
+   l'agrégat data/propositions.json, qui n'est qu'un artefact reconstruit.
+   Voir data/propositions/README.md. */
+const chargerPropositions = () => {
+  const index = (() => {
+    try {
+      return JSON.parse(readFileSync(join(ROOT, 'data', 'propositions', '_index.json'), 'utf8'));
+    } catch (e) {
+      err(`data/propositions/_index.json illisible ou JSON invalide : ${e.message}`);
+      return null;
+    }
+  })();
+  if (!Array.isArray(index)) return null;
+  const out = [];
+  for (const nom of index) {
+    try {
+      const lot = JSON.parse(readFileSync(join(ROOT, 'data', 'propositions', `${nom}.json`), 'utf8'));
+      if (!Array.isArray(lot)) { err(`data/propositions/${nom}.json : tableau attendu`); continue; }
+      out.push(...lot);
+    } catch (e) {
+      err(`data/propositions/${nom}.json illisible ou JSON invalide : ${e.message}`);
+    }
+  }
+  return out;
+};
+const propositions = chargerPropositions();
 const clivages = load('clivages');
 
 if (errors.length) {

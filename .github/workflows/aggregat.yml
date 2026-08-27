@@ -1,0 +1,55 @@
+name: Agrégat des propositions
+
+# data/propositions.json est un artefact reconstruit depuis
+# data/propositions/*.json, qui sont la source de vérité. L'agrégat existe
+# parce que le site et le générateur de visuels le lisent en un seul appel.
+#
+# Il est régénéré et commité ici plutôt qu'à la main : le fichier dépasse
+# 90 Ko, taille à laquelle la passe de veille automatique ne peut plus le
+# réécrire d'un bloc de façon fiable. Voir MISE-A-JOUR.md, « Automatisation ».
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/propositions/**'
+      - 'scripts/build-propositions.mjs'
+      - '.github/workflows/aggregat.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: agregat-propositions
+  cancel-in-progress: false
+
+jobs:
+  agregat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Reconstruire l'agrégat
+        run: node scripts/build-propositions.mjs
+
+      - name: Valider les données
+        run: node scripts/validate.mjs
+
+      - name: Commiter si l'agrégat a changé
+        run: |
+          if git diff --quiet -- data/propositions.json; then
+            echo "Agrégat déjà à jour, rien à commiter."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/propositions.json
+          git commit -m "Agrégat : reconstruire data/propositions.json depuis data/propositions/
+
+          Artefact régénéré automatiquement. La source de vérité reste
+          data/propositions/*.json."
+          git push

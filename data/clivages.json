@@ -19,7 +19,8 @@
       "retailleau-bruno": { "option": "relever-65", "proposition": "retailleau-retraites-01" },
       "philippe-edouard": { "option": "travailler-plus", "proposition": "philippe-retraites-01" },
       "glucksmann-raphael": { "option": "duree-cotisation", "proposition": "glucksmann-retraites-01" },
-      "attal-gabriel": { "option": "supprimer-age-legal", "proposition": "attal-retraites-01" }
+      "attal-gabriel": { "option": "supprimer-age-legal", "proposition": "attal-retraites-01" },
+      "hollande-francois": { "option": "duree-cotisation", "proposition": "hollande-retraites-01" }
     }
   },
   {
@@ -31,7 +32,8 @@
       { "id": "contre", "label": "Contre" }
     ],
     "positions": {
-      "philippe-edouard": { "option": "pour", "proposition": "philippe-retraites-01" }
+      "philippe-edouard": { "option": "pour", "proposition": "philippe-retraites-01" },
+      "hollande-francois": { "option": "pour", "proposition": "hollande-retraites-01" }
     }
   },
   {
@@ -45,7 +47,9 @@
     ],
     "positions": {
       "melenchon-jean-luc": { "option": "hausse-legale-smic", "proposition": "melenchon-salaires-01" },
-      "attal-gabriel": { "option": "baisse-charges", "proposition": "attal-travail-01" }
+      "attal-gabriel": { "option": "baisse-charges", "proposition": "attal-travail-01" },
+      "tondelier-marine": { "option": "hausse-legale-smic", "proposition": "tondelier-salaires-01" },
+      "hollande-francois": { "option": "baisse-charges", "proposition": "hollande-salaires-01" }
     }
   },
   {
@@ -171,6 +175,39 @@
     "positions": {
       "philippe-edouard": { "option": "peines-planchers", "proposition": "philippe-securite-01" },
       "attal-gabriel": { "option": "execution-des-peines", "proposition": "attal-securite-01" }
+    }
+  },
+  {
+    "id": "heritage-succession",
+    "theme": "fiscalite",
+    "question": "Faut-il taxer davantage les héritages ?",
+    "options": [
+      { "id": "taxer-plus", "label": "Taxer davantage les héritages les plus élevés" },
+      { "id": "alleger", "label": "Alléger la fiscalité des successions et des donations" },
+      { "id": "statu-quo", "label": "Maintenir la fiscalité actuelle" }
+    ],
+    "positions": {
+      "melenchon-jean-luc": { "option": "taxer-plus", "proposition": "melenchon-fiscalite-01" },
+      "glucksmann-raphael": { "option": "taxer-plus", "proposition": "glucksmann-fiscalite-01" },
+      "tondelier-marine": { "option": "taxer-plus", "proposition": "tondelier-fiscalite-01" },
+      "hollande-francois": { "option": "taxer-plus", "proposition": "hollande-fiscalite-01" },
+      "retailleau-bruno": { "option": "alleger", "proposition": "retailleau-fiscalite-01" },
+      "philippe-edouard": { "option": "alleger", "proposition": "philippe-fiscalite-01" },
+      "attal-gabriel": { "option": "alleger", "proposition": "attal-fiscalite-01" }
+    }
+  },
+  {
+    "id": "appartenance-ue",
+    "theme": "europe-international",
+    "question": "Quelle place pour la France dans l'Union européenne ?",
+    "options": [
+      { "id": "sortie", "label": "Sortir de l'Union européenne" },
+      { "id": "modifier-traites", "label": "Rester en modifiant les traités et en désobéissant si nécessaire" },
+      { "id": "approfondir", "label": "Rester et approfondir l'intégration européenne" }
+    ],
+    "positions": {
+      "dupont-aignan-nicolas": { "option": "sortie", "proposition": "dupont-aignan-europe-01" },
+      "melenchon-jean-luc": { "option": "modifier-traites", "proposition": "melenchon-europe-01" }
     }
   }
 ]

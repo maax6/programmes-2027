@@ -62,26 +62,31 @@ La symétrie s'applique aussi aux statuts : deux candidats dans une situation id
 
 Toutes les données vivent dans des fichiers JSON versionnés. Chaque modification est un commit horodaté, publiquement consultable et réversible. Aucune modification silencieuse : une correction de fond mentionne dans son message de commit ce qui était faux et pourquoi.
 
-### 6.1 Saisie automatique et arbitrage humain
+### 6.1 Publication automatique et responsabilité
 
-Une partie des écritures dans `data/*.json` est produite par une passe automatisée. Son périmètre est fixé ici et détaillé dans la section « Automatisation » de [MISE-A-JOUR.md](MISE-A-JOUR.md).
+L'essentiel des écritures dans `data/*.json` est produit par une passe automatisée hebdomadaire. **Elle publie sans validation préalable.** Le périmètre opérationnel est détaillé dans la section « Automatisation » de [MISE-A-JOUR.md](MISE-A-JOUR.md).
 
-**Ce qui peut être commité automatiquement**, parce qu'aucun jugement éditorial n'y intervient :
+Ce choix a une histoire. Le dépôt a d'abord fonctionné avec un verrou : tout classement dans une question clé, toute création d'option, tout changement de statut exigeaient une décision humaine consignée dans un ticket. Le verrou n'a pas produit de la qualité, il a produit du silence — trois semaines sans publication en août 2026, trente-trois propositions sourcées immobilisées, un dépôt que rien ne distinguait d'un projet abandonné. Un comparateur périmé n'est pas prudent, il est faux.
 
-- l'ajout de propositions en `source-primaire`, reprises du document du candidat ;
-- les corrections d'URL, de `site_officiel` et de `programme_url` ;
-- le retrait ou le remplacement des liens morts ;
-- la mise à jour de `meta.json`.
+Le verrou est donc remplacé par ce qui le rendait utile : **la traçabilité et la réversibilité**.
 
-**Ce qui exige une décision humaine explicite**, consignée dans un ticket public :
+**Ce que la passe automatique s'interdit, sans exception :**
 
-- le classement d'un candidat dans une option d'une question clé ;
-- la création, la suppression ou la reformulation d'une question clé ou d'une de ses options ;
-- tout changement de `statut` d'un candidat.
+- publier une donnée sans source vérifiable de niveau 1 ou 2 (règle 1) ;
+- classer un candidat dans une option d'une question clé sans rattacher une proposition sourcée de ce candidat, qui dit ce que l'option dit. **Une position qui ne rentre dans aucune option existante n'est jamais rapprochée de la moins mauvaise** : soit une option est créée et le commit l'explique, soit la case reste vide ;
+- déduire une position d'un parti, d'un vote passé, d'une déclaration antérieure ou d'un porte-parole (règle 2) ;
+- modifier un `statut` sans source décrivant l'acte lui-même — déclaration, retrait, désignation, décision judiciaire.
 
-Ces trois réserves ne sont pas de précaution : ce sont les seuls endroits du dépôt où une erreur produit un tableau propre, faux, et que rien ne signale.
+**Ce qu'elle doit faire, à chaque fois :**
 
-Tout commit automatique cite la décision qu'il applique et le ticket dont elle provient, afin qu'un lecteur puisse remonter de la donnée à l'arbitrage qui l'a autorisée. Une passe qui ne produit aucun changement dépose malgré tout un compte rendu dans `veille/` : un dépôt silencieux ne doit pas pouvoir être confondu avec un dépôt à jour.
+- un commit par sujet, dont le message énonce la décision prise, la source qui la fonde et le raisonnement quand il y en a un. Un lecteur doit pouvoir remonter de la donnée à la décision sans quitter `git log` ;
+- déposer dans `veille/` un compte rendu comportant une section **« Décisions prises sans arbitrage humain »**, qui liste chaque classement, chaque option créée, chaque statut modifié, et indique le commit à révoquer pour revenir en arrière ;
+- exécuter `scripts/validate.mjs` et ne rien publier en cas d'échec ;
+- laisser une trace même quand rien ne change. Une passe silencieuse est indistinguable d'un abandon.
+
+**Le contrôle humain devient postérieur, et il reste entier.** Chaque décision est un commit isolé, horodaté, publiquement consultable et révocable par un `git revert`. Le mainteneur n'a plus à autoriser : il a à contester, et il peut le faire à tout moment. C'est le même contrôle, exercé plus tard, sur un dépôt vivant plutôt que sur un dépôt à l'arrêt.
+
+**Deux réserves subsistent.** La passe automatique ne modifie pas cette charte, qui reste amendable par pull request publique (règle 9). Et pendant la période de gel définie dans [MISE-A-JOUR.md](MISE-A-JOUR.md), elle cesse toute modification de structure — questions clés, options, nomenclature — pour n'apporter que des corrections factuelles sourcées.
 
 ## 7. Ce que le site ne fait pas
 

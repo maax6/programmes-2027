@@ -159,14 +159,17 @@
     "nom": "Raphaël Glucksmann",
     "parti": "Place publique",
     "famille": "gauche",
-    "statut": "pressenti",
+    "statut": "conditionnel",
+    "date_declaration": "2026-08-23",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#d9587f",
     "site_officiel": null,
     "programme_url": null,
-    "note": "A lancé une dynamique de campagne lors d'un meeting le 13 juin 2026 sans officialiser sa candidature. Place publique pourrait participer à la primaire fermée du PS. Les positions documentées ci-dessous sont présentées par la source comme celles d'un « possible programme » : elles ne préjugent pas d'une candidature.",
+    "note": "A officialisé sa candidature le 23 août 2026 et annoncé qu'il participerait à la primaire de la gauche socialiste et démocratique, organisée les 9-10 et 16-17 octobre 2026. Statut « conditionnel » comme les autres candidats à cette primaire : la candidature à la présidentielle dépend de son issue.",
     "sources": [
-      { "titre": "« Gagner en 2027 » : Raphaël Glucksmann lance sa campagne", "url": "https://lcp.fr/actualites/gagner-en-2027-raphael-glucksmann-lance-sa-campagne-et-veut-ramener-la-gauche-au-pouvoir", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "« Gagner en 2027 » : Raphaël Glucksmann lance sa campagne", "url": "https://lcp.fr/actualites/gagner-en-2027-raphael-glucksmann-lance-sa-campagne-et-veut-ramener-la-gauche-au-pouvoir", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027", "url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027", "editeur": "France 24", "type": "media", "consulte_le": "2026-08-28" },
+      { "titre": "Présidentielle : dates, candidats, prix… Tout ce qu'il faut savoir sur la primaire sociale-démocrate", "url": "https://lcp.fr/actualites/presidentielle-dates-candidats-prix-tout-ce-qu-il-faut-savoir-sur-la-primaire-sociale", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
   },
   {
@@ -194,9 +197,10 @@
     "couleur": "#e693a9",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Président du groupe Socialistes à l'Assemblée nationale.",
+    "note": "Président du groupe socialiste à l'Assemblée nationale. A apporté son soutien à Raphaël Glucksmann pour la primaire de la gauche socialiste et démocratique en août 2026. Aucune source ne documente un renoncement de sa part : le statut reste « pressenti ».",
     "sources": [
-      { "titre": "Présidentielle 2027 : trois questions pour comprendre la crise au Parti socialiste", "url": "https://lcp.fr/actualites/presidentielle-2027-trois-questions-pour-comprendre-la-crise-au-parti-socialiste-436261", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle 2027 : trois questions pour comprendre la crise au Parti socialiste", "url": "https://lcp.fr/actualites/presidentielle-2027-trois-questions-pour-comprendre-la-crise-au-parti-socialiste-436261", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Primaire sociale-démocrate : le chef des députés PS, Boris Vallaud, apporte son soutien à Raphaël Glucksmann", "url": "https://lcp.fr/actualites/primaire-sociale-democrate-le-chef-des-deputes-ps-boris-vallaud-apporte-son-soutien-a", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
   },
   {
@@ -209,9 +213,10 @@
     "couleur": "#c96585",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Ancien président de la République (2012-2017). Se prépare en coulisses sans avoir officialisé de candidature.",
+    "note": "Publie le 3 septembre 2026 « Unir. Nouveau monde, nouvelle gauche » (Robert Laffont), ouvrage programmatique recensant 80 propositions. A déclaré le 27 août 2026 qu'il dirait « en décembre » s'il est candidat, et refuse de participer à la primaire de la gauche socialiste et démocratique. Les positions documentées ci-dessous ne préjugent pas d'une candidature.",
     "sources": [
-      { "titre": "François Hollande : lui candidat ? Comment il accélère en coulisses pour la présidentielle", "url": "https://lcp.fr/actualites/francois-hollande-lui-candidat-comment-il-accelere-en-coulisses-pour-la-presidentielle", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "François Hollande : lui candidat ? Comment il accélère en coulisses pour la présidentielle", "url": "https://lcp.fr/actualites/francois-hollande-lui-candidat-comment-il-accelere-en-coulisses-pour-la-presidentielle", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat", "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
   },
   {
@@ -314,14 +319,16 @@
     "nom": "Gérald Darmanin",
     "parti": "Renaissance",
     "famille": "droite",
-    "statut": "pressenti",
+    "statut": "retire",
+    "date_retrait": "2026-08-17",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#c98b4b",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Ministre de la Justice ; candidature évoquée mais non officialisée.",
+    "note": "A annoncé le 17 août 2026 qu'il ne serait pas candidat et apporté son soutien à Édouard Philippe.",
     "sources": [
-      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : Gérald Darmanin ne sera pas candidat et soutient Édouard Philippe", "url": "https://lcp.fr/actualites/presidentielle-2027-gerald-darmanin-ne-sera-pas-candidat-et-soutient-edouard-philippe", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
   },
   {
@@ -352,9 +359,10 @@
     "couleur": "#4478b5",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Président de la région Hauts-de-France.",
+    "note": "A confirmé en août 2026 qu'il serait candidat à l'élection présidentielle. La date de sa déclaration initiale n'est pas établie par une source de niveau 1 ou 2 à ce jour, le champ « date_declaration » reste donc vide.",
     "sources": [
-      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle", "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
   },
   {
@@ -457,12 +465,14 @@
     "parti": "Solution démocratique",
     "famille": "divers",
     "statut": "declare",
-    "etat_programme": "aucun-publie-2027",
+    "etat_programme": "orientations",
     "couleur": "#7d7d9e",
     "site_officiel": "https://solutiondemocratique.fr/",
-    "programme_url": null,
+    "programme_url": "https://solutiondemocratique.fr/calendrier-president/",
+    "note": "Le site de campagne désigne cette page comme « le programme de notre candidate ». Il s'agit d'un document volontairement restreint à deux réformes institutionnelles, d'où l'état « orientations ».",
     "sources": [
-      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Solution Démocratique — Présidentielle 2027 : notre candidate", "url": "https://solutiondemocratique.fr/", "editeur": "solutiondemocratique.fr", "type": "officiel", "consulte_le": "2026-08-28" }
     ]
   },
   {

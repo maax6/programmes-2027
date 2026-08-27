@@ -710,5 +710,109 @@
     "sources": [
       { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
     ]
+  },
+  {
+    "id": "attal-education-03",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Rétablir les mesures du « Choc des savoirs »",
+    "resume": "Rétablir, parmi les premières décisions du mandat, les mesures du « Choc des savoirs » engagées lorsqu'il était ministre de l'Éducation nationale.",
+    "citation": "Comme ministre de l'Éducation nationale, j'ai pris des décisions fortes en lançant le Choc des savoirs et comme président de la République, l'une de mes premières décisions sera d'en rétablir les mesures.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-education-04",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Viser moins de 20 élèves par classe en primaire",
+    "resume": "Utiliser la baisse démographique attendue dans les établissements scolaires pour réduire le nombre d'élèves par classe, en visant moins de 20 élèves en primaire, et pour mieux rémunérer les professeurs et les accompagnants d'élèves en situation de handicap.",
+    "citation": "D'ici 10 ans, on estime qu'il y aura 1,7 million d'élèves de moins dans nos établissements scolaires du fait de la baisse de la natalité. Je n'y vois pas une source d'économies mais au contraire une opportunité pour avoir moins d'élèves par classe notamment en primaire où nous devons viser moins de 20 élèves par classe comme dans les meilleurs systèmes éducatifs européens.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-education-05",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Objectif d'une des premières places du classement PISA en dix ans",
+    "resume": "Fixer au système éducatif l'objectif de reprendre en dix ans une des premières places du classement PISA, la France étant passée du 7e au 20e rang des pays occidentaux en mathématiques en vingt-cinq ans.",
+    "citation": "Je fixe pour notre système éducatif un objectif simple : reprendre en dix ans l'une des premières places du classement PISA.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-numerique-02",
+    "candidat": "attal-gabriel",
+    "theme": "numerique-ia",
+    "titre": "Aller au bout de l'interdiction des réseaux sociaux aux moins de 15 ans",
+    "resume": "Interdire l'accès aux réseaux sociaux aux moins de 15 ans, présentée comme une mesure de protection de la jeunesse.",
+    "citation": "Je veux aussi libérer notre jeunesse de l'addiction aux réseaux sociaux. C'est un défi d'ampleur, un désastre sanitaire en puissance. C'est pour cela que nous irons au bout de leur interdiction pour les moins de 15 ans, pour les protéger.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-economie-01",
+    "candidat": "attal-gabriel",
+    "theme": "economie",
+    "titre": "Zéro déficit en dix ans maximum",
+    "resume": "Fixer comme objectif de finances publiques le retour à un déficit nul en dix ans au maximum, avec un cadre pluriannuel et des responsabilités réparties entre le Gouvernement, le Parlement, les collectivités locales et la sphère sociale.",
+    "citation": "L'objectif est clair : zéro déficit en 10 ans maximum.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dette à résorber 01 — Dette de l'État", "url": "https://attalpresident.fr/programme/dette-de-letat", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-economie-02",
+    "candidat": "attal-gabriel",
+    "theme": "economie",
+    "titre": "Faire porter l'effort budgétaire d'abord sur la dépense sociale",
+    "resume": "Faire porter l'effort de redressement des comptes publics d'abord sur la dépense sociale, en réformant le modèle social pour inciter davantage à l'activité et réduire son coût budgétaire, aucune dépense n'étant exclue de l'examen.",
+    "citation": "L'effort devra d'abord porter sur la dépense sociale, qui représente plus de la moitié des dépenses publiques en France. Réformer le modèle social pour inciter davantage à l'activité et réduire son coût budgétaire : c'est possible et d'autres pays l'ont fait en Europe.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dette à résorber 01 — Dette de l'État", "url": "https://attalpresident.fr/programme/dette-de-letat", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-ecologie-01",
+    "candidat": "attal-gabriel",
+    "theme": "ecologie",
+    "titre": "Tripler le rythme annuel de réduction des émissions d'ici 2030",
+    "resume": "Porter le rythme annuel de réduction des émissions de gaz à effet de serre de 1,8 % à 5 % par an entre aujourd'hui et 2030, pour respecter les engagements climatiques de la France.",
+    "citation": "Pour respecter nos engagements climatiques, nous devons tripler notre rythme annuel de réduction des émissions entre maintenant et 2030 : passer de 1,8 % à 5 % par an.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dette à résorber 02 — Dette écologique", "url": "https://attalpresident.fr/programme/dette-ecologique", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-ecologie-02",
+    "candidat": "attal-gabriel",
+    "theme": "ecologie",
+    "titre": "Sortir de la dépendance aux énergies fossiles",
+    "resume": "Réduire la dépendance de la France aux énergies fossiles importées, par une rénovation thermique massive des logements, le développement de l'électrique et une industrie décarbonée.",
+    "citation": "Je veux une France qui continue à montrer la voie : une rénovation thermique massive pour que chaque foyer soit protégé des canicules comme du froid, l'électrique développé massivement et accessible à tous, une industrie décarbonée qui crée les emplois de demain sur notre territoire.",
+    "chiffrage": "53 milliards d'euros d'importations de combustibles fossiles en 2025, chiffre avancé par le candidat",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dette à résorber 02 — Dette écologique", "url": "https://attalpresident.fr/programme/dette-ecologique", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
   }
 ]

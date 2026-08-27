@@ -1,0 +1,67 @@
+[
+  {
+    "id": "melenchon-retraites-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "retraites",
+    "titre": "Retraite à 60 ans",
+    "resume": "Rétablissement du droit à la retraite à 60 ans, mesure présentée comme l'une des propositions phares du programme « L'Avenir en commun » (édition 2025), corpus de référence pour la candidature 2027.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "L'Avenir en commun, édition 2025", "url": "https://melenchon2027.fr/programme2025/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "melenchon-salaires-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "travail-salaires",
+    "titre": "SMIC à 1 600 € net",
+    "resume": "Porter le SMIC à 1 600 euros net, mesure phare affichée par le site officiel de campagne.",
+    "chiffrage": "SMIC 1 600 € net",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "L'Avenir en commun, édition 2025", "url": "https://melenchon2027.fr/programme2025/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "melenchon-institutions-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "institutions",
+    "titre": "VIe République par une Assemblée constituante",
+    "resume": "Convocation d'une Assemblée constituante pour instaurer une VIe République, chapitre « Le pouvoir au peuple » du programme.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "L'Avenir en commun — Chapitre 1 : Le pouvoir au peuple", "url": "https://melenchon2027.fr/programme2025/livre/chapitre1", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "melenchon-ecologie-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "ecologie",
+    "titre": "Planification écologique",
+    "resume": "Organisation de l'État et des territoires autour d'objectifs écologiques contraignants (« planification écologique » et « bifurcation écologique »), développée aux chapitres 12 à 14 du programme.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "L'Avenir en commun — Chapitre 12 : Planification écologique", "url": "https://melenchon2027.fr/programme2025/livre/chapitre12", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "melenchon-europe-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "europe-international",
+    "titre": "Modifier le traité de l'Union européenne et désobéir aux décisions contraires",
+    "resume": "Modifier le traité fondant l'Union européenne et désobéir aux décisions européennes jugées en contradiction avec les intérêts des Français tels qu'exprimés par leur vote.",
+    "citation": "Nous devons donc modifier le traité qui fait l'Union européenne, parce que sinon nous allons mourir politiquement, socialement et industriellement parce que nous ne sommes pas en état de résister.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "melenchon-fiscalite-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "fiscalite",
+    "titre": "Taxer l'intégralité des héritages au-delà de 12 millions d'euros",
+    "resume": "Taxer la totalité de la part d'un héritage dépassant un seuil de 12 millions d'euros.",
+    "chiffrage": "Seuil de 12 millions d'euros",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans", "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "retailleau-positionnement-01",
+    "candidat": "retailleau-bruno",
+    "theme": "securite-justice",
+    "titre": "Se présente comme « le président de l'ordre, de la justice et de la fierté française »",
+    "resume": "Positionnement de campagne annoncé lors de sa déclaration de candidature. Les mesures détaillées correspondantes n'étaient pas publiées sous forme de programme au 31 juillet 2026.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [{ "titre": "« Je serai le Président de l'ordre, de la justice et de la fierté française »", "url": "https://www.publicsenat.fr/actualites/politique/https-www-publicsenat-fr-actualites-politique-je-serai-le-president-de-lordre-de-la-justice-et-de-la-fierte-francaise-bruno-retailleau-se-declare-candidat-a-la-presidentielle-de-2027", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "retailleau-retraites-01",
+    "candidat": "retailleau-bruno",
+    "theme": "retraites",
+    "titre": "Repousser l'âge de départ à 65 ans",
+    "resume": "Report de l'âge légal de départ à la retraite à 65 ans.",
+    "chiffrage": "Âge légal : 65 ans",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
+    ]
+  },
+  {
+    "id": "retailleau-travail-01",
+    "candidat": "retailleau-bruno",
+    "theme": "travail-salaires",
+    "titre": "Supprimer les 35 heures et plafonner les aides sociales",
+    "resume": "Sortie des 35 heures, incitation à la reprise d'activité et plafonnement des aides sociales, présentés comme leviers de relance de l'emploi.",
+    "citation": "La fête est finie",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "« La fête est finie » : Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales pour relancer l'emploi", "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-08-06" }
+    ]
+  },
+  {
+    "id": "retailleau-economie-01",
+    "candidat": "retailleau-bruno",
+    "theme": "economie",
+    "titre": "30 milliards d'économies, dont la moitié rendue au pouvoir d'achat",
+    "resume": "Plan d'inspiration libérale visant 2 % de croissance supplémentaire et 30 milliards d'euros d'économies, dont 15 milliards redistribués aux salariés au titre du pouvoir d'achat — soit 500 euros par mois selon le candidat — et 15 milliards affectés à la compétitivité des entreprises.",
+    "chiffrage": "30 Md€ d'économies ; 15 Md€ pouvoir d'achat, soit 500 €/mois ; 15 Md€ compétitivité ; +2 % de croissance (objectifs annoncés)",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "« La fête est finie » : Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales pour relancer l'emploi", "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-08-06" }
+    ]
+  },
+  {
+    "id": "retailleau-institutions-01",
+    "candidat": "retailleau-bruno",
+    "theme": "institutions",
+    "titre": "Référendums sur l'immigration et la justice, primauté du droit national",
+    "resume": "Recours au référendum sur l'immigration et sur la justice, et rétablissement de la primauté du droit national sur les normes internationales.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Référendum sur l'immigration, primauté du droit national : le projet de Bruno Retailleau est-il faisable ?", "url": "https://www.publicsenat.fr/actualites/politique/referendum-sur-limmigration-primaute-du-droit-national-le-projet-de-bruno-retailleau-est-il-faisable", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-08-06" }
+    ]
+  },
+  {
+    "id": "retailleau-retraites-02",
+    "candidat": "retailleau-bruno",
+    "theme": "retraites",
+    "titre": "Lier l'âge de départ à la retraite à l'espérance de vie",
+    "resume": "Activer une disposition du code du travail introduite sous le gouvernement de François Fillon et jamais appliquée, liant par une équation proportionnelle l'âge de départ à la retraite et l'espérance de vie. Le candidat déclare assumer un âge légal et annonce présenter son projet de réforme des retraites prochainement.",
+    "citation": "Je proposerai une disposition qui avait été à l'époque décidée par (le Premier ministre) François Fillon dans le Code du travail et qui n'a jamais été activée, de lier par une équation proportionnelle, l'âge de la retraite et l'espérance de vie.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "retailleau-economie-02",
+    "candidat": "retailleau-bruno",
+    "theme": "economie",
+    "titre": "Supprimer une centaine de normes par ordonnance",
+    "resume": "Supprimer par ordonnance, dans les semaines suivant une élection, une centaine de normes désignées comme les plus inutiles, l'État bureaucratique étant présenté comme le premier problème du pays.",
+    "citation": "Le premier problème, c'est l'État bureaucratique.",
+    "chiffrage": "Une centaine de normes supprimées",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "retailleau-fiscalite-01",
+    "candidat": "retailleau-bruno",
+    "theme": "fiscalite",
+    "titre": "Baisser les droits de succession",
+    "resume": "Baisser les droits de succession plutôt que de les augmenter, au motif que le patrimoine transmis a déjà été imposé.",
+    "citation": "Je ne serai pas le président qui augmentera les droits de succession mais celui qui les baissera.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?", "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  }
+]

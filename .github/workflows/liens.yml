@@ -1,0 +1,27 @@
+name: Contrôle des liens
+
+# La passe de veille automatisée ne peut pas contrôler ses propres sources :
+# son outil de récupération de pages n'accepte que les URL déjà rencontrées
+# dans la conversation. La CI n'a pas cette restriction, c'est donc ici que
+# le contrôle est effectué. Voir MISE-A-JOUR.md, section « Automatisation ».
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'data/**.json'
+      - 'scripts/check-links.mjs'
+
+jobs:
+  liens:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - name: Liens des sources
+        run: node scripts/check-links.mjs

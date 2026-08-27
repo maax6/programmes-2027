@@ -1,0 +1,124 @@
+[
+  {
+    "id": "dupont-aignan-positionnement-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "institutions",
+    "titre": "Deux « électrochocs » : démocratique et indépendantiste",
+    "resume": "Candidature présentée autour de deux « électrochocs » : un électrochoc « démocratique » pour rendre le pouvoir aux Français, et un électrochoc « indépendantiste » pour rendre sa liberté à la France. Slogan de campagne : « Priorités France ! ».",
+    "citation": "Oui je suis candidat à l'élection présidentielle pour proposer 2 électrochocs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Nicolas Dupont-Aignan — Candidat à l'élection présidentielle 2027", "url": "https://www.dupontaignan.fr/", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-institutions-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "institutions",
+    "titre": "Référendum d'initiative citoyenne, vote blanc, suppression des régions",
+    "resume": "Instaurer un référendum d'initiative citoyenne « comme en Suisse » (RIC), reconnaître le vote blanc, supprimer les régions et rétablir le couple commune-département, et rendre obligatoire un casier judiciaire vierge pour les élus.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-europe-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "europe-international",
+    "titre": "Sortie de l'Union européenne, remplacée par une Europe des nations libres",
+    "resume": "Sortir de l'Union européenne, remplacée par une « Europe des nations libres », et sortir du marché européen de l'électricité pour réduire d'un tiers le tarif.",
+    "chiffrage": "Sortie de l'UE : 15 milliards d'euros d'économies nettes par an (chiffre annoncé par le candidat) ; tarif de l'électricité : réduction d'un tiers",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-defense-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "defense",
+    "titre": "Maintien d'une dissuasion nucléaire strictement nationale",
+    "resume": "Maintenir une dissuasion nucléaire strictement nationale.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-immigration-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "immigration",
+    "titre": "Déploiement de l'armée aux frontières",
+    "resume": "Déployer l'armée aux frontières pour bloquer l'immigration illégale.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-retraites-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "retraites",
+    "titre": "Indexation des retraites sur l'inflation",
+    "resume": "Indexer les retraites sur l'inflation.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-logement-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "logement",
+    "titre": "Accès à la propriété par prêts à taux zéro",
+    "resume": "Favoriser l'accès à la propriété par des prêts à taux zéro.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-sante-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "sante",
+    "titre": "Réouverture des hôpitaux de proximité",
+    "resume": "Rouvrir les hôpitaux de proximité, en métropole comme en Outre-Mer.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-economie-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "economie",
+    "titre": "100 milliards d'euros de gaspillages en moins en cinq ans",
+    "resume": "Réduire de 100 milliards d'euros les gaspillages en cinq ans, par « la fin des fausses cartes vitales, des subventions aux éoliennes et des aides aux migrants ».",
+    "citation": "100 milliards d'€ de gaspillages en moins en 5 ans avec la fin des fausses cartes vitales, des subventions aux éoliennes et des aides aux migrants.",
+    "chiffrage": "100 milliards d'euros sur 5 ans (chiffre annoncé par le candidat)",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  },
+  {
+    "id": "dupont-aignan-ecologie-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "ecologie",
+    "titre": "Suppression des péages et des zones à faibles émissions",
+    "resume": "Supprimer les péages et les zones à faibles émissions (ZFE).",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+    ]
+  }
+]

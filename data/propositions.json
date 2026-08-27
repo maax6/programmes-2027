@@ -8,7 +8,15 @@
     "citation": "Nous y arriverons enfin en réduisant les charges salariales pour faire monter le salaire net. Nos dépenses sociales ne peuvent plus reposer autant sur les Français qui travaillent.",
     "chiffrage": null,
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 02 — Travail & salaires",
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-travail-02",
@@ -19,7 +27,15 @@
     "citation": "Je propose que le Gouvernement, des experts et les partenaires sociaux réécrivent un code plus simple, structuré autour de quelques articles fondamentaux, une Constitution du travail.",
     "chiffrage": null,
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 02 — Travail & salaires",
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-travail-03",
@@ -29,7 +45,15 @@
     "resume": "Supprimer le plafond d'heures supplémentaires fixé par le code du travail, aujourd'hui de 220 heures par an et par salarié à défaut d'accord collectif.",
     "chiffrage": null,
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 02 — Travail & salaires",
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-travail-04",
@@ -39,7 +63,15 @@
     "resume": "Réformer l'assurance chômage pour inciter au retour à l'emploi, avec un objectif annoncé de 100 000 emplois supplémentaires.",
     "chiffrage": "+100 000 emplois (objectif annoncé)",
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 02 — Travail & salaires",
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-retraites-01",
@@ -51,8 +83,20 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" },
-      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
+      {
+        "titre": "Chantier capital 02 — Travail & salaires",
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      },
+      {
+        "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      }
     ]
   },
   {
@@ -63,7 +107,15 @@
     "resume": "Nouveau livret d'épargne sur le modèle du livret A pour financer des places en crèche, et formation de 200 000 professionnels de la petite enfance d'ici 2030.",
     "chiffrage": "200 000 professionnels formés d'ici 2030 ; besoin estimé de 3 Md€ pour la garde d'enfants",
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 02 — Travail & salaires",
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-education-02",
@@ -73,7 +125,15 @@
     "resume": "Réduire l'écart de taux d'emploi des jeunes avec l'Allemagne en démassifiant l'enseignement supérieur, en valorisant les métiers manuels, techniques et industriels et en réduisant la durée initiale des études.",
     "chiffrage": null,
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 02 — Travail & salaires",
+        "url": "https://attalpresident.fr/programme/travail-salaires",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-immigration-01",
@@ -84,7 +144,15 @@
     "citation": "Accueillir moins pour accueillir mieux, privilégier l'immigration de travail au détriment d'autres types d'immigration comme le regroupement familial.",
     "chiffrage": null,
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 03 — Frontières",
+        "url": "https://attalpresident.fr/programme/frontieres",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-defense-01",
@@ -94,7 +162,15 @@
     "resume": "Poursuivre et amplifier la hausse de l'effort de défense en développant les capacités militaires, les réserves humaines et opérationnelles, l'outil industriel et les alliances. Soutien continu à l'Ukraine et dissuasion nucléaire présentée comme outil de puissance, y compris dans sa dimension « avancée ».",
     "chiffrage": null,
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 03 — Frontières",
+        "url": "https://attalpresident.fr/programme/frontieres",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-europe-01",
@@ -104,7 +180,15 @@
     "resume": "Taxes à l'importation ciblées sur les produits chinois vendus à perte (acier, voitures électriques, panneaux solaires), contrôle strict des investissements chinois dans les infrastructures sensibles, et extension automatique à toute l'UE des interdictions de marchés publics prononcées par un État membre.",
     "chiffrage": null,
     "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+    "sources": [
+      {
+        "titre": "Chantier capital 03 — Frontières",
+        "url": "https://attalpresident.fr/programme/frontieres",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
   },
   {
     "id": "attal-numerique-01",
@@ -115,8 +199,20 @@
     "chiffrage": "20 millions de salariés en 5 ans",
     "statut_verification": "source-media",
     "sources": [
-      { "titre": "Chantier capital 04 — Intelligence artificielle", "url": "https://attalpresident.fr/programme/intelligence-artificielle", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" },
-      { "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme", "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html", "editeur": "Orange Actu", "type": "media", "consulte_le": "2026-07-31" }
+      {
+        "titre": "Chantier capital 04 — Intelligence artificielle",
+        "url": "https://attalpresident.fr/programme/intelligence-artificielle",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      },
+      {
+        "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme",
+        "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html",
+        "editeur": "Orange Actu",
+        "type": "media",
+        "consulte_le": "2026-07-31"
+      }
     ]
   },
   {
@@ -129,8 +225,20 @@
     "chiffrage": "Délai de réponse : 2 mois ; recours administratifs : 18 mois maximum",
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" },
-      { "titre": "Exclusif — Gabriel Attal : « Je propose la plus grande réforme institutionnelle depuis 1958 »", "url": "https://www.lejdd.fr/politique/exclusif-gabriel-attal-je-propose-la-plus-grande-reforme-institutionnelle-depuis-1958-180333", "editeur": "Le Journal du Dimanche", "type": "media", "consulte_le": "2026-08-04" }
+      {
+        "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »",
+        "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      },
+      {
+        "titre": "Exclusif — Gabriel Attal : « Je propose la plus grande réforme institutionnelle depuis 1958 »",
+        "url": "https://www.lejdd.fr/politique/exclusif-gabriel-attal-je-propose-la-plus-grande-reforme-institutionnelle-depuis-1958-180333",
+        "editeur": "Le Journal du Dimanche",
+        "type": "media",
+        "consulte_le": "2026-08-04"
+      }
     ]
   },
   {
@@ -143,7 +251,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+      {
+        "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »",
+        "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
     ]
   },
   {
@@ -155,7 +269,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+      {
+        "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »",
+        "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
     ]
   },
   {
@@ -168,7 +288,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+      {
+        "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »",
+        "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
     ]
   },
   {
@@ -181,7 +307,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "En déplacement à la SPA de Plaisir, Gabriel Attal dévoile ses premières propositions pour la protection animale", "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+      {
+        "titre": "En déplacement à la SPA de Plaisir, Gabriel Attal dévoile ses premières propositions pour la protection animale",
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
     ]
   },
   {
@@ -194,521 +326,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "En déplacement à la SPA de Plaisir, Gabriel Attal dévoile ses premières propositions pour la protection animale", "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-economie-01",
-    "candidat": "philippe-edouard",
-    "theme": "economie",
-    "titre": "Pacte fiscal : 50 Md€ d'impôts de production en moins contre 50 Md€ d'aides publiques supprimées",
-    "resume": "Échanger 50 milliards d'euros de baisses d'impôts de production contre la suppression de 50 milliards d'euros d'aides publiques jugées improductives.",
-    "chiffrage": "50 Md€ / 50 Md€",
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-economie-02",
-    "candidat": "philippe-edouard",
-    "theme": "economie",
-    "titre": "Règle d'or constitutionnelle et déficit ramené à 2 % du PIB",
-    "resume": "Inscrire dans la Constitution une règle de maîtrise des déficits et ramener le déficit public de plus de 5 % à 2 % du PIB en fin de quinquennat.",
-    "chiffrage": "Déficit : > 5 % → 2 % du PIB en 5 ans",
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-economie-03",
-    "candidat": "philippe-edouard",
-    "theme": "economie",
-    "titre": "Moratoire normatif et fiscal sur le quinquennat",
-    "resume": "Aucune nouvelle norme ni nouvel impôt pendant la durée du quinquennat ; réorganisation de l'État par regroupement ou privatisation des agences et opérateurs.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-retraites-01",
-    "candidat": "philippe-edouard",
-    "theme": "retraites",
-    "titre": "Travailler plus longtemps et créer un pilier de capitalisation",
-    "resume": "Garantir l'équilibre du système en travaillant plus tout en tenant compte de la diversité des carrières, créer un pilier de capitalisation représentant 10 à 15 % des pensions d'ici quinze ans, et confier la gestion du régime à l'équilibre aux partenaires sociaux. Le candidat s'est déclaré hostile à l'abandon de l'âge légal le 28 mai 2026 sur France Inter, en précisant que l'effort ne serait pas uniforme.",
-    "citation": "Nous allons tous devoir travailler un peu plus longtemps, mais peut-être pas de façon uniforme tout le monde dans les mêmes conditions jusqu'à 67 ans.",
-    "chiffrage": "Capitalisation : 10-15 % des pensions d'ici 15 ans",
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" },
-      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
-    ]
-  },
-  {
-    "id": "philippe-sante-01",
-    "candidat": "philippe-edouard",
-    "theme": "sante",
-    "titre": "Stabiliser les dépenses de santé",
-    "resume": "Stabiliser les dépenses de santé en misant sur la prévention et les transformations technologiques plutôt que sur la seule hausse des moyens.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-securite-01",
-    "candidat": "philippe-edouard",
-    "theme": "securite-justice",
-    "titre": "Courtes peines dès la première infraction et peines planchers",
-    "resume": "S'inspirer des pays du Nord en condamnant dès la première infraction à une peine courte et dissuasive, et instaurer des peines planchers pour les infractions les plus graves, en particulier contre les dépositaires de l'autorité publique.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-securite-02",
-    "candidat": "philippe-edouard",
-    "theme": "securite-justice",
-    "titre": "Supprimer le juge d'application des peines",
-    "resume": "Supprimer le juge d'application des peines « afin de garantir que ce qu'un juge a décidé ne soit pas défait par un autre que lui », renforcer la responsabilité des juges et l'autorité du Garde des Sceaux sur le parquet, y compris par des instructions individuelles aux procureurs.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-securite-03",
-    "candidat": "philippe-edouard",
-    "theme": "securite-justice",
-    "titre": "« État d'urgence narco » et levée de l'excuse de minorité",
-    "resume": "Créer un régime d'exception limité dans le temps et l'espace contre le narcotrafic, allant jusqu'à l'usage ciblé de la reconnaissance faciale ; lever l'excuse de minorité pour les faits liés au narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-securite-04",
-    "candidat": "philippe-edouard",
-    "theme": "securite-justice",
-    "titre": "Principe de précaution pénal, « droit de savoir » et imprescriptibilité des crimes sur mineur",
-    "resume": "Créer un principe de précaution pénal déclenchant une mesure de protection immédiate pour chaque plainte liée aux enfants, instituer un « droit de savoir » inspiré de la Sarah's law britannique permettant aux parents de faire vérifier par la police l'absence d'antécédents d'une personne en contact avec leur enfant, faire fermer les sites laissant prospérer le proxénétisme en ligne, et rendre imprescriptibles les crimes sur mineur.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-immigration-01",
-    "candidat": "philippe-edouard",
-    "theme": "immigration",
-    "titre": "Dénoncer l'accord franco-algérien de 1968 et instaurer des quotas",
-    "resume": "Dénoncer l'accord de 1968 avec l'Algérie, faire voter chaque année par le Parlement une liste de pays sûrs, restreindre l'immigration familiale, mettre en place des quotas d'immigration économique et expulser immédiatement les étrangers délinquants.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-defense-01",
-    "candidat": "philippe-edouard",
-    "theme": "defense",
-    "titre": "Porter la réserve de 45 000 à 250 000 personnes",
-    "resume": "Massifier les armées : réserve portée de 45 000 à 250 000, service militaire volontaire de 3 000 à 50 000 places par an, plan drones tactiques, plan munitions au-delà de 100 000 obus par an, renforcement de la flotte navale et nouvelle loi de programmation militaire « de la massification ».",
-    "chiffrage": "Réserve 45 000 → 250 000 ; SMV 3 000 → 50 000/an",
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-europe-01",
-    "candidat": "philippe-edouard",
-    "theme": "europe-international",
-    "titre": "Achever le marché unique et créer une union des marchés de capitaux",
-    "resume": "Supprimer les spécifications nationales agissant comme des droits de douane à l'intérieur du marché unique, construire une union européenne des marchés de capitaux, et protéger le marché européen face à la concurrence chinoise (transferts de technologie, quotas de production, joint-ventures dans les secteurs stratégiques).",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-agriculture-01",
-    "candidat": "philippe-edouard",
-    "theme": "ecologie",
-    "titre": "Zéro surtransposition agricole et 100 territoires de souveraineté alimentaire",
-    "resume": "Renforcer la compétitivité agricole : suppression des surtranspositions, plan de transmission et de modernisation, création de 100 territoires de souveraineté alimentaire, inscription du développement agricole dans la Charte de l'environnement.",
-    "chiffrage": "100 territoires de souveraineté alimentaire",
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "philippe-education-01",
-    "candidat": "philippe-edouard",
-    "theme": "education",
-    "titre": "Faire des chefs d'établissement les « véritables patrons de l'école »",
-    "resume": "Donner aux chefs d'établissement la liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline, et de choisir et évaluer les enseignants.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-education-02",
-    "candidat": "philippe-edouard",
-    "theme": "education",
-    "titre": "Revaloriser le métier de professeur et recentrer le primaire sur les fondamentaux",
-    "resume": "Augmenter les rémunérations des enseignants et réviser le recrutement, la formation et l'accompagnement de carrière ; concentrer l'enseignement primaire sur lire, écrire et compter ; créer un service public universel du soutien scolaire combinant assistant IA personnalisé et brigades d'anciens professeurs et d'étudiants volontaires.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-education-03",
-    "candidat": "philippe-edouard",
-    "theme": "education",
-    "titre": "Adapter les rythmes scolaires et raccourcir les vacances d'été",
-    "resume": "Adapter les rythmes scolaires « aux seuls besoins des enfants » : journées moins longues, davantage de sport et de culture, vacances d'été raccourcies pour éviter la déperdition des savoirs.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-famille-01",
-    "candidat": "philippe-edouard",
-    "theme": "education",
-    "titre": "Part fiscale dès le deuxième enfant et aide familiale unique",
-    "resume": "Accorder une part fiscale dès le deuxième enfant, fusionner les dispositifs d'aide existants en une aide financière unique, lisible et universelle, créer un prêt à taux zéro pour chaque naissance afin de faciliter le déménagement des familles, et instaurer un temps partiel parental à 80 % payé 100 % pendant deux mois.",
-    "chiffrage": "Temps partiel parental : 80 % payés 100 % pendant 2 mois",
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-numerique-01",
-    "candidat": "philippe-edouard",
-    "theme": "numerique-ia",
-    "titre": "Infrastructure d'IA européenne souveraine et Buy European Tech Act",
-    "resume": "Développer une infrastructure d'intelligence artificielle européenne souveraine en doublant la capacité de calcul en cinq ans, peser à l'échelle européenne par un « Buy European Tech Act » et des achats technologiques groupés, ouvrir un accès préférentiel à l'énergie décarbonée aux acteurs nationaux et européens, et simplifier le cadre juridique européen applicable à l'IA.",
-    "chiffrage": "Capacité de calcul doublée en 5 ans",
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-numerique-02",
-    "candidat": "philippe-edouard",
-    "theme": "numerique-ia",
-    "titre": "« Livret capital France » et production d'ingénieurs portée à 100 000 par an",
-    "resume": "Créer un « livret capital France » pour mobiliser l'épargne dormante et utiliser la capitalisation retraite pour financer les champions technologiques, adapter l'enseignement, le recrutement et la formation continue à l'IA avec un droit à la reconversion pour les métiers menacés, et porter la production d'ingénieurs de 40 000 à 100 000 par an en cinq ans.",
-    "chiffrage": "Ingénieurs : 40 000 → 100 000 par an en 5 ans",
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-ecologie-01",
-    "candidat": "philippe-edouard",
-    "theme": "ecologie",
-    "titre": "Relancer le nucléaire et instaurer un prix du carbone aux frontières européennes",
-    "resume": "Assurer la souveraineté énergétique en relançant le nucléaire, en développant les renouvelables et en électrifiant massivement les usages ; concentrer l'action climatique sur le fret de marchandises, la rénovation et la grande industrie ; instaurer un prix du carbone aux frontières européennes ; investir dans la capture de carbone.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "philippe-ecologie-02",
-    "candidat": "philippe-edouard",
-    "theme": "ecologie",
-    "titre": "Plan d'adaptation des villes au réchauffement et DATAR 2.0",
-    "resume": "Climatiser les lieux accueillant des personnes fragiles, doubler le Fonds vert en le recentrant sur l'adaptation et la climatisation des bâtiments publics, lancer un plan baignade national pour rendre baignables les rivières et rénover les piscines, multiplier les plantations d'arbres en levant les règles d'urbanisme qui freinent l'adaptation des espaces publics, et créer une « DATAR 2.0 », opérateur unique de l'adaptation au changement climatique.",
-    "chiffrage": "Fonds vert : montant doublé",
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "melenchon-retraites-01",
-    "candidat": "melenchon-jean-luc",
-    "theme": "retraites",
-    "titre": "Retraite à 60 ans",
-    "resume": "Rétablissement du droit à la retraite à 60 ans, mesure présentée comme l'une des propositions phares du programme « L'Avenir en commun » (édition 2025), corpus de référence pour la candidature 2027.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "L'Avenir en commun, édition 2025", "url": "https://melenchon2027.fr/programme2025/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "melenchon-salaires-01",
-    "candidat": "melenchon-jean-luc",
-    "theme": "travail-salaires",
-    "titre": "SMIC à 1 600 € net",
-    "resume": "Porter le SMIC à 1 600 euros net, mesure phare affichée par le site officiel de campagne.",
-    "chiffrage": "SMIC 1 600 € net",
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "L'Avenir en commun, édition 2025", "url": "https://melenchon2027.fr/programme2025/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "melenchon-institutions-01",
-    "candidat": "melenchon-jean-luc",
-    "theme": "institutions",
-    "titre": "VIe République par une Assemblée constituante",
-    "resume": "Convocation d'une Assemblée constituante pour instaurer une VIe République, chapitre « Le pouvoir au peuple » du programme.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "L'Avenir en commun — Chapitre 1 : Le pouvoir au peuple", "url": "https://melenchon2027.fr/programme2025/livre/chapitre1", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "melenchon-ecologie-01",
-    "candidat": "melenchon-jean-luc",
-    "theme": "ecologie",
-    "titre": "Planification écologique",
-    "resume": "Organisation de l'État et des territoires autour d'objectifs écologiques contraignants (« planification écologique » et « bifurcation écologique »), développée aux chapitres 12 à 14 du programme.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [{ "titre": "L'Avenir en commun — Chapitre 12 : Planification écologique", "url": "https://melenchon2027.fr/programme2025/livre/chapitre12", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "retailleau-positionnement-01",
-    "candidat": "retailleau-bruno",
-    "theme": "securite-justice",
-    "titre": "Se présente comme « le président de l'ordre, de la justice et de la fierté française »",
-    "resume": "Positionnement de campagne annoncé lors de sa déclaration de candidature. Les mesures détaillées correspondantes n'étaient pas publiées sous forme de programme au 31 juillet 2026.",
-    "chiffrage": null,
-    "statut_verification": "source-media",
-    "sources": [{ "titre": "« Je serai le Président de l'ordre, de la justice et de la fierté française »", "url": "https://www.publicsenat.fr/actualites/politique/https-www-publicsenat-fr-actualites-politique-je-serai-le-president-de-lordre-de-la-justice-et-de-la-fierte-francaise-bruno-retailleau-se-declare-candidat-a-la-presidentielle-de-2027", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-07-31" }]
-  },
-  {
-    "id": "retailleau-retraites-01",
-    "candidat": "retailleau-bruno",
-    "theme": "retraites",
-    "titre": "Repousser l'âge de départ à 65 ans",
-    "resume": "Report de l'âge légal de départ à la retraite à 65 ans.",
-    "chiffrage": "Âge légal : 65 ans",
-    "statut_verification": "source-media",
-    "sources": [
-      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
-    ]
-  },
-  {
-    "id": "retailleau-travail-01",
-    "candidat": "retailleau-bruno",
-    "theme": "travail-salaires",
-    "titre": "Supprimer les 35 heures et plafonner les aides sociales",
-    "resume": "Sortie des 35 heures, incitation à la reprise d'activité et plafonnement des aides sociales, présentés comme leviers de relance de l'emploi.",
-    "citation": "La fête est finie",
-    "chiffrage": null,
-    "statut_verification": "source-media",
-    "sources": [
-      { "titre": "« La fête est finie » : Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales pour relancer l'emploi", "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-08-06" }
-    ]
-  },
-  {
-    "id": "retailleau-economie-01",
-    "candidat": "retailleau-bruno",
-    "theme": "economie",
-    "titre": "30 milliards d'économies, dont la moitié rendue au pouvoir d'achat",
-    "resume": "Plan d'inspiration libérale visant 2 % de croissance supplémentaire et 30 milliards d'euros d'économies, dont 15 milliards redistribués aux salariés au titre du pouvoir d'achat — soit 500 euros par mois selon le candidat — et 15 milliards affectés à la compétitivité des entreprises.",
-    "chiffrage": "30 Md€ d'économies ; 15 Md€ pouvoir d'achat, soit 500 €/mois ; 15 Md€ compétitivité ; +2 % de croissance (objectifs annoncés)",
-    "statut_verification": "source-media",
-    "sources": [
-      { "titre": "« La fête est finie » : Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales pour relancer l'emploi", "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-08-06" }
-    ]
-  },
-  {
-    "id": "retailleau-institutions-01",
-    "candidat": "retailleau-bruno",
-    "theme": "institutions",
-    "titre": "Référendums sur l'immigration et la justice, primauté du droit national",
-    "resume": "Recours au référendum sur l'immigration et sur la justice, et rétablissement de la primauté du droit national sur les normes internationales.",
-    "chiffrage": null,
-    "statut_verification": "source-media",
-    "sources": [
-      { "titre": "Référendum sur l'immigration, primauté du droit national : le projet de Bruno Retailleau est-il faisable ?", "url": "https://www.publicsenat.fr/actualites/politique/referendum-sur-limmigration-primaute-du-droit-national-le-projet-de-bruno-retailleau-est-il-faisable", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-08-06" }
-    ]
-  },
-  {
-    "id": "le-pen-retraites-01",
-    "candidat": "le-pen-marine",
-    "theme": "retraites",
-    "titre": "Retour à 62 ans, voire 60 ans, avec 40 à 42 annuités",
-    "resume": "Retour de l'âge légal de départ à 62 ans, voire 60 ans, avec une durée de cotisation de 40 à 42 années. Position réaffirmée après que le président du Rassemblement national a déclaré que le parti examinait un relèvement de l'âge légal.",
-    "chiffrage": "Âge légal : 62 ans, voire 60 ; cotisation : 40 à 42 ans",
-    "statut_verification": "source-media",
-    "sources": [
-      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
-    ]
-  },
-  {
-    "id": "glucksmann-retraites-01",
-    "candidat": "glucksmann-raphael",
-    "theme": "retraites",
-    "titre": "Ne pas faire de l'âge légal « le totem absolu »",
-    "resume": "Refus de s'engager à ce stade sur une réforme détaillée. Déclare qu'il ne fera pas de l'âge légal « le totem absolu » et qu'il se concentrera sur la durée de cotisation et la pénibilité du travail.",
-    "citation": "le totem absolu",
-    "chiffrage": null,
-    "statut_verification": "source-media",
-    "sources": [
-      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
-    ]
-  },
-  {
-    "id": "glucksmann-immigration-01",
-    "candidat": "glucksmann-raphael",
-    "theme": "immigration",
-    "titre": "Convention citoyenne sur l'immigration",
-    "resume": "Organisation d'une convention citoyenne sur l'immigration, dont les propositions donneraient lieu à des textes de loi soumis au vote du Parlement.",
-    "chiffrage": null,
-    "statut_verification": "source-media",
-    "sources": [
-      { "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme", "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
-    ]
-  },
-  {
-    "id": "egger-institutions-01",
-    "candidat": "egger-clara",
-    "theme": "institutions",
-    "titre": "Deux référendums de révision institutionnelle en octobre 2027",
-    "resume": "Soumettre à référendum, au titre de l'article 11 de la Constitution, deux textes portant sur l'organisation des pouvoirs publics : une réforme de l'article 89 de la Constitution instaurant le référendum d'initiative citoyenne constituant, et une réforme du code des collectivités territoriales permettant à chaque commune d'exercer la compétence sur ses règles électorales. Le calendrier publié fixe les référendums au 9 octobre 2027. La candidate s'engage devant notaire sur ses biens à appliquer ce calendrier.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Présidentielle 2027 : comment enfin donner aux élus locaux et citoyens marge de manœuvre et contrôle", "url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/", "editeur": "solutiondemocratique.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "egger-institutions-02",
-    "candidat": "egger-clara",
-    "theme": "institutions",
-    "titre": "Un président arbitre, sans programme de gouvernement",
-    "resume": "Restreindre le rôle du président de la République à la fonction d'arbitrage prévue par l'article 5 de la Constitution, sans porter de projet de société ni de programme de gouvernement, la candidature étant présentée comme transpartisane et sans clivage gauche-droite.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Présidentielle 2027 : comment enfin donner aux élus locaux et citoyens marge de manœuvre et contrôle", "url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/", "editeur": "solutiondemocratique.fr", "type": "officiel", "consulte_le": "2026-08-04" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-positionnement-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "institutions",
-    "titre": "Deux « électrochocs » : démocratique et indépendantiste",
-    "resume": "Candidature présentée autour de deux « électrochocs » : un électrochoc « démocratique » pour rendre le pouvoir aux Français, et un électrochoc « indépendantiste » pour rendre sa liberté à la France. Slogan de campagne : « Priorités France ! ».",
-    "citation": "Oui je suis candidat à l'élection présidentielle pour proposer 2 électrochocs.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Nicolas Dupont-Aignan — Candidat à l'élection présidentielle 2027", "url": "https://www.dupontaignan.fr/", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-institutions-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "institutions",
-    "titre": "Référendum d'initiative citoyenne, vote blanc, suppression des régions",
-    "resume": "Instaurer un référendum d'initiative citoyenne « comme en Suisse » (RIC), reconnaître le vote blanc, supprimer les régions et rétablir le couple commune-département, et rendre obligatoire un casier judiciaire vierge pour les élus.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-europe-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "europe-international",
-    "titre": "Sortie de l'Union européenne, remplacée par une Europe des nations libres",
-    "resume": "Sortir de l'Union européenne, remplacée par une « Europe des nations libres », et sortir du marché européen de l'électricité pour réduire d'un tiers le tarif.",
-    "chiffrage": "Sortie de l'UE : 15 milliards d'euros d'économies nettes par an (chiffre annoncé par le candidat) ; tarif de l'électricité : réduction d'un tiers",
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-defense-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "defense",
-    "titre": "Maintien d'une dissuasion nucléaire strictement nationale",
-    "resume": "Maintenir une dissuasion nucléaire strictement nationale.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-immigration-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "immigration",
-    "titre": "Déploiement de l'armée aux frontières",
-    "resume": "Déployer l'armée aux frontières pour bloquer l'immigration illégale.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-retraites-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "retraites",
-    "titre": "Indexation des retraites sur l'inflation",
-    "resume": "Indexer les retraites sur l'inflation.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-logement-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "logement",
-    "titre": "Accès à la propriété par prêts à taux zéro",
-    "resume": "Favoriser l'accès à la propriété par des prêts à taux zéro.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-sante-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "sante",
-    "titre": "Réouverture des hôpitaux de proximité",
-    "resume": "Rouvrir les hôpitaux de proximité, en métropole comme en Outre-Mer.",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-economie-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "economie",
-    "titre": "100 milliards d'euros de gaspillages en moins en cinq ans",
-    "resume": "Réduire de 100 milliards d'euros les gaspillages en cinq ans, par « la fin des fausses cartes vitales, des subventions aux éoliennes et des aides aux migrants ».",
-    "citation": "100 milliards d'€ de gaspillages en moins en 5 ans avec la fin des fausses cartes vitales, des subventions aux éoliennes et des aides aux migrants.",
-    "chiffrage": "100 milliards d'euros sur 5 ans (chiffre annoncé par le candidat)",
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
-    ]
-  },
-  {
-    "id": "dupont-aignan-ecologie-01",
-    "candidat": "dupont-aignan-nicolas",
-    "theme": "ecologie",
-    "titre": "Suppression des péages et des zones à faibles émissions",
-    "resume": "Supprimer les péages et les zones à faibles émissions (ZFE).",
-    "chiffrage": null,
-    "statut_verification": "source-primaire",
-    "sources": [
-      { "titre": "Mes mesures prioritaires", "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" }
+      {
+        "titre": "En déplacement à la SPA de Plaisir, Gabriel Attal dévoile ses premières propositions pour la protection animale",
+        "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
     ]
   },
   {
@@ -721,7 +345,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+      {
+        "titre": "Chantier capital 01 — École",
+        "url": "https://attalpresident.fr/programme/education",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-27"
+      }
     ]
   },
   {
@@ -734,7 +364,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+      {
+        "titre": "Chantier capital 01 — École",
+        "url": "https://attalpresident.fr/programme/education",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-27"
+      }
     ]
   },
   {
@@ -747,7 +383,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+      {
+        "titre": "Chantier capital 01 — École",
+        "url": "https://attalpresident.fr/programme/education",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-27"
+      }
     ]
   },
   {
@@ -760,7 +402,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+      {
+        "titre": "Chantier capital 01 — École",
+        "url": "https://attalpresident.fr/programme/education",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-27"
+      }
     ]
   },
   {
@@ -773,7 +421,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Dette à résorber 01 — Dette de l'État", "url": "https://attalpresident.fr/programme/dette-de-letat", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+      {
+        "titre": "Dette à résorber 01 — Dette de l'État",
+        "url": "https://attalpresident.fr/programme/dette-de-letat",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-27"
+      }
     ]
   },
   {
@@ -786,7 +440,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Dette à résorber 01 — Dette de l'État", "url": "https://attalpresident.fr/programme/dette-de-letat", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+      {
+        "titre": "Dette à résorber 01 — Dette de l'État",
+        "url": "https://attalpresident.fr/programme/dette-de-letat",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-27"
+      }
     ]
   },
   {
@@ -799,7 +459,13 @@
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Dette à résorber 02 — Dette écologique", "url": "https://attalpresident.fr/programme/dette-ecologique", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+      {
+        "titre": "Dette à résorber 02 — Dette écologique",
+        "url": "https://attalpresident.fr/programme/dette-ecologique",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-27"
+      }
     ]
   },
   {
@@ -812,7 +478,1344 @@
     "chiffrage": "53 milliards d'euros d'importations de combustibles fossiles en 2025, chiffre avancé par le candidat",
     "statut_verification": "source-primaire",
     "sources": [
-      { "titre": "Dette à résorber 02 — Dette écologique", "url": "https://attalpresident.fr/programme/dette-ecologique", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+      {
+        "titre": "Dette à résorber 02 — Dette écologique",
+        "url": "https://attalpresident.fr/programme/dette-ecologique",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-27"
+      }
+    ]
+  },
+  {
+    "id": "attal-numerique-03",
+    "candidat": "attal-gabriel",
+    "theme": "numerique-ia",
+    "titre": "Soumettre à référendum l'interdiction des réseaux sociaux aux moins de 15 ans",
+    "resume": "Après la décision du Conseil constitutionnel du 14 août 2026, proposer de soumettre directement aux Français, par référendum, l'interdiction de l'accès aux réseaux sociaux aux moins de 15 ans.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Dans La Tribune Dimanche : Gabriel Attal veut un référendum pour interdire les réseaux sociaux aux moins de 15 ans",
+        "url": "https://attalpresident.fr/actualites/dans-la-tribune-dimanche-gabriel-attal-veut-un-referendum-pour-interdire-les-reseaux-sociaux-aux-moins-de-15-ans",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "attal-education-06",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Faire de l'École française la meilleure d'Europe en trois principes",
+    "resume": "Réformer l'École autour de trois principes : élever le niveau, mieux reconnaître les enseignants, et redonner de la stabilité et de l'autonomie à l'institution scolaire. Objectif affiché : que la génération entrant aujourd'hui à l'école bénéficie du meilleur système éducatif d'Europe.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Dans Le Monde : Gabriel Attal dévoile son projet pour faire notre École la meilleure d'Europe",
+        "url": "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "attal-securite-02",
+    "candidat": "attal-gabriel",
+    "theme": "securite-justice",
+    "titre": "Quatre priorités face aux occupations illégales de terrains",
+    "resume": "Modifier le droit applicable aux occupations illégales de terrains autour de quatre priorités : prévenir, faire payer les occupants plutôt que les contribuables, sanctionner ceux qui ne respectent pas la loi, et évacuer rapidement.",
+    "citation": "Je respecte tous les modes de vie, mais tous les modes de vie doivent respecter la loi de la République.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "En Vendée, Gabriel Attal exige le respect du droit par tous face aux occupations illégales des gens du voyage et fait des propositions",
+        "url": "https://attalpresident.fr/actualites/en-vendee-gabriel-attal-exige-le-respect-du-droit-par-tous-face-aux-occupations-illegales-des-gens-du-voyage-et-fait-des-propositions",
+        "editeur": "attalpresident.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "attal-travail-05",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Revenir sur les hausses du coût du travail intervenues depuis 2024",
+    "resume": "Annuler les hausses du coût du travail intervenues depuis 2024, présentées comme le premier engagement du candidat en matière de compétitivité.",
+    "citation": "Le premier engagement que je prendrai, c'est de revenir sur ces hausses du coût du travail, qui sont un boulet pour nos entreprises et dans la compétitivité de notre économie.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "attal-fiscalite-01",
+    "candidat": "attal-gabriel",
+    "theme": "fiscalite",
+    "titre": "Moins taxer les donations pour faire circuler le patrimoine plus vite",
+    "resume": "Réduire la taxation des transmissions vers les petits-enfants afin de faciliter l'apport nécessaire à l'achat d'un logement par les jeunes.",
+    "citation": "Je souhaite que si des personnes veulent que ce soit leurs petits enfants qui héritent davantage, ce soit possible.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?",
+        "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "philippe-economie-01",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Pacte fiscal : 50 Md€ d'impôts de production en moins contre 50 Md€ d'aides publiques supprimées",
+    "resume": "Échanger 50 milliards d'euros de baisses d'impôts de production contre la suppression de 50 milliards d'euros d'aides publiques jugées improductives.",
+    "chiffrage": "50 Md€ / 50 Md€",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus prospère",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-economie-02",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Règle d'or constitutionnelle et déficit ramené à 2 % du PIB",
+    "resume": "Inscrire dans la Constitution une règle de maîtrise des déficits et ramener le déficit public de plus de 5 % à 2 % du PIB en fin de quinquennat.",
+    "chiffrage": "Déficit : > 5 % → 2 % du PIB en 5 ans",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus prospère",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-economie-03",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Moratoire normatif et fiscal sur le quinquennat",
+    "resume": "Aucune nouvelle norme ni nouvel impôt pendant la durée du quinquennat ; réorganisation de l'État par regroupement ou privatisation des agences et opérateurs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus prospère",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-retraites-01",
+    "candidat": "philippe-edouard",
+    "theme": "retraites",
+    "titre": "Travailler plus longtemps et créer un pilier de capitalisation",
+    "resume": "Garantir l'équilibre du système en travaillant plus tout en tenant compte de la diversité des carrières, créer un pilier de capitalisation représentant 10 à 15 % des pensions d'ici quinze ans, et confier la gestion du régime à l'équilibre aux partenaires sociaux. Le candidat s'est déclaré hostile à l'abandon de l'âge légal le 28 mai 2026 sur France Inter, en précisant que l'effort ne serait pas uniforme.",
+    "citation": "Nous allons tous devoir travailler un peu plus longtemps, mais peut-être pas de façon uniforme tout le monde dans les mêmes conditions jusqu'à 67 ans.",
+    "chiffrage": "Capitalisation : 10-15 % des pensions d'ici 15 ans",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus prospère",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      },
+      {
+        "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      }
+    ]
+  },
+  {
+    "id": "philippe-sante-01",
+    "candidat": "philippe-edouard",
+    "theme": "sante",
+    "titre": "Stabiliser les dépenses de santé",
+    "resume": "Stabiliser les dépenses de santé en misant sur la prévention et les transformations technologiques plutôt que sur la seule hausse des moyens.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus prospère",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-securite-01",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "Courtes peines dès la première infraction et peines planchers",
+    "resume": "S'inspirer des pays du Nord en condamnant dès la première infraction à une peine courte et dissuasive, et instaurer des peines planchers pour les infractions les plus graves, en particulier contre les dépositaires de l'autorité publique.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus sûre",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-securite-02",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "Supprimer le juge d'application des peines",
+    "resume": "Supprimer le juge d'application des peines « afin de garantir que ce qu'un juge a décidé ne soit pas défait par un autre que lui », renforcer la responsabilité des juges et l'autorité du Garde des Sceaux sur le parquet, y compris par des instructions individuelles aux procureurs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus sûre",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-securite-03",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "« État d'urgence narco » et levée de l'excuse de minorité",
+    "resume": "Créer un régime d'exception limité dans le temps et l'espace contre le narcotrafic, allant jusqu'à l'usage ciblé de la reconnaissance faciale ; lever l'excuse de minorité pour les faits liés au narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus sûre",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-securite-04",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "Principe de précaution pénal, « droit de savoir » et imprescriptibilité des crimes sur mineur",
+    "resume": "Créer un principe de précaution pénal déclenchant une mesure de protection immédiate pour chaque plainte liée aux enfants, instituer un « droit de savoir » inspiré de la Sarah's law britannique permettant aux parents de faire vérifier par la police l'absence d'antécédents d'une personne en contact avec leur enfant, faire fermer les sites laissant prospérer le proxénétisme en ligne, et rendre imprescriptibles les crimes sur mineur.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus attentive à ses enfants",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-immigration-01",
+    "candidat": "philippe-edouard",
+    "theme": "immigration",
+    "titre": "Dénoncer l'accord franco-algérien de 1968 et instaurer des quotas",
+    "resume": "Dénoncer l'accord de 1968 avec l'Algérie, faire voter chaque année par le Parlement une liste de pays sûrs, restreindre l'immigration familiale, mettre en place des quotas d'immigration économique et expulser immédiatement les étrangers délinquants.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus sûre",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-defense-01",
+    "candidat": "philippe-edouard",
+    "theme": "defense",
+    "titre": "Porter la réserve de 45 000 à 250 000 personnes",
+    "resume": "Massifier les armées : réserve portée de 45 000 à 250 000, service militaire volontaire de 3 000 à 50 000 places par an, plan drones tactiques, plan munitions au-delà de 100 000 obus par an, renforcement de la flotte navale et nouvelle loi de programmation militaire « de la massification ».",
+    "chiffrage": "Réserve 45 000 → 250 000 ; SMV 3 000 → 50 000/an",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus sûre",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-europe-01",
+    "candidat": "philippe-edouard",
+    "theme": "europe-international",
+    "titre": "Achever le marché unique et créer une union des marchés de capitaux",
+    "resume": "Supprimer les spécifications nationales agissant comme des droits de douane à l'intérieur du marché unique, construire une union européenne des marchés de capitaux, et protéger le marché européen face à la concurrence chinoise (transferts de technologie, quotas de production, joint-ventures dans les secteurs stratégiques).",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus prospère",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-agriculture-01",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Zéro surtransposition agricole et 100 territoires de souveraineté alimentaire",
+    "resume": "Renforcer la compétitivité agricole : suppression des surtranspositions, plan de transmission et de modernisation, création de 100 territoires de souveraineté alimentaire, inscription du développement agricole dans la Charte de l'environnement.",
+    "chiffrage": "100 territoires de souveraineté alimentaire",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus prospère",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "philippe-education-01",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Faire des chefs d'établissement les « véritables patrons de l'école »",
+    "resume": "Donner aux chefs d'établissement la liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline, et de choisir et évaluer les enseignants.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus attentive à ses enfants",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-education-02",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Revaloriser le métier de professeur et recentrer le primaire sur les fondamentaux",
+    "resume": "Augmenter les rémunérations des enseignants et réviser le recrutement, la formation et l'accompagnement de carrière ; concentrer l'enseignement primaire sur lire, écrire et compter ; créer un service public universel du soutien scolaire combinant assistant IA personnalisé et brigades d'anciens professeurs et d'étudiants volontaires.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus attentive à ses enfants",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-education-03",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Adapter les rythmes scolaires et raccourcir les vacances d'été",
+    "resume": "Adapter les rythmes scolaires « aux seuls besoins des enfants » : journées moins longues, davantage de sport et de culture, vacances d'été raccourcies pour éviter la déperdition des savoirs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus attentive à ses enfants",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-famille-01",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Part fiscale dès le deuxième enfant et aide familiale unique",
+    "resume": "Accorder une part fiscale dès le deuxième enfant, fusionner les dispositifs d'aide existants en une aide financière unique, lisible et universelle, créer un prêt à taux zéro pour chaque naissance afin de faciliter le déménagement des familles, et instaurer un temps partiel parental à 80 % payé 100 % pendant deux mois.",
+    "chiffrage": "Temps partiel parental : 80 % payés 100 % pendant 2 mois",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus attentive à ses enfants",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-numerique-01",
+    "candidat": "philippe-edouard",
+    "theme": "numerique-ia",
+    "titre": "Infrastructure d'IA européenne souveraine et Buy European Tech Act",
+    "resume": "Développer une infrastructure d'intelligence artificielle européenne souveraine en doublant la capacité de calcul en cinq ans, peser à l'échelle européenne par un « Buy European Tech Act » et des achats technologiques groupés, ouvrir un accès préférentiel à l'énergie décarbonée aux acteurs nationaux et européens, et simplifier le cadre juridique européen applicable à l'IA.",
+    "chiffrage": "Capacité de calcul doublée en 5 ans",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus conquérante",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-numerique-02",
+    "candidat": "philippe-edouard",
+    "theme": "numerique-ia",
+    "titre": "« Livret capital France » et production d'ingénieurs portée à 100 000 par an",
+    "resume": "Créer un « livret capital France » pour mobiliser l'épargne dormante et utiliser la capitalisation retraite pour financer les champions technologiques, adapter l'enseignement, le recrutement et la formation continue à l'IA avec un droit à la reconversion pour les métiers menacés, et porter la production d'ingénieurs de 40 000 à 100 000 par an en cinq ans.",
+    "chiffrage": "Ingénieurs : 40 000 → 100 000 par an en 5 ans",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus conquérante",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-ecologie-01",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Relancer le nucléaire et instaurer un prix du carbone aux frontières européennes",
+    "resume": "Assurer la souveraineté énergétique en relançant le nucléaire, en développant les renouvelables et en électrifiant massivement les usages ; concentrer l'action climatique sur le fret de marchandises, la rénovation et la grande industrie ; instaurer un prix du carbone aux frontières européennes ; investir dans la capture de carbone.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus conquérante",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-ecologie-02",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Plan d'adaptation des villes au réchauffement et DATAR 2.0",
+    "resume": "Climatiser les lieux accueillant des personnes fragiles, doubler le Fonds vert en le recentrant sur l'adaptation et la climatisation des bâtiments publics, lancer un plan baignade national pour rendre baignables les rivières et rénover les piscines, multiplier les plantations d'arbres en levant les règles d'urbanisme qui freinent l'adaptation des espaces publics, et créer une « DATAR 2.0 », opérateur unique de l'adaptation au changement climatique.",
+    "chiffrage": "Fonds vert : montant doublé",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Pour une France plus conquérante",
+        "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante",
+        "editeur": "edouardphilippe.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "philippe-travail-01",
+    "candidat": "philippe-edouard",
+    "theme": "travail-salaires",
+    "titre": "Abaisser à douze mois la durée d'indemnisation du chômage pour les moins de 50 ans",
+    "resume": "Ramener la durée maximale d'indemnisation du chômage à douze mois pour les moins de 50 ans, contre dix-huit mois aujourd'hui pour les moins de 55 ans, en prenant l'Allemagne pour référence.",
+    "citation": "Sur l'assurance chômage, ma direction c'est de faire comme l'Allemagne.",
+    "chiffrage": "Durée d'indemnisation : 18 mois → 12 mois pour les moins de 50 ans",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans",
+        "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "philippe-sante-02",
+    "candidat": "philippe-edouard",
+    "theme": "sante",
+    "titre": "Renforcer les jours de carence et encadrer les arrêts de travail",
+    "resume": "Instaurer des journées de carence d'ordre public, le premier ou les deux premiers jours n'étant pas indemnisés pour un arrêt ponctuel, et créer une période incompressible de trois à six mois entre un arrêt maladie et une rupture conventionnelle.",
+    "citation": "Il faut lutter contre le phénomène de chantage à l'arrêt maladie en créant une période incompressible.",
+    "chiffrage": "Coût des arrêts de travail cité par le candidat : environ 17 milliards d'euros par an ; hausse de près de 40 % en valeur entre 2019 et 2025",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans",
+        "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "philippe-fiscalite-01",
+    "candidat": "philippe-edouard",
+    "theme": "fiscalite",
+    "titre": "Augmenter très sensiblement les plafonds de donation et défendre le pacte Dutreil",
+    "resume": "Augmenter les plafonds de donation aux enfants et petits-enfants pendant les trois premières années du quinquennat, et cesser de remettre en cause le pacte Dutreil applicable à la transmission des entreprises familiales. Se déclare en désaccord frontal avec les propositions de hausse de la taxation des héritages.",
+    "citation": "Je pense au contraire qu'il faut permettre la transmission du patrimoine beaucoup plus vite et beaucoup plus tôt pour aider la jeunesse.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans",
+        "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      },
+      {
+        "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?",
+        "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "philippe-education-04",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Augmenter de 20 % la rémunération moyenne des enseignants en cinq ans",
+    "resume": "Porter en cinq ans la rémunération moyenne des enseignants au moins au niveau de la moyenne européenne, en particulier en milieu de carrière, en s'appuyant sur les moyens dégagés par la baisse démographique.",
+    "citation": "C'est massif, mais c'est indispensable pour redonner de la dignité à leur métier.",
+    "chiffrage": "+20 % de rémunération moyenne sur le quinquennat",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : salaires des enseignants, sanctions pour les parents… Ce que propose Édouard Philippe pour l'école",
+        "url": "https://lcp.fr/actualites/presidentielle-salaires-des-enseignants-sanctions-pour-les-parents-ce-que-propose",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "philippe-education-05",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Créer une « amende de responsabilisation scolaire »",
+    "resume": "Instaurer, sur le modèle britannique, une amende visant les parents d'enfants harceleurs, perturbateurs ou absentéistes et les parents violents, le maire pouvant la prononcer sur proposition de l'équipe pédagogique.",
+    "citation": "Le maire, sur proposition de l'équipe pédagogique, doit pouvoir sanctionner rapidement toute atteinte à la sérénité de l'école.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : salaires des enseignants, sanctions pour les parents… Ce que propose Édouard Philippe pour l'école",
+        "url": "https://lcp.fr/actualites/presidentielle-salaires-des-enseignants-sanctions-pour-les-parents-ce-que-propose",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "philippe-education-06",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Autonomie des établissements et usage de l'IA par paliers",
+    "resume": "Laisser aux établissements la liberté d'adapter l'organisation des classes, les rythmes et la pédagogie aux réalités locales, permettre aux chefs d'établissement d'ajouter des heures d'enseignement et d'anticiper la rentrée d'une ou deux semaines pour les élèves qui en ont besoin. Sur l'intelligence artificielle, retenir une approche par paliers : aucune IA avant le collège, puis formation à un usage responsable, et soutien scolaire universel pouvant intégrer un agent IA au lycée.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : salaires des enseignants, sanctions pour les parents… Ce que propose Édouard Philippe pour l'école",
+        "url": "https://lcp.fr/actualites/presidentielle-salaires-des-enseignants-sanctions-pour-les-parents-ce-que-propose",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "philippe-ecologie-03",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Grand plan fret ferroviaire et développement du stockage de l'eau",
+    "resume": "Lancer un grand plan de fret ferroviaire, présenté comme un levier de compétitivité et de réduction des émissions de CO2, et développer le stockage de l'eau sans puiser de façon inconsidérée dans les nappes.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans",
+        "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "philippe-economie-04",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Refus de l'annulation ou du gel d'une partie de la dette",
+    "resume": "Écarte toute annulation ou gel d'une partie de la dette publique et défend le remboursement intégral, au motif que la France doit tenir sa parole et remettre ses comptes en ordre.",
+    "citation": "La France, elle a une parole, elle la tient et elle remet en ordre ses comptes, comme tous les autres pays l'ont fait.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "melenchon-retraites-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "retraites",
+    "titre": "Retraite à 60 ans",
+    "resume": "Rétablissement du droit à la retraite à 60 ans, mesure présentée comme l'une des propositions phares du programme « L'Avenir en commun » (édition 2025), corpus de référence pour la candidature 2027.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2025",
+        "url": "https://melenchon2027.fr/programme2025/livre/",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "melenchon-salaires-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "travail-salaires",
+    "titre": "SMIC à 1 600 € net",
+    "resume": "Porter le SMIC à 1 600 euros net, mesure phare affichée par le site officiel de campagne.",
+    "chiffrage": "SMIC 1 600 € net",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2025",
+        "url": "https://melenchon2027.fr/programme2025/livre/",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "melenchon-institutions-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "institutions",
+    "titre": "VIe République par une Assemblée constituante",
+    "resume": "Convocation d'une Assemblée constituante pour instaurer une VIe République, chapitre « Le pouvoir au peuple » du programme.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "L'Avenir en commun — Chapitre 1 : Le pouvoir au peuple",
+        "url": "https://melenchon2027.fr/programme2025/livre/chapitre1",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "melenchon-ecologie-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "ecologie",
+    "titre": "Planification écologique",
+    "resume": "Organisation de l'État et des territoires autour d'objectifs écologiques contraignants (« planification écologique » et « bifurcation écologique »), développée aux chapitres 12 à 14 du programme.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "L'Avenir en commun — Chapitre 12 : Planification écologique",
+        "url": "https://melenchon2027.fr/programme2025/livre/chapitre12",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "melenchon-europe-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "europe-international",
+    "titre": "Modifier le traité de l'Union européenne et désobéir aux décisions contraires",
+    "resume": "Modifier le traité fondant l'Union européenne et désobéir aux décisions européennes jugées en contradiction avec les intérêts des Français tels qu'exprimés par leur vote.",
+    "citation": "Nous devons donc modifier le traité qui fait l'Union européenne, parce que sinon nous allons mourir politiquement, socialement et industriellement parce que nous ne sommes pas en état de résister.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "melenchon-fiscalite-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "fiscalite",
+    "titre": "Taxer l'intégralité des héritages au-delà de 12 millions d'euros",
+    "resume": "Taxer la totalité de la part d'un héritage dépassant un seuil de 12 millions d'euros.",
+    "chiffrage": "Seuil de 12 millions d'euros",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans",
+        "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "retailleau-positionnement-01",
+    "candidat": "retailleau-bruno",
+    "theme": "securite-justice",
+    "titre": "Se présente comme « le président de l'ordre, de la justice et de la fierté française »",
+    "resume": "Positionnement de campagne annoncé lors de sa déclaration de candidature. Les mesures détaillées correspondantes n'étaient pas publiées sous forme de programme au 31 juillet 2026.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "« Je serai le Président de l'ordre, de la justice et de la fierté française »",
+        "url": "https://www.publicsenat.fr/actualites/politique/https-www-publicsenat-fr-actualites-politique-je-serai-le-president-de-lordre-de-la-justice-et-de-la-fierte-francaise-bruno-retailleau-se-declare-candidat-a-la-presidentielle-de-2027",
+        "editeur": "Public Sénat",
+        "type": "media",
+        "consulte_le": "2026-07-31"
+      }
+    ]
+  },
+  {
+    "id": "retailleau-retraites-01",
+    "candidat": "retailleau-bruno",
+    "theme": "retraites",
+    "titre": "Repousser l'âge de départ à 65 ans",
+    "resume": "Report de l'âge légal de départ à la retraite à 65 ans.",
+    "chiffrage": "Âge légal : 65 ans",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      }
+    ]
+  },
+  {
+    "id": "retailleau-travail-01",
+    "candidat": "retailleau-bruno",
+    "theme": "travail-salaires",
+    "titre": "Supprimer les 35 heures et plafonner les aides sociales",
+    "resume": "Sortie des 35 heures, incitation à la reprise d'activité et plafonnement des aides sociales, présentés comme leviers de relance de l'emploi.",
+    "citation": "La fête est finie",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "« La fête est finie » : Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales pour relancer l'emploi",
+        "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+        "editeur": "Public Sénat",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      }
+    ]
+  },
+  {
+    "id": "retailleau-economie-01",
+    "candidat": "retailleau-bruno",
+    "theme": "economie",
+    "titre": "30 milliards d'économies, dont la moitié rendue au pouvoir d'achat",
+    "resume": "Plan d'inspiration libérale visant 2 % de croissance supplémentaire et 30 milliards d'euros d'économies, dont 15 milliards redistribués aux salariés au titre du pouvoir d'achat — soit 500 euros par mois selon le candidat — et 15 milliards affectés à la compétitivité des entreprises.",
+    "chiffrage": "30 Md€ d'économies ; 15 Md€ pouvoir d'achat, soit 500 €/mois ; 15 Md€ compétitivité ; +2 % de croissance (objectifs annoncés)",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "« La fête est finie » : Bruno Retailleau veut supprimer les 35 heures, inciter à la reprise d'activité et plafonner les aides sociales pour relancer l'emploi",
+        "url": "https://www.publicsenat.fr/actualites/politique/la-fete-est-finie-bruno-retailleau-veut-supprimer-les-35-heures-inciter-a-la-reprise-dactivite-et-plafonner-les-aides-sociales-pour-relancer-lemploi",
+        "editeur": "Public Sénat",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      }
+    ]
+  },
+  {
+    "id": "retailleau-institutions-01",
+    "candidat": "retailleau-bruno",
+    "theme": "institutions",
+    "titre": "Référendums sur l'immigration et la justice, primauté du droit national",
+    "resume": "Recours au référendum sur l'immigration et sur la justice, et rétablissement de la primauté du droit national sur les normes internationales.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Référendum sur l'immigration, primauté du droit national : le projet de Bruno Retailleau est-il faisable ?",
+        "url": "https://www.publicsenat.fr/actualites/politique/referendum-sur-limmigration-primaute-du-droit-national-le-projet-de-bruno-retailleau-est-il-faisable",
+        "editeur": "Public Sénat",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      }
+    ]
+  },
+  {
+    "id": "retailleau-retraites-02",
+    "candidat": "retailleau-bruno",
+    "theme": "retraites",
+    "titre": "Lier l'âge de départ à la retraite à l'espérance de vie",
+    "resume": "Activer une disposition du code du travail introduite sous le gouvernement de François Fillon et jamais appliquée, liant par une équation proportionnelle l'âge de départ à la retraite et l'espérance de vie. Le candidat déclare assumer un âge légal et annonce présenter son projet de réforme des retraites prochainement.",
+    "citation": "Je proposerai une disposition qui avait été à l'époque décidée par (le Premier ministre) François Fillon dans le Code du travail et qui n'a jamais été activée, de lier par une équation proportionnelle, l'âge de la retraite et l'espérance de vie.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "retailleau-economie-02",
+    "candidat": "retailleau-bruno",
+    "theme": "economie",
+    "titre": "Supprimer une centaine de normes par ordonnance",
+    "resume": "Supprimer par ordonnance, dans les semaines suivant une élection, une centaine de normes désignées comme les plus inutiles, l'État bureaucratique étant présenté comme le premier problème du pays.",
+    "citation": "Le premier problème, c'est l'État bureaucratique.",
+    "chiffrage": "Une centaine de normes supprimées",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "retailleau-fiscalite-01",
+    "candidat": "retailleau-bruno",
+    "theme": "fiscalite",
+    "titre": "Baisser les droits de succession",
+    "resume": "Baisser les droits de succession plutôt que de les augmenter, au motif que le patrimoine transmis a déjà été imposé.",
+    "citation": "Je ne serai pas le président qui augmentera les droits de succession mais celui qui les baissera.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?",
+        "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "le-pen-retraites-01",
+    "candidat": "le-pen-marine",
+    "theme": "retraites",
+    "titre": "Retour à 62 ans, voire 60 ans, avec 40 à 42 annuités",
+    "resume": "Retour de l'âge légal de départ à 62 ans, voire 60 ans pour ceux qui ont commencé à travailler avant 20 ans, avec une durée de cotisation de 40 à 42 années, portée progressivement à 42 ans. Position réaffirmée le 27 août 2026 devant le Medef, après que le président du Rassemblement national a déclaré que le parti examinait un relèvement de l'âge légal.",
+    "citation": "Puis progressivement on arrivera à 42 ans de cotisations et un âge légal de 62 ans.",
+    "chiffrage": "Âge légal : 62 ans, voire 60 pour une entrée dans la vie active avant 20 ans ; cotisation : jusqu'à 42 ans",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      },
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "le-pen-economie-01",
+    "candidat": "le-pen-marine",
+    "theme": "economie",
+    "titre": "Trajectoire de rétablissement des finances publiques à 125 milliards d'euros d'économies",
+    "resume": "Présenter, juste avant l'ouverture du débat budgétaire, une trajectoire de rétablissement des finances publiques reposant sur 125 milliards d'euros d'économies.",
+    "citation": "Nous présenterons notre trajectoire de rétablissement des finances publiques avec 125 milliards d'euros d'économies.",
+    "chiffrage": "125 milliards d'euros d'économies (chiffre annoncé par la candidate)",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "glucksmann-retraites-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "retraites",
+    "titre": "Ne pas faire de l'âge légal « le totem absolu »",
+    "resume": "Refus de s'engager à ce stade sur une réforme détaillée. Déclare qu'il ne fera pas de l'âge légal « le totem absolu » et qu'il se concentrera sur la durée de cotisation et la pénibilité du travail.",
+    "citation": "le totem absolu",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      }
+    ]
+  },
+  {
+    "id": "glucksmann-immigration-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "immigration",
+    "titre": "Convention citoyenne sur l'immigration",
+    "resume": "Organisation d'une convention citoyenne sur l'immigration, dont les propositions donneraient lieu à des textes de loi soumis au vote du Parlement.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme",
+        "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-06"
+      }
+    ]
+  },
+  {
+    "id": "glucksmann-fiscalite-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "fiscalite",
+    "titre": "Taxer les méga-héritages pour financer une baisse de la CSG sur les salaires",
+    "resume": "Baisser la CSG sur les salaires et financer cette baisse par une taxation accrue des successions les plus importantes, présentées comme celles des 1 % les plus élevées. Déclare que 99 % des héritages ne seraient pas affectés.",
+    "citation": "On baisse la CSG sur les salaires pour les salariés et on trouve l'argent où ? Eh bien chez les grands, les méga-héritiers.",
+    "chiffrage": "15 milliards d'euros de recettes (chiffre annoncé par le candidat)",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      },
+      {
+        "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?",
+        "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "glucksmann-retraites-02",
+    "candidat": "glucksmann-raphael",
+    "theme": "retraites",
+    "titre": "Abroger la réforme des retraites et en refonder une sur la pénibilité",
+    "resume": "Abroger la réforme des retraites, qualifiée d'injuste, et en construire une autre fondée sur la pénibilité du travail.",
+    "citation": "Il faudra en faire une (autre), mais il faudra la fonder sur la pénibilité.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "egger-institutions-01",
+    "candidat": "egger-clara",
+    "theme": "institutions",
+    "titre": "Deux référendums de révision institutionnelle en octobre 2027",
+    "resume": "Soumettre à référendum, au titre de l'article 11 de la Constitution, deux textes portant sur l'organisation des pouvoirs publics : une réforme de l'article 89 de la Constitution instaurant le référendum d'initiative citoyenne constituant, et une réforme du code des collectivités territoriales permettant à chaque commune d'exercer la compétence sur ses règles électorales. Le calendrier publié fixe les référendums au 9 octobre 2027. La candidate s'engage devant notaire sur ses biens à appliquer ce calendrier.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : comment enfin donner aux élus locaux et citoyens marge de manœuvre et contrôle",
+        "url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/",
+        "editeur": "solutiondemocratique.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "egger-institutions-02",
+    "candidat": "egger-clara",
+    "theme": "institutions",
+    "titre": "Un président arbitre, sans programme de gouvernement",
+    "resume": "Restreindre le rôle du président de la République à la fonction d'arbitrage prévue par l'article 5 de la Constitution, sans porter de projet de société ni de programme de gouvernement, la candidature étant présentée comme transpartisane et sans clivage gauche-droite.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : comment enfin donner aux élus locaux et citoyens marge de manœuvre et contrôle",
+        "url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/",
+        "editeur": "solutiondemocratique.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-04"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-positionnement-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "institutions",
+    "titre": "Deux « électrochocs » : démocratique et indépendantiste",
+    "resume": "Candidature présentée autour de deux « électrochocs » : un électrochoc « démocratique » pour rendre le pouvoir aux Français, et un électrochoc « indépendantiste » pour rendre sa liberté à la France. Slogan de campagne : « Priorités France ! ».",
+    "citation": "Oui je suis candidat à l'élection présidentielle pour proposer 2 électrochocs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Nicolas Dupont-Aignan — Candidat à l'élection présidentielle 2027",
+        "url": "https://www.dupontaignan.fr/",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-institutions-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "institutions",
+    "titre": "Référendum d'initiative citoyenne, vote blanc, suppression des régions",
+    "resume": "Instaurer un référendum d'initiative citoyenne « comme en Suisse » (RIC), reconnaître le vote blanc, supprimer les régions et rétablir le couple commune-département, et rendre obligatoire un casier judiciaire vierge pour les élus.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-europe-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "europe-international",
+    "titre": "Sortie de l'Union européenne, remplacée par une Europe des nations libres",
+    "resume": "Sortir de l'Union européenne, remplacée par une « Europe des nations libres », et sortir du marché européen de l'électricité pour réduire d'un tiers le tarif.",
+    "chiffrage": "Sortie de l'UE : 15 milliards d'euros d'économies nettes par an (chiffre annoncé par le candidat) ; tarif de l'électricité : réduction d'un tiers",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-defense-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "defense",
+    "titre": "Maintien d'une dissuasion nucléaire strictement nationale",
+    "resume": "Maintenir une dissuasion nucléaire strictement nationale.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-immigration-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "immigration",
+    "titre": "Déploiement de l'armée aux frontières",
+    "resume": "Déployer l'armée aux frontières pour bloquer l'immigration illégale.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-retraites-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "retraites",
+    "titre": "Indexation des retraites sur l'inflation",
+    "resume": "Indexer les retraites sur l'inflation.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-logement-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "logement",
+    "titre": "Accès à la propriété par prêts à taux zéro",
+    "resume": "Favoriser l'accès à la propriété par des prêts à taux zéro.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-sante-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "sante",
+    "titre": "Réouverture des hôpitaux de proximité",
+    "resume": "Rouvrir les hôpitaux de proximité, en métropole comme en Outre-Mer.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-economie-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "economie",
+    "titre": "100 milliards d'euros de gaspillages en moins en cinq ans",
+    "resume": "Réduire de 100 milliards d'euros les gaspillages en cinq ans, par « la fin des fausses cartes vitales, des subventions aux éoliennes et des aides aux migrants ».",
+    "citation": "100 milliards d'€ de gaspillages en moins en 5 ans avec la fin des fausses cartes vitales, des subventions aux éoliennes et des aides aux migrants.",
+    "chiffrage": "100 milliards d'euros sur 5 ans (chiffre annoncé par le candidat)",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "dupont-aignan-ecologie-01",
+    "candidat": "dupont-aignan-nicolas",
+    "theme": "ecologie",
+    "titre": "Suppression des péages et des zones à faibles émissions",
+    "resume": "Supprimer les péages et les zones à faibles émissions (ZFE).",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Mes mesures prioritaires",
+        "url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
+        "editeur": "dupontaignan.fr",
+        "type": "officiel",
+        "consulte_le": "2026-08-10"
+      }
+    ]
+  },
+  {
+    "id": "tondelier-salaires-01",
+    "candidat": "tondelier-marine",
+    "theme": "travail-salaires",
+    "titre": "SMIC à 2 000 euros brut avec un plan d'aide aux TPE et PME",
+    "resume": "Porter le SMIC à 2 000 euros brut, en contrepartie d'un grand plan d'aide aux très petites et petites et moyennes entreprises.",
+    "citation": "Un Smic à 2.000 euros brut.",
+    "chiffrage": "SMIC 2 000 € brut",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "tondelier-fiscalite-01",
+    "candidat": "tondelier-marine",
+    "theme": "fiscalite",
+    "titre": "Contribution de 10 % sur les héritages supérieurs à 4 millions d'euros",
+    "resume": "Instaurer une contribution de 10 % sur les héritages supérieurs à 4 millions d'euros et de 10 % supplémentaires au-delà de 13 millions, abaisser à 50 % le taux d'exonération du pacte Dutreil et supprimer les avantages fiscaux liés au démembrement de propriété.",
+    "citation": "La « grande transmission » doit financer la « grande transition ».",
+    "chiffrage": "15 milliards d'euros par an (chiffre annoncé)",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?",
+        "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "hollande-retraites-01",
+    "candidat": "hollande-francois",
+    "theme": "retraites",
+    "titre": "Âge légal à 63 ans puis allongement de la durée de cotisation",
+    "resume": "Ne pas revenir à un âge légal de 62 ans mais partir de l'âge d'environ 63 ans applicable au 1er janvier 2028, puis allonger la durée de cotisation au rythme de l'évolution de l'espérance de vie et des déséquilibres démographiques, par un mécanisme d'ajustement confié aux partenaires sociaux. Propose également de limiter à 1 % pendant cinq ans l'indexation des pensions et d'ajouter une part de capitalisation contrôlée par les partenaires sociaux.",
+    "citation": "L'âge pivot doit tenir compte de l'allongement de l'espérance de vie et être corrigé en permanence.",
+    "chiffrage": "Âge légal : environ 63 ans ; indexation des pensions limitée à 1 % pendant cinq ans, gain présenté comme équivalent au report d'un an de l'âge de départ",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "hollande-fiscalite-01",
+    "candidat": "hollande-francois",
+    "theme": "fiscalite",
+    "titre": "TVA portée de 20 % à 24 %, taux réduit ramené à 0 % sur l'énergie et l'alimentaire",
+    "resume": "Porter progressivement le taux normal de TVA de 20 % à 24 %, et ramener de 5,5 % à 0 % le taux réduit applicable à l'énergie, y compris les carburants, et aux produits de première nécessité, notamment alimentaires. Prévoit également une contribution portant sur une partie des grosses successions.",
+    "chiffrage": "TVA : 20 % → 24 % ; taux réduit : 5,5 % → 0 % sur l'énergie et les produits de première nécessité",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "hollande-salaires-01",
+    "candidat": "hollande-francois",
+    "theme": "travail-salaires",
+    "titre": "Rapprocher le salaire net du brut en baissant les cotisations salariales",
+    "resume": "Baisser les cotisations salariales pour rapprocher le salaire net du salaire brut, mesure financée par une contribution sur une partie des grosses successions et par la hausse du taux normal de TVA.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
     ]
   }
 ]

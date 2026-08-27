@@ -1,0 +1,337 @@
+[
+  {
+    "id": "philippe-economie-01",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Pacte fiscal : 50 Md€ d'impôts de production en moins contre 50 Md€ d'aides publiques supprimées",
+    "resume": "Échanger 50 milliards d'euros de baisses d'impôts de production contre la suppression de 50 milliards d'euros d'aides publiques jugées improductives.",
+    "chiffrage": "50 Md€ / 50 Md€",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-economie-02",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Règle d'or constitutionnelle et déficit ramené à 2 % du PIB",
+    "resume": "Inscrire dans la Constitution une règle de maîtrise des déficits et ramener le déficit public de plus de 5 % à 2 % du PIB en fin de quinquennat.",
+    "chiffrage": "Déficit : > 5 % → 2 % du PIB en 5 ans",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-economie-03",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Moratoire normatif et fiscal sur le quinquennat",
+    "resume": "Aucune nouvelle norme ni nouvel impôt pendant la durée du quinquennat ; réorganisation de l'État par regroupement ou privatisation des agences et opérateurs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-retraites-01",
+    "candidat": "philippe-edouard",
+    "theme": "retraites",
+    "titre": "Travailler plus longtemps et créer un pilier de capitalisation",
+    "resume": "Garantir l'équilibre du système en travaillant plus tout en tenant compte de la diversité des carrières, créer un pilier de capitalisation représentant 10 à 15 % des pensions d'ici quinze ans, et confier la gestion du régime à l'équilibre aux partenaires sociaux. Le candidat s'est déclaré hostile à l'abandon de l'âge légal le 28 mai 2026 sur France Inter, en précisant que l'effort ne serait pas uniforme.",
+    "citation": "Nous allons tous devoir travailler un peu plus longtemps, mais peut-être pas de façon uniforme tout le monde dans les mêmes conditions jusqu'à 67 ans.",
+    "chiffrage": "Capitalisation : 10-15 % des pensions d'ici 15 ans",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
+    ]
+  },
+  {
+    "id": "philippe-sante-01",
+    "candidat": "philippe-edouard",
+    "theme": "sante",
+    "titre": "Stabiliser les dépenses de santé",
+    "resume": "Stabiliser les dépenses de santé en misant sur la prévention et les transformations technologiques plutôt que sur la seule hausse des moyens.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-securite-01",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "Courtes peines dès la première infraction et peines planchers",
+    "resume": "S'inspirer des pays du Nord en condamnant dès la première infraction à une peine courte et dissuasive, et instaurer des peines planchers pour les infractions les plus graves, en particulier contre les dépositaires de l'autorité publique.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-securite-02",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "Supprimer le juge d'application des peines",
+    "resume": "Supprimer le juge d'application des peines « afin de garantir que ce qu'un juge a décidé ne soit pas défait par un autre que lui », renforcer la responsabilité des juges et l'autorité du Garde des Sceaux sur le parquet, y compris par des instructions individuelles aux procureurs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-securite-03",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "« État d'urgence narco » et levée de l'excuse de minorité",
+    "resume": "Créer un régime d'exception limité dans le temps et l'espace contre le narcotrafic, allant jusqu'à l'usage ciblé de la reconnaissance faciale ; lever l'excuse de minorité pour les faits liés au narcotrafic et créer la comparution immédiate des mineurs pour ces infractions.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-securite-04",
+    "candidat": "philippe-edouard",
+    "theme": "securite-justice",
+    "titre": "Principe de précaution pénal, « droit de savoir » et imprescriptibilité des crimes sur mineur",
+    "resume": "Créer un principe de précaution pénal déclenchant une mesure de protection immédiate pour chaque plainte liée aux enfants, instituer un « droit de savoir » inspiré de la Sarah's law britannique permettant aux parents de faire vérifier par la police l'absence d'antécédents d'une personne en contact avec leur enfant, faire fermer les sites laissant prospérer le proxénétisme en ligne, et rendre imprescriptibles les crimes sur mineur.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-immigration-01",
+    "candidat": "philippe-edouard",
+    "theme": "immigration",
+    "titre": "Dénoncer l'accord franco-algérien de 1968 et instaurer des quotas",
+    "resume": "Dénoncer l'accord de 1968 avec l'Algérie, faire voter chaque année par le Parlement une liste de pays sûrs, restreindre l'immigration familiale, mettre en place des quotas d'immigration économique et expulser immédiatement les étrangers délinquants.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-defense-01",
+    "candidat": "philippe-edouard",
+    "theme": "defense",
+    "titre": "Porter la réserve de 45 000 à 250 000 personnes",
+    "resume": "Massifier les armées : réserve portée de 45 000 à 250 000, service militaire volontaire de 3 000 à 50 000 places par an, plan drones tactiques, plan munitions au-delà de 100 000 obus par an, renforcement de la flotte navale et nouvelle loi de programmation militaire « de la massification ».",
+    "chiffrage": "Réserve 45 000 → 250 000 ; SMV 3 000 → 50 000/an",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus sûre", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-sure", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-europe-01",
+    "candidat": "philippe-edouard",
+    "theme": "europe-international",
+    "titre": "Achever le marché unique et créer une union des marchés de capitaux",
+    "resume": "Supprimer les spécifications nationales agissant comme des droits de douane à l'intérieur du marché unique, construire une union européenne des marchés de capitaux, et protéger le marché européen face à la concurrence chinoise (transferts de technologie, quotas de production, joint-ventures dans les secteurs stratégiques).",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-agriculture-01",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Zéro surtransposition agricole et 100 territoires de souveraineté alimentaire",
+    "resume": "Renforcer la compétitivité agricole : suppression des surtranspositions, plan de transmission et de modernisation, création de 100 territoires de souveraineté alimentaire, inscription du développement agricole dans la Charte de l'environnement.",
+    "chiffrage": "100 territoires de souveraineté alimentaire",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Pour une France plus prospère", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-prospere", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "philippe-education-01",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Faire des chefs d'établissement les « véritables patrons de l'école »",
+    "resume": "Donner aux chefs d'établissement la liberté d'adapter les méthodes et les horaires, d'imposer l'uniforme, de fixer les règles de discipline, et de choisir et évaluer les enseignants.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-education-02",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Revaloriser le métier de professeur et recentrer le primaire sur les fondamentaux",
+    "resume": "Augmenter les rémunérations des enseignants et réviser le recrutement, la formation et l'accompagnement de carrière ; concentrer l'enseignement primaire sur lire, écrire et compter ; créer un service public universel du soutien scolaire combinant assistant IA personnalisé et brigades d'anciens professeurs et d'étudiants volontaires.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-education-03",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Adapter les rythmes scolaires et raccourcir les vacances d'été",
+    "resume": "Adapter les rythmes scolaires « aux seuls besoins des enfants » : journées moins longues, davantage de sport et de culture, vacances d'été raccourcies pour éviter la déperdition des savoirs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-famille-01",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Part fiscale dès le deuxième enfant et aide familiale unique",
+    "resume": "Accorder une part fiscale dès le deuxième enfant, fusionner les dispositifs d'aide existants en une aide financière unique, lisible et universelle, créer un prêt à taux zéro pour chaque naissance afin de faciliter le déménagement des familles, et instaurer un temps partiel parental à 80 % payé 100 % pendant deux mois.",
+    "chiffrage": "Temps partiel parental : 80 % payés 100 % pendant 2 mois",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus attentive à ses enfants", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-attentive-a-ses-enfants", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-numerique-01",
+    "candidat": "philippe-edouard",
+    "theme": "numerique-ia",
+    "titre": "Infrastructure d'IA européenne souveraine et Buy European Tech Act",
+    "resume": "Développer une infrastructure d'intelligence artificielle européenne souveraine en doublant la capacité de calcul en cinq ans, peser à l'échelle européenne par un « Buy European Tech Act » et des achats technologiques groupés, ouvrir un accès préférentiel à l'énergie décarbonée aux acteurs nationaux et européens, et simplifier le cadre juridique européen applicable à l'IA.",
+    "chiffrage": "Capacité de calcul doublée en 5 ans",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-numerique-02",
+    "candidat": "philippe-edouard",
+    "theme": "numerique-ia",
+    "titre": "« Livret capital France » et production d'ingénieurs portée à 100 000 par an",
+    "resume": "Créer un « livret capital France » pour mobiliser l'épargne dormante et utiliser la capitalisation retraite pour financer les champions technologiques, adapter l'enseignement, le recrutement et la formation continue à l'IA avec un droit à la reconversion pour les métiers menacés, et porter la production d'ingénieurs de 40 000 à 100 000 par an en cinq ans.",
+    "chiffrage": "Ingénieurs : 40 000 → 100 000 par an en 5 ans",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-ecologie-01",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Relancer le nucléaire et instaurer un prix du carbone aux frontières européennes",
+    "resume": "Assurer la souveraineté énergétique en relançant le nucléaire, en développant les renouvelables et en électrifiant massivement les usages ; concentrer l'action climatique sur le fret de marchandises, la rénovation et la grande industrie ; instaurer un prix du carbone aux frontières européennes ; investir dans la capture de carbone.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-ecologie-02",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Plan d'adaptation des villes au réchauffement et DATAR 2.0",
+    "resume": "Climatiser les lieux accueillant des personnes fragiles, doubler le Fonds vert en le recentrant sur l'adaptation et la climatisation des bâtiments publics, lancer un plan baignade national pour rendre baignables les rivières et rénover les piscines, multiplier les plantations d'arbres en levant les règles d'urbanisme qui freinent l'adaptation des espaces publics, et créer une « DATAR 2.0 », opérateur unique de l'adaptation au changement climatique.",
+    "chiffrage": "Fonds vert : montant doublé",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Pour une France plus conquérante", "url": "https://www.edouardphilippe.fr/priorites/pour-une-france-plus-conquerante", "editeur": "edouardphilippe.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "philippe-travail-01",
+    "candidat": "philippe-edouard",
+    "theme": "travail-salaires",
+    "titre": "Abaisser à douze mois la durée d'indemnisation du chômage pour les moins de 50 ans",
+    "resume": "Ramener la durée maximale d'indemnisation du chômage à douze mois pour les moins de 50 ans, contre dix-huit mois aujourd'hui pour les moins de 55 ans, en prenant l'Allemagne pour référence.",
+    "citation": "Sur l'assurance chômage, ma direction c'est de faire comme l'Allemagne.",
+    "chiffrage": "Durée d'indemnisation : 18 mois → 12 mois pour les moins de 50 ans",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans", "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "philippe-sante-02",
+    "candidat": "philippe-edouard",
+    "theme": "sante",
+    "titre": "Renforcer les jours de carence et encadrer les arrêts de travail",
+    "resume": "Instaurer des journées de carence d'ordre public, le premier ou les deux premiers jours n'étant pas indemnisés pour un arrêt ponctuel, et créer une période incompressible de trois à six mois entre un arrêt maladie et une rupture conventionnelle.",
+    "citation": "Il faut lutter contre le phénomène de chantage à l'arrêt maladie en créant une période incompressible.",
+    "chiffrage": "Coût des arrêts de travail cité par le candidat : environ 17 milliards d'euros par an ; hausse de près de 40 % en valeur entre 2019 et 2025",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans", "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "philippe-fiscalite-01",
+    "candidat": "philippe-edouard",
+    "theme": "fiscalite",
+    "titre": "Augmenter très sensiblement les plafonds de donation et défendre le pacte Dutreil",
+    "resume": "Augmenter les plafonds de donation aux enfants et petits-enfants pendant les trois premières années du quinquennat, et cesser de remettre en cause le pacte Dutreil applicable à la transmission des entreprises familiales. Se déclare en désaccord frontal avec les propositions de hausse de la taxation des héritages.",
+    "citation": "Je pense au contraire qu'il faut permettre la transmission du patrimoine beaucoup plus vite et beaucoup plus tôt pour aider la jeunesse.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans", "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" },
+      { "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?", "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "philippe-education-04",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Augmenter de 20 % la rémunération moyenne des enseignants en cinq ans",
+    "resume": "Porter en cinq ans la rémunération moyenne des enseignants au moins au niveau de la moyenne européenne, en particulier en milieu de carrière, en s'appuyant sur les moyens dégagés par la baisse démographique.",
+    "citation": "C'est massif, mais c'est indispensable pour redonner de la dignité à leur métier.",
+    "chiffrage": "+20 % de rémunération moyenne sur le quinquennat",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : salaires des enseignants, sanctions pour les parents… Ce que propose Édouard Philippe pour l'école", "url": "https://lcp.fr/actualites/presidentielle-salaires-des-enseignants-sanctions-pour-les-parents-ce-que-propose", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "philippe-education-05",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Créer une « amende de responsabilisation scolaire »",
+    "resume": "Instaurer, sur le modèle britannique, une amende visant les parents d'enfants harceleurs, perturbateurs ou absentéistes et les parents violents, le maire pouvant la prononcer sur proposition de l'équipe pédagogique.",
+    "citation": "Le maire, sur proposition de l'équipe pédagogique, doit pouvoir sanctionner rapidement toute atteinte à la sérénité de l'école.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : salaires des enseignants, sanctions pour les parents… Ce que propose Édouard Philippe pour l'école", "url": "https://lcp.fr/actualites/presidentielle-salaires-des-enseignants-sanctions-pour-les-parents-ce-que-propose", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "philippe-education-06",
+    "candidat": "philippe-edouard",
+    "theme": "education",
+    "titre": "Autonomie des établissements et usage de l'IA par paliers",
+    "resume": "Laisser aux établissements la liberté d'adapter l'organisation des classes, les rythmes et la pédagogie aux réalités locales, permettre aux chefs d'établissement d'ajouter des heures d'enseignement et d'anticiper la rentrée d'une ou deux semaines pour les élèves qui en ont besoin. Sur l'intelligence artificielle, retenir une approche par paliers : aucune IA avant le collège, puis formation à un usage responsable, et soutien scolaire universel pouvant intégrer un agent IA au lycée.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : salaires des enseignants, sanctions pour les parents… Ce que propose Édouard Philippe pour l'école", "url": "https://lcp.fr/actualites/presidentielle-salaires-des-enseignants-sanctions-pour-les-parents-ce-que-propose", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "philippe-ecologie-03",
+    "candidat": "philippe-edouard",
+    "theme": "ecologie",
+    "titre": "Grand plan fret ferroviaire et développement du stockage de l'eau",
+    "resume": "Lancer un grand plan de fret ferroviaire, présenté comme un levier de compétitivité et de réduction des émissions de CO2, et développer le stockage de l'eau sans puiser de façon inconsidérée dans les nappes.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans", "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "philippe-economie-04",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Refus de l'annulation ou du gel d'une partie de la dette",
+    "resume": "Écarte toute annulation ou gel d'une partie de la dette publique et défend le remboursement intégral, au motif que la France doit tenir sa parole et remettre ses comptes en ordre.",
+    "citation": "La France, elle a une parole, elle la tient et elle remet en ordre ses comptes, comme tous les autres pays l'ont fait.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  }
+]

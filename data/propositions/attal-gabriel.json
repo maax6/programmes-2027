@@ -1,0 +1,367 @@
+[
+  {
+    "id": "attal-travail-01",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Réduire les charges salariales pour faire monter le salaire net",
+    "resume": "Baisser les charges pesant sur les salariés afin d'augmenter le salaire net, en faisant reposer moins lourdement les dépenses sociales sur les actifs.",
+    "citation": "Nous y arriverons enfin en réduisant les charges salariales pour faire monter le salaire net. Nos dépenses sociales ne peuvent plus reposer autant sur les Français qui travaillent.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-travail-02",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Refondre le code du travail en « Constitution du travail »",
+    "resume": "Réécrire le code du travail, passé de 5 000 à 11 000 articles entre 2004 et 2025, autour de quelques articles fondamentaux, le reste étant renvoyé aux branches et aux entreprises.",
+    "citation": "Je propose que le Gouvernement, des experts et les partenaires sociaux réécrivent un code plus simple, structuré autour de quelques articles fondamentaux, une Constitution du travail.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-travail-03",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Supprimer le plafond annuel d'heures supplémentaires",
+    "resume": "Supprimer le plafond d'heures supplémentaires fixé par le code du travail, aujourd'hui de 220 heures par an et par salarié à défaut d'accord collectif.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-travail-04",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Réforme de l'assurance chômage incitant au travail",
+    "resume": "Réformer l'assurance chômage pour inciter au retour à l'emploi, avec un objectif annoncé de 100 000 emplois supplémentaires.",
+    "chiffrage": "+100 000 emplois (objectif annoncé)",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-retraites-01",
+    "candidat": "attal-gabriel",
+    "theme": "retraites",
+    "titre": "Déplacer le curseur de l'âge légal vers la durée de cotisation",
+    "resume": "Pour relever le taux d'emploi des seniors, l'enjeu ne serait plus l'âge de départ mais la durée de cotisation. Position durcie le 1er mai 2026 sur RMC, où le candidat déclare que la question de l'âge légal « ne sert plus à rien » et propose « de vraies décotes et de vraies surcotes ».",
+    "citation": "Le sujet n'est plus de savoir si c'est 62, 63, 64 ans. La question de l'âge légal ne sert plus à rien.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
+    ]
+  },
+  {
+    "id": "attal-education-01",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Créer un livret d'épargne « garde d'enfant » et former 200 000 professionnels",
+    "resume": "Nouveau livret d'épargne sur le modèle du livret A pour financer des places en crèche, et formation de 200 000 professionnels de la petite enfance d'ici 2030.",
+    "chiffrage": "200 000 professionnels formés d'ici 2030 ; besoin estimé de 3 Md€ pour la garde d'enfants",
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-education-02",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Démassifier l'enseignement supérieur et raccourcir les études initiales",
+    "resume": "Réduire l'écart de taux d'emploi des jeunes avec l'Allemagne en démassifiant l'enseignement supérieur, en valorisant les métiers manuels, techniques et industriels et en réduisant la durée initiale des études.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 02 — Travail & salaires", "url": "https://attalpresident.fr/programme/travail-salaires", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-immigration-01",
+    "candidat": "attal-gabriel",
+    "theme": "immigration",
+    "titre": "« Préférence travail » et système à points",
+    "resume": "Privilégier l'immigration de travail via un système à points inspiré du Canada (offre d'emploi stable, logement, maîtrise du français, connaissance et respect des valeurs), au détriment notamment du regroupement familial, qui devrait être mieux encadré et diminuer.",
+    "citation": "Accueillir moins pour accueillir mieux, privilégier l'immigration de travail au détriment d'autres types d'immigration comme le regroupement familial.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-defense-01",
+    "candidat": "attal-gabriel",
+    "theme": "defense",
+    "titre": "Amplifier le réarmement autour de quatre vecteurs de puissance",
+    "resume": "Poursuivre et amplifier la hausse de l'effort de défense en développant les capacités militaires, les réserves humaines et opérationnelles, l'outil industriel et les alliances. Soutien continu à l'Ukraine et dissuasion nucléaire présentée comme outil de puissance, y compris dans sa dimension « avancée ».",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-europe-01",
+    "candidat": "attal-gabriel",
+    "theme": "europe-international",
+    "titre": "Barrières commerciales ciblées face aux surcapacités chinoises",
+    "resume": "Taxes à l'importation ciblées sur les produits chinois vendus à perte (acier, voitures électriques, panneaux solaires), contrôle strict des investissements chinois dans les infrastructures sensibles, et extension automatique à toute l'UE des interdictions de marchés publics prononcées par un État membre.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [{ "titre": "Chantier capital 03 — Frontières", "url": "https://attalpresident.fr/programme/frontieres", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" }]
+  },
+  {
+    "id": "attal-numerique-01",
+    "candidat": "attal-gabriel",
+    "theme": "numerique-ia",
+    "titre": "Former 20 millions de salariés à l'IA en cinq ans",
+    "resume": "Plan de formation à l'intelligence artificielle visant 20 millions de salariés sur cinq ans, l'IA étant l'un des quatre chantiers capitaux de la campagne.",
+    "chiffrage": "20 millions de salariés en 5 ans",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Chantier capital 04 — Intelligence artificielle", "url": "https://attalpresident.fr/programme/intelligence-artificielle", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : Gabriel Attal révèle les premières lignes de son programme", "url": "https://actu.orange.fr/politique/presidentielle-2027-gabriel-attal-revele-les-premieres-lignes-de-son-programme-magic-CNT000002pzsbo.html", "editeur": "Orange Actu", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "attal-institutions-01",
+    "candidat": "attal-gabriel",
+    "theme": "institutions",
+    "titre": "Réforme institutionnelle soumise au vote des Français",
+    "resume": "Réforme des institutions soumise au vote des Français, comprenant l'inscription dans la Constitution d'un principe de rapidité avec un délai maximal de deux mois pour répondre aux porteurs de projets, la limitation des recours administratifs à dix-huit mois, et une nouvelle organisation territoriale visant à renforcer le pouvoir des maires.",
+    "citation": "Je veux que la France fonce à 140, pas qu'elle roule à 80.",
+    "chiffrage": "Délai de réponse : 2 mois ; recours administratifs : 18 mois maximum",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" },
+      { "titre": "Exclusif — Gabriel Attal : « Je propose la plus grande réforme institutionnelle depuis 1958 »", "url": "https://www.lejdd.fr/politique/exclusif-gabriel-attal-je-propose-la-plus-grande-reforme-institutionnelle-depuis-1958-180333", "editeur": "Le Journal du Dimanche", "type": "media", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "attal-institutions-02",
+    "candidat": "attal-gabriel",
+    "theme": "institutions",
+    "titre": "Journée référendaire annuelle et référendums locaux facilités",
+    "resume": "Instaurer une journée référendaire annuelle portant sur les grands choix du pays et faciliter le recours aux référendums locaux.",
+    "citation": "Mon objectif est de redonner le pouvoir aux Français, aux élus locaux et à ceux qui agissent sur le terrain.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "attal-institutions-03",
+    "candidat": "attal-gabriel",
+    "theme": "institutions",
+    "titre": "Réforme des nominations et « spoils system » à la française",
+    "resume": "Réformer les nominations aux plus hautes fonctions de l'État et créer un « spoils system » à la française afin que les responsables administratifs appliquent le projet choisi par les électeurs.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "attal-securite-01",
+    "candidat": "attal-gabriel",
+    "theme": "securite-justice",
+    "titre": "Supprimer le juge de l'application des peines et les remises automatiques",
+    "resume": "Supprimer le juge de l'application des peines, mettre fin aux remises automatiques de peine, réécrire le Code de procédure pénale, classer la construction de nouvelles places de prison en opérations d'intérêt national et faire évoluer le cadre constitutionnel relatif à la délinquance des mineurs.",
+    "citation": "Une peine prononcée doit être une peine exécutée.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dans le JDD : Gabriel Attal veut proposer « la plus grande réforme institutionnelle depuis 1958 »", "url": "https://attalpresident.fr/actualites/dans-le-jdd-gabriel-attal-veut-proposer-la-plus-grande-reforme-institutionnelle-depuis-1958", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "attal-animaux-01",
+    "candidat": "attal-gabriel",
+    "theme": "ecologie",
+    "titre": "Supprimer les salons du chiot et du chaton et encadrer les ventes en ligne",
+    "resume": "Lutter contre l'abandon en supprimant les salons du chiot et du chaton, en faisant appliquer les sanctions contre les animaleries qui contournent l'interdiction de vendre des chiens et des chats, et en encadrant les ventes sur les plateformes en ligne.",
+    "citation": "Pour nous, un animal, c'est un moment de notre vie. Pour eux, c'est toute leur vie. Adopter un animal, ce n'est pas un caprice. C'est un engagement sur le long terme.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "En déplacement à la SPA de Plaisir, Gabriel Attal dévoile ses premières propositions pour la protection animale", "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "attal-animaux-02",
+    "candidat": "attal-gabriel",
+    "theme": "ecologie",
+    "titre": "Amende forfaitaire délictuelle et fichier national des interdictions de détention",
+    "resume": "Créer une amende forfaitaire délictuelle applicable dès le premier acte de maltraitance animale et un fichier national des personnes interdites de détenir un animal.",
+    "citation": "Le principe est finalement simple : tu maltraites, on te fait payer.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "En déplacement à la SPA de Plaisir, Gabriel Attal dévoile ses premières propositions pour la protection animale", "url": "https://attalpresident.fr/actualites/gabriel-attal-a-la-spa-de-plaisir-premieres-propositions-contre-labandon-animal", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "attal-education-03",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Rétablir les mesures du « Choc des savoirs »",
+    "resume": "Rétablir, parmi les premières décisions du mandat, les mesures du « Choc des savoirs » engagées lorsqu'il était ministre de l'Éducation nationale.",
+    "citation": "Comme ministre de l'Éducation nationale, j'ai pris des décisions fortes en lançant le Choc des savoirs et comme président de la République, l'une de mes premières décisions sera d'en rétablir les mesures.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-education-04",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Viser moins de 20 élèves par classe en primaire",
+    "resume": "Utiliser la baisse démographique attendue dans les établissements scolaires pour réduire le nombre d'élèves par classe, en visant moins de 20 élèves en primaire, et pour mieux rémunérer les professeurs et les accompagnants d'élèves en situation de handicap.",
+    "citation": "D'ici 10 ans, on estime qu'il y aura 1,7 million d'élèves de moins dans nos établissements scolaires du fait de la baisse de la natalité. Je n'y vois pas une source d'économies mais au contraire une opportunité pour avoir moins d'élèves par classe notamment en primaire où nous devons viser moins de 20 élèves par classe comme dans les meilleurs systèmes éducatifs européens.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-education-05",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Objectif d'une des premières places du classement PISA en dix ans",
+    "resume": "Fixer au système éducatif l'objectif de reprendre en dix ans une des premières places du classement PISA, la France étant passée du 7e au 20e rang des pays occidentaux en mathématiques en vingt-cinq ans.",
+    "citation": "Je fixe pour notre système éducatif un objectif simple : reprendre en dix ans l'une des premières places du classement PISA.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-numerique-02",
+    "candidat": "attal-gabriel",
+    "theme": "numerique-ia",
+    "titre": "Aller au bout de l'interdiction des réseaux sociaux aux moins de 15 ans",
+    "resume": "Interdire l'accès aux réseaux sociaux aux moins de 15 ans, présentée comme une mesure de protection de la jeunesse.",
+    "citation": "Je veux aussi libérer notre jeunesse de l'addiction aux réseaux sociaux. C'est un défi d'ampleur, un désastre sanitaire en puissance. C'est pour cela que nous irons au bout de leur interdiction pour les moins de 15 ans, pour les protéger.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Chantier capital 01 — École", "url": "https://attalpresident.fr/programme/education", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-economie-01",
+    "candidat": "attal-gabriel",
+    "theme": "economie",
+    "titre": "Zéro déficit en dix ans maximum",
+    "resume": "Fixer comme objectif de finances publiques le retour à un déficit nul en dix ans au maximum, avec un cadre pluriannuel et des responsabilités réparties entre le Gouvernement, le Parlement, les collectivités locales et la sphère sociale.",
+    "citation": "L'objectif est clair : zéro déficit en 10 ans maximum.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dette à résorber 01 — Dette de l'État", "url": "https://attalpresident.fr/programme/dette-de-letat", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-economie-02",
+    "candidat": "attal-gabriel",
+    "theme": "economie",
+    "titre": "Faire porter l'effort budgétaire d'abord sur la dépense sociale",
+    "resume": "Faire porter l'effort de redressement des comptes publics d'abord sur la dépense sociale, en réformant le modèle social pour inciter davantage à l'activité et réduire son coût budgétaire, aucune dépense n'étant exclue de l'examen.",
+    "citation": "L'effort devra d'abord porter sur la dépense sociale, qui représente plus de la moitié des dépenses publiques en France. Réformer le modèle social pour inciter davantage à l'activité et réduire son coût budgétaire : c'est possible et d'autres pays l'ont fait en Europe.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dette à résorber 01 — Dette de l'État", "url": "https://attalpresident.fr/programme/dette-de-letat", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-ecologie-01",
+    "candidat": "attal-gabriel",
+    "theme": "ecologie",
+    "titre": "Tripler le rythme annuel de réduction des émissions d'ici 2030",
+    "resume": "Porter le rythme annuel de réduction des émissions de gaz à effet de serre de 1,8 % à 5 % par an entre aujourd'hui et 2030, pour respecter les engagements climatiques de la France.",
+    "citation": "Pour respecter nos engagements climatiques, nous devons tripler notre rythme annuel de réduction des émissions entre maintenant et 2030 : passer de 1,8 % à 5 % par an.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dette à résorber 02 — Dette écologique", "url": "https://attalpresident.fr/programme/dette-ecologique", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-ecologie-02",
+    "candidat": "attal-gabriel",
+    "theme": "ecologie",
+    "titre": "Sortir de la dépendance aux énergies fossiles",
+    "resume": "Réduire la dépendance de la France aux énergies fossiles importées, par une rénovation thermique massive des logements, le développement de l'électrique et une industrie décarbonée.",
+    "citation": "Je veux une France qui continue à montrer la voie : une rénovation thermique massive pour que chaque foyer soit protégé des canicules comme du froid, l'électrique développé massivement et accessible à tous, une industrie décarbonée qui crée les emplois de demain sur notre territoire.",
+    "chiffrage": "53 milliards d'euros d'importations de combustibles fossiles en 2025, chiffre avancé par le candidat",
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dette à résorber 02 — Dette écologique", "url": "https://attalpresident.fr/programme/dette-ecologique", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-27" }
+    ]
+  },
+  {
+    "id": "attal-numerique-03",
+    "candidat": "attal-gabriel",
+    "theme": "numerique-ia",
+    "titre": "Soumettre à référendum l'interdiction des réseaux sociaux aux moins de 15 ans",
+    "resume": "Après la décision du Conseil constitutionnel du 14 août 2026, proposer de soumettre directement aux Français, par référendum, l'interdiction de l'accès aux réseaux sociaux aux moins de 15 ans.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dans La Tribune Dimanche : Gabriel Attal veut un référendum pour interdire les réseaux sociaux aux moins de 15 ans", "url": "https://attalpresident.fr/actualites/dans-la-tribune-dimanche-gabriel-attal-veut-un-referendum-pour-interdire-les-reseaux-sociaux-aux-moins-de-15-ans", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "attal-education-06",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Faire de l'École française la meilleure d'Europe en trois principes",
+    "resume": "Réformer l'École autour de trois principes : élever le niveau, mieux reconnaître les enseignants, et redonner de la stabilité et de l'autonomie à l'institution scolaire. Objectif affiché : que la génération entrant aujourd'hui à l'école bénéficie du meilleur système éducatif d'Europe.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Dans Le Monde : Gabriel Attal dévoile son projet pour faire notre École la meilleure d'Europe", "url": "https://attalpresident.fr/actualites/dans-le-monde-gabriel-attal-devoile-son-projet-pour-faire-notre-ecole-la-meilleure-d-europe", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "attal-securite-02",
+    "candidat": "attal-gabriel",
+    "theme": "securite-justice",
+    "titre": "Quatre priorités face aux occupations illégales de terrains",
+    "resume": "Modifier le droit applicable aux occupations illégales de terrains autour de quatre priorités : prévenir, faire payer les occupants plutôt que les contribuables, sanctionner ceux qui ne respectent pas la loi, et évacuer rapidement.",
+    "citation": "Je respecte tous les modes de vie, mais tous les modes de vie doivent respecter la loi de la République.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "En Vendée, Gabriel Attal exige le respect du droit par tous face aux occupations illégales des gens du voyage et fait des propositions", "url": "https://attalpresident.fr/actualites/en-vendee-gabriel-attal-exige-le-respect-du-droit-par-tous-face-aux-occupations-illegales-des-gens-du-voyage-et-fait-des-propositions", "editeur": "attalpresident.fr", "type": "officiel", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "attal-travail-05",
+    "candidat": "attal-gabriel",
+    "theme": "travail-salaires",
+    "titre": "Revenir sur les hausses du coût du travail intervenues depuis 2024",
+    "resume": "Annuler les hausses du coût du travail intervenues depuis 2024, présentées comme le premier engagement du candidat en matière de compétitivité.",
+    "citation": "Le premier engagement que je prendrai, c'est de revenir sur ces hausses du coût du travail, qui sont un boulet pour nos entreprises et dans la compétitivité de notre économie.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "attal-fiscalite-01",
+    "candidat": "attal-gabriel",
+    "theme": "fiscalite",
+    "titre": "Moins taxer les donations pour faire circuler le patrimoine plus vite",
+    "resume": "Réduire la taxation des transmissions vers les petits-enfants afin de faciliter l'apport nécessaire à l'achat d'un logement par les jeunes.",
+    "citation": "Je souhaite que si des personnes veulent que ce soit leurs petits enfants qui héritent davantage, ce soit possible.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?", "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "le-pen-retraites-01",
+    "candidat": "le-pen-marine",
+    "theme": "retraites",
+    "titre": "Retour à 62 ans, voire 60 ans, avec 40 à 42 annuités",
+    "resume": "Retour de l'âge légal de départ à 62 ans, voire 60 ans pour ceux qui ont commencé à travailler avant 20 ans, avec une durée de cotisation de 40 à 42 années, portée progressivement à 42 ans. Position réaffirmée le 27 août 2026 devant le Medef, après que le président du Rassemblement national a déclaré que le parti examinait un relèvement de l'âge légal.",
+    "citation": "Puis progressivement on arrivera à 42 ans de cotisations et un âge légal de 62 ans.",
+    "chiffrage": "Âge légal : 62 ans, voire 60 pour une entrée dans la vie active avant 20 ans ; cotisation : jusqu'à 42 ans",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" },
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "le-pen-economie-01",
+    "candidat": "le-pen-marine",
+    "theme": "economie",
+    "titre": "Trajectoire de rétablissement des finances publiques à 125 milliards d'euros d'économies",
+    "resume": "Présenter, juste avant l'ouverture du débat budgétaire, une trajectoire de rétablissement des finances publiques reposant sur 125 milliards d'euros d'économies.",
+    "citation": "Nous présenterons notre trajectoire de rétablissement des finances publiques avec 125 milliards d'euros d'économies.",
+    "chiffrage": "125 milliards d'euros d'économies (chiffre annoncé par la candidate)",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  }
+]

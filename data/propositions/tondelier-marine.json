@@ -1,0 +1,28 @@
+[
+  {
+    "id": "tondelier-salaires-01",
+    "candidat": "tondelier-marine",
+    "theme": "travail-salaires",
+    "titre": "SMIC à 2 000 euros brut avec un plan d'aide aux TPE et PME",
+    "resume": "Porter le SMIC à 2 000 euros brut, en contrepartie d'un grand plan d'aide aux très petites et petites et moyennes entreprises.",
+    "citation": "Un Smic à 2.000 euros brut.",
+    "chiffrage": "SMIC 2 000 € brut",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "tondelier-fiscalite-01",
+    "candidat": "tondelier-marine",
+    "theme": "fiscalite",
+    "titre": "Contribution de 10 % sur les héritages supérieurs à 4 millions d'euros",
+    "resume": "Instaurer une contribution de 10 % sur les héritages supérieurs à 4 millions d'euros et de 10 % supplémentaires au-delà de 13 millions, abaisser à 50 % le taux d'exonération du pacte Dutreil et supprimer les avantages fiscaux liés au démembrement de propriété.",
+    "citation": "La « grande transmission » doit financer la « grande transition ».",
+    "chiffrage": "15 milliards d'euros par an (chiffre annoncé)",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?", "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  }
+]

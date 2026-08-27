@@ -1,0 +1,39 @@
+[
+  {
+    "id": "hollande-retraites-01",
+    "candidat": "hollande-francois",
+    "theme": "retraites",
+    "titre": "Âge légal à 63 ans puis allongement de la durée de cotisation",
+    "resume": "Ne pas revenir à un âge légal de 62 ans mais partir de l'âge d'environ 63 ans applicable au 1er janvier 2028, puis allonger la durée de cotisation au rythme de l'évolution de l'espérance de vie et des déséquilibres démographiques, par un mécanisme d'ajustement confié aux partenaires sociaux. Propose également de limiter à 1 % pendant cinq ans l'indexation des pensions et d'ajouter une part de capitalisation contrôlée par les partenaires sociaux.",
+    "citation": "L'âge pivot doit tenir compte de l'allongement de l'espérance de vie et être corrigé en permanence.",
+    "chiffrage": "Âge légal : environ 63 ans ; indexation des pensions limitée à 1 % pendant cinq ans, gain présenté comme équivalent au report d'un an de l'âge de départ",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat", "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "hollande-fiscalite-01",
+    "candidat": "hollande-francois",
+    "theme": "fiscalite",
+    "titre": "TVA portée de 20 % à 24 %, taux réduit ramené à 0 % sur l'énergie et l'alimentaire",
+    "resume": "Porter progressivement le taux normal de TVA de 20 % à 24 %, et ramener de 5,5 % à 0 % le taux réduit applicable à l'énergie, y compris les carburants, et aux produits de première nécessité, notamment alimentaires. Prévoit également une contribution portant sur une partie des grosses successions.",
+    "chiffrage": "TVA : 20 % → 24 % ; taux réduit : 5,5 % → 0 % sur l'énergie et les produits de première nécessité",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat", "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "hollande-salaires-01",
+    "candidat": "hollande-francois",
+    "theme": "travail-salaires",
+    "titre": "Rapprocher le salaire net du brut en baissant les cotisations salariales",
+    "resume": "Baisser les cotisations salariales pour rapprocher le salaire net du salaire brut, mesure financée par une contribution sur une partie des grosses successions et par la hausse du taux normal de TVA.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat", "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "glucksmann-retraites-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "retraites",
+    "titre": "Ne pas faire de l'âge légal « le totem absolu »",
+    "resume": "Refus de s'engager à ce stade sur une réforme détaillée. Déclare qu'il ne fera pas de l'âge légal « le totem absolu » et qu'il se concentrera sur la durée de cotisation et la pénibilité du travail.",
+    "citation": "le totem absolu",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : qui propose quoi sur les retraites ?", "url": "https://lcp.fr/actualites/presidentielle-2027-qui-propose-quoi-sur-les-retraites-437864", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
+    ]
+  },
+  {
+    "id": "glucksmann-immigration-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "immigration",
+    "titre": "Convention citoyenne sur l'immigration",
+    "resume": "Organisation d'une convention citoyenne sur l'immigration, dont les propositions donneraient lieu à des textes de loi soumis au vote du Parlement.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : Raphaël Glucksmann dévoile les premières lignes de son possible programme", "url": "https://lcp.fr/actualites/presidentielle-raphael-glucksmann-devoile-les-premieres-lignes-de-son-possible-programme", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-06" }
+    ]
+  },
+  {
+    "id": "glucksmann-fiscalite-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "fiscalite",
+    "titre": "Taxer les méga-héritages pour financer une baisse de la CSG sur les salaires",
+    "resume": "Baisser la CSG sur les salaires et financer cette baisse par une taxation accrue des successions les plus importantes, présentées comme celles des 1 % les plus élevées. Déclare que 99 % des héritages ne seraient pas affectés.",
+    "citation": "On baisse la CSG sur les salaires pour les salariés et on trouve l'argent où ? Eh bien chez les grands, les méga-héritiers.",
+    "chiffrage": "15 milliards d'euros de recettes (chiffre annoncé par le candidat)",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" },
+      { "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?", "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  },
+  {
+    "id": "glucksmann-retraites-02",
+    "candidat": "glucksmann-raphael",
+    "theme": "retraites",
+    "titre": "Abroger la réforme des retraites et en refonder une sur la pénibilité",
+    "resume": "Abroger la réforme des retraites, qualifiée d'injuste, et en construire une autre fondée sur la pénibilité du travail.",
+    "citation": "Il faudra en faire une (autre), mais il faudra la fonder sur la pénibilité.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+    ]
+  }
+]

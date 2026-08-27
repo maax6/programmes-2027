@@ -1,0 +1,26 @@
+[
+  {
+    "id": "egger-institutions-01",
+    "candidat": "egger-clara",
+    "theme": "institutions",
+    "titre": "Deux référendums de révision institutionnelle en octobre 2027",
+    "resume": "Soumettre à référendum, au titre de l'article 11 de la Constitution, deux textes portant sur l'organisation des pouvoirs publics : une réforme de l'article 89 de la Constitution instaurant le référendum d'initiative citoyenne constituant, et une réforme du code des collectivités territoriales permettant à chaque commune d'exercer la compétence sur ses règles électorales. Le calendrier publié fixe les référendums au 9 octobre 2027. La candidate s'engage devant notaire sur ses biens à appliquer ce calendrier.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Présidentielle 2027 : comment enfin donner aux élus locaux et citoyens marge de manœuvre et contrôle", "url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/", "editeur": "solutiondemocratique.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  },
+  {
+    "id": "egger-institutions-02",
+    "candidat": "egger-clara",
+    "theme": "institutions",
+    "titre": "Un président arbitre, sans programme de gouvernement",
+    "resume": "Restreindre le rôle du président de la République à la fonction d'arbitrage prévue par l'article 5 de la Constitution, sans porter de projet de société ni de programme de gouvernement, la candidature étant présentée comme transpartisane et sans clivage gauche-droite.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Présidentielle 2027 : comment enfin donner aux élus locaux et citoyens marge de manœuvre et contrôle", "url": "https://solutiondemocratique.fr/notre-solution/calendrier-president/", "editeur": "solutiondemocratique.fr", "type": "officiel", "consulte_le": "2026-08-04" }
+    ]
+  }
+]

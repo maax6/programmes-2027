@@ -9,7 +9,13 @@
     "chiffrage": "Âge légal : environ 63 ans ; indexation des pensions limitée à 1 % pendant cinq ans, gain présenté comme équivalent au report d'un an de l'âge de départ",
     "statut_verification": "source-media",
     "sources": [
-      { "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat", "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+      {
+        "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
     ]
   },
   {
@@ -21,7 +27,13 @@
     "chiffrage": "TVA : 20 % → 24 % ; taux réduit : 5,5 % → 0 % sur l'énergie et les produits de première nécessité",
     "statut_verification": "source-media",
     "sources": [
-      { "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat", "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+      {
+        "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
     ]
   },
   {
@@ -33,7 +45,32 @@
     "chiffrage": null,
     "statut_verification": "source-media",
     "sources": [
-      { "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat", "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+      {
+        "titre": "Présidentielle : François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+        "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-28"
+      }
+    ]
+  },
+  {
+    "id": "hollande-fiscalite-02",
+    "candidat": "hollande-francois",
+    "theme": "fiscalite",
+    "titre": "Hausse des prélèvements obligatoires sur les cinq prochaines années",
+    "resume": "Déclare qu'une augmentation des prélèvements obligatoires sera inévitable sur les cinq prochaines années, en souhaitant qu'elle soit la plus faible possible. Conditionne une désindexation partielle des retraites à son inscription dans un plan d'ensemble où les plus favorisés et les revenus du capital participent également à l'effort.",
+    "citation": "On n'échappera pas à une augmentation des prélèvements, j'espère la plus faible possible, sur les cinq ans qui viennent.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : à Sens, la nécessité d'une « union des démocrates » face aux « extrêmes » au cœur du débat",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-a-sens-la-necessite-d-une-union-des-democrates-face-aux-extremes-au",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-31"
+      }
     ]
   }
 ]

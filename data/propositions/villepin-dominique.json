@@ -1,0 +1,78 @@
+[
+  {
+    "id": "villepin-fiscalite-01",
+    "candidat": "villepin-dominique",
+    "theme": "fiscalite",
+    "titre": "Grande loi d'extinction des niches fiscales et sociales",
+    "resume": "Supprimer l'ensemble des niches fiscales et sociales par une « grande loi d'extinction », présentée comme « une nouvelle abolition des privilèges » et une « nouvelle nuit du 4-Août ». L'extinction est annoncée comme « progressive, accompagnée et évaluée tout au long du quinquennat ». Une partie du produit servirait à compenser immédiatement les effets sur l'emploi et sur la viabilité des entreprises et des associations, une autre à financer des politiques publiques de l'emploi, de la recherche, du logement et de l'outre-mer.",
+    "citation": "Une nouvelle abolition des privilèges est essentielle.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : Dominique Villepin veut une « nouvelle abolition des privilèges » et un « big bang » fiscal",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-villepin-veut-une-nouvelle-abolition-des-privileges-et-un",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "villepin-fiscalite-02",
+    "candidat": "villepin-dominique",
+    "theme": "fiscalite",
+    "titre": "Neuf grands impôts, impôt unique sur le patrimoine et imposition renforcée des successions",
+    "resume": "Opérer « une simplification radicale » du système fiscal, qui ne comprendrait plus que neuf grands impôts. Parmi eux, un impôt unique sur le patrimoine « incluant l'ensemble des sources de la fortune », annoncé comme devant rapporter davantage qu'aujourd'hui, et « une imposition unique et renforcée des successions », en contrepartie d'une défiscalisation intégrale des transmissions effectuées du vivant du donateur.",
+    "citation": "Une imposition unique et renforcée des successions.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : Dominique Villepin veut une « nouvelle abolition des privilèges » et un « big bang » fiscal",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-villepin-veut-une-nouvelle-abolition-des-privileges-et-un",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "villepin-fiscalite-03",
+    "candidat": "villepin-dominique",
+    "theme": "fiscalite",
+    "titre": "Taux unique de CSG et basculement de plus de 200 milliards d'euros de cotisations",
+    "resume": "Instaurer « un taux unique de CSG pour tous », avec un élargissement de l'assiette aux dépenses d'intelligence artificielle, et basculer vers cette contribution « plus de deux cents milliards d'euros » de cotisations salariés et employeurs.",
+    "citation": "Un taux unique de CSG pour tous.",
+    "chiffrage": "Plus de 200 milliards d'euros de cotisations basculés vers la CSG (chiffre annoncé par le candidat)",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : Dominique Villepin veut une « nouvelle abolition des privilèges » et un « big bang » fiscal",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-villepin-veut-une-nouvelle-abolition-des-privileges-et-un",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-31"
+      }
+    ]
+  },
+  {
+    "id": "villepin-economie-01",
+    "candidat": "villepin-dominique",
+    "theme": "economie",
+    "titre": "Déficit public ramené à 3 % du PIB en fin de quinquennat",
+    "resume": "Ramener le déficit public à 3 % du PIB à la fin du quinquennat, par une réduction des dépenses publiques et sur la base d'une croissance annuelle évaluée à 0,8 %. Le candidat écarte les approches qu'il qualifie de « cures de rigueur », au motif que l'État français serait « un tonneau des Danaïdes ».",
+    "citation": "Notre État est un tonneau des Danaïdes dans lequel on peut verser toujours plus d'argent sans jamais parvenir à le remplir.",
+    "chiffrage": "Déficit public à 3 % du PIB en fin de quinquennat, hypothèse de croissance annuelle de 0,8 % (chiffres annoncés par le candidat)",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : Dominique Villepin veut une « nouvelle abolition des privilèges » et un « big bang » fiscal",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-villepin-veut-une-nouvelle-abolition-des-privileges-et-un",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-31"
+      }
+    ]
+  }
+]

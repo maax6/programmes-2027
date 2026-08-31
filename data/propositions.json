@@ -1819,6 +1819,25 @@
     ]
   },
   {
+    "id": "hollande-fiscalite-02",
+    "candidat": "hollande-francois",
+    "theme": "fiscalite",
+    "titre": "Hausse des prélèvements obligatoires sur les cinq prochaines années",
+    "resume": "Déclare qu'une augmentation des prélèvements obligatoires sera inévitable sur les cinq prochaines années, en souhaitant qu'elle soit la plus faible possible. Conditionne une désindexation partielle des retraites à son inscription dans un plan d'ensemble où les plus favorisés et les revenus du capital participent également à l'effort.",
+    "citation": "On n'échappera pas à une augmentation des prélèvements, j'espère la plus faible possible, sur les cinq ans qui viennent.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : à Sens, la nécessité d'une « union des démocrates » face aux « extrêmes » au cœur du débat",
+        "url": "https://lcp.fr/actualites/presidentielle-2027-a-sens-la-necessite-d-une-union-des-democrates-face-aux-extremes-au",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-08-31"
+      }
+    ]
+  },
+  {
     "id": "villepin-fiscalite-01",
     "candidat": "villepin-dominique",
     "theme": "fiscalite",

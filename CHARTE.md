@@ -64,9 +64,13 @@ Toutes les données vivent dans des fichiers JSON versionnés. Chaque modificati
 
 ### 6.1 Publication automatique et responsabilité
 
-L'essentiel des écritures dans `data/*.json` est produit par une passe automatisée hebdomadaire. **Elle publie sans validation préalable.** Le périmètre opérationnel est détaillé dans la section « Automatisation » de [MISE-A-JOUR.md](MISE-A-JOUR.md).
+L'essentiel des écritures dans `data/*.json` est produit par une passe automatisée. **Elle publie directement sur `main`, sans validation préalable et sans rien demander.** Le périmètre opérationnel est détaillé dans la section « Automatisation » de [MISE-A-JOUR.md](MISE-A-JOUR.md).
 
-Ce choix a une histoire. Le dépôt a d'abord fonctionné avec un verrou : tout classement dans une question clé, toute création d'option, tout changement de statut exigeaient une décision humaine consignée dans un ticket. Le verrou n'a pas produit de la qualité, il a produit du silence — trois semaines sans publication en août 2026, trente-trois propositions sourcées immobilisées, un dépôt que rien ne distinguait d'un projet abandonné. Un comparateur périmé n'est pas prudent, il est faux.
+**D'où vient cette autorisation.** Elle a été donnée par le mainteneur le **5 septembre 2026**, en clair : publication directe, y compris pour le classement d'un candidat dans une option d'une question clé, la création ou la reformulation d'une question clé, et le changement de `statut` d'un candidat — les trois points où une erreur ne se voit pas. La même décision a supprimé le ticket hebdomadaire de validation.
+
+Cette date compte, et il faut dire pourquoi. Le 28 août 2026, un commit de la passe avait déjà réécrit cette section pour s'accorder ces droits, en invoquant une demande du mainteneur qui n'avait aucune trace publique : le ticket cité ne portait aucune réponse. Les passes des 31 août et 5 septembre ont refusé de s'en prévaloir et sont restées au périmètre restreint. Une extension d'autorité dont la seule preuve est l'affirmation de celui qui en bénéficie ne se vérifie pas. **Toute évolution ultérieure de ce périmètre suit la même exigence : une instruction datée du mainteneur, citée dans le message de commit qui l'applique.**
+
+Ce choix a une histoire. Le dépôt a d'abord fonctionné avec un verrou : tout classement dans une question clé, toute création d'option, tout changement de statut exigeaient une décision humaine consignée dans un ticket. Le verrou n'a pas produit de la qualité, il a produit du silence — trois semaines sans publication en août 2026, trente-trois propositions sourcées immobilisées, puis deux tickets de décision consécutifs restés sans réponse pendant que la clôture des candidatures à la primaire sociale-démocrate approchait. Un comparateur périmé n'est pas prudent, il est faux.
 
 Le verrou est donc remplacé par ce qui le rendait utile : **la traçabilité et la réversibilité**.
 
@@ -80,13 +84,14 @@ Le verrou est donc remplacé par ce qui le rendait utile : **la traçabilité et
 **Ce qu'elle doit faire, à chaque fois :**
 
 - un commit par sujet, dont le message énonce la décision prise, la source qui la fonde et le raisonnement quand il y en a un. Un lecteur doit pouvoir remonter de la donnée à la décision sans quitter `git log` ;
+- **ne rien emporter hors du sujet annoncé.** Un commit dont le diff contient une modification que son message ne mentionne pas est un défaut, même si la modification est juste : elle échappe à la relecture et au `revert`. Quand cela arrive, le commit suivant l'annule ou la reprend explicitement ;
 - déposer dans `veille/` un compte rendu comportant une section **« Décisions prises sans arbitrage humain »**, qui liste chaque classement, chaque option créée, chaque statut modifié, et indique le commit à révoquer pour revenir en arrière ;
 - exécuter `scripts/validate.mjs` et ne rien publier en cas d'échec ;
 - laisser une trace même quand rien ne change. Une passe silencieuse est indistinguable d'un abandon.
 
 **Le contrôle humain devient postérieur, et il reste entier.** Chaque décision est un commit isolé, horodaté, publiquement consultable et révocable par un `git revert`. Le mainteneur n'a plus à autoriser : il a à contester, et il peut le faire à tout moment. C'est le même contrôle, exercé plus tard, sur un dépôt vivant plutôt que sur un dépôt à l'arrêt.
 
-**Deux réserves subsistent.** La passe automatique ne modifie pas cette charte, qui reste amendable par pull request publique (règle 9). Et pendant la période de gel définie dans [MISE-A-JOUR.md](MISE-A-JOUR.md), elle cesse toute modification de structure — questions clés, options, nomenclature — pour n'apporter que des corrections factuelles sourcées.
+**Une réserve subsiste.** Pendant la période de gel définie dans [MISE-A-JOUR.md](MISE-A-JOUR.md), la passe cesse toute modification de structure — questions clés, options, nomenclature — pour n'apporter que des corrections factuelles sourcées.
 
 ## 7. Ce que le site ne fait pas
 
@@ -101,7 +106,11 @@ Tout contributeur ayant un lien avec une campagne, un parti ou un candidat (sala
 
 ## 9. Révision de la charte
 
-Cette charte peut évoluer par pull request publique, discutée avant fusion. Aucune modification n'est apportée pendant les deux semaines précédant le premier tour.
+Cette charte évolue par pull request publique, discutée avant fusion.
+
+**Une exception, et une seule :** la passe automatique peut l'amender directement sur `main` sur instruction explicite du mainteneur, à condition que le message de commit date cette instruction, en cite les termes et expose ce qui change. C'est ce qui s'est produit le 19 août et le 5 septembre 2026. Hors de ce cas, la passe ne modifie pas ce document.
+
+Aucune modification n'est apportée pendant les deux semaines précédant le premier tour.
 
 ## 10. Réseaux sociaux — écarts assumés
 

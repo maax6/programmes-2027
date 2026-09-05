@@ -24,5 +24,19 @@
     "sources": [
       { "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?", "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
+  },
+  {
+    "id": "tondelier-institutions-01",
+    "candidat": "tondelier-marine",
+    "theme": "institutions",
+    "titre": "Loi interdisant le mensonge en politique, sanctionnée par l'inéligibilité",
+    "resume": "Faire voter une loi sanctionnant les « mensonges factuels et délibérés » des responsables politiques, avec des peines graduées allant de la rectification publique à l'inéligibilité et à la révocation des élus. Trois conditions cumulatives, reprises de la législation adoptée au Pays de Galles : une affirmation factuellement fausse, la connaissance de cette fausseté, l'intention de tromper. Précise que l'erreur, l'imprécision et le changement d'avis ne sont pas visés.",
+    "citation": "Je défends donc aujourd'hui le vote urgent d'une loi sur le mensonge en politique.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      { "titre": "Il faut une loi pour interdire le mensonge en politique", "url": "https://marinetondelier.fr/blog/il-faut-interdire-le-mensonge-en-politique", "editeur": "marinetondelier.fr", "type": "officiel", "consulte_le": "2026-09-05" },
+      { "titre": "Marine Tondelier veut « interdire le mensonge en politique » et sanctionner les élus pris en faute", "url": "https://lcp.fr/actualites/marine-tondelier-veut-interdire-le-mensonge-en-politique-et-sanctionner-les-elus-pris-en", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
+    ]
   }
 ]

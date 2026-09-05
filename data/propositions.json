@@ -1957,5 +1957,88 @@
         "consulte_le": "2026-08-31"
       }
     ]
+  },
+  {
+    "id": "verdier-institutions-01",
+    "candidat": "verdier-fabien",
+    "theme": "institutions",
+    "titre": "Inscrire la dotation globale de fonctionnement dans la loi organique et créer une loi de finances des collectivités territoriales",
+    "resume": "Inscrire la dotation globale de fonctionnement dans la loi organique comme ressource stable des communes et des collectivités territoriales, et créer une loi de finances des collectivités territoriales (LFCT) distincte, votée après la loi de financement de la sécurité sociale et avant la loi de finances initiale. La DGF ne pourrait pas baisser d'une année sur l'autre, sauf effort national partagé et jamais supérieur à celui que l'État s'applique à lui-même. Une part variable de la dotation financerait directement les projets d'investissement des collectivités.",
+    "citation": "La DGF ne pourra pas baisser d'une année sur l'autre — sauf effort national partagé équitablement et jamais supérieur à ce que l'État consent lui-même.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Fabien Verdier — Candidat pour la gauche socialiste et démocratique",
+        "url": "https://fabienverdier.fr/",
+        "editeur": "fabienverdier.fr",
+        "type": "officiel",
+        "consulte_le": "2026-09-05"
+      }
+    ]
+  },
+  {
+    "id": "verdier-institutions-02",
+    "candidat": "verdier-fabien",
+    "theme": "institutions",
+    "titre": "Réserver 20 % des membres du Gouvernement aux maires de villes sous-préfectures",
+    "resume": "Faire en sorte que 20 % des membres du Gouvernement soient issus des maires de villes sous-préfectures et d'arrondissements.",
+    "citation": "Nous proposons en outre que 20 % des membres du Gouvernement émane des Maires villes/arrondissements Sous-préfectures.",
+    "chiffrage": "20 % des membres du Gouvernement (proportion annoncée par le candidat)",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Fabien Verdier — Candidat pour la gauche socialiste et démocratique",
+        "url": "https://fabienverdier.fr/",
+        "editeur": "fabienverdier.fr",
+        "type": "officiel",
+        "consulte_le": "2026-09-05"
+      }
+    ]
+  },
+  {
+    "id": "verdier-logement-01",
+    "candidat": "verdier-fabien",
+    "theme": "logement",
+    "titre": "Plan de développement des 235 villes sous-préfectures et de leurs arrondissements",
+    "resume": "Placer au cœur du projet le développement des 235 villes sous-préfectures et de leurs arrondissements, où vivent selon le candidat plus de 32 millions de Français, au moyen de 21 actions prioritaires. Il annonce que 15 de ces actions seraient sans coût pour l'État, que certaines produiraient des économies et que d'autres apporteraient des recettes récurrentes aux communes, aux intercommunalités et à l'État.",
+    "citation": "Les 235 chefs-lieux d'arrondissement sont la solution, pas le problème.",
+    "chiffrage": "235 villes, plus de 32 millions d'habitants, 21 actions prioritaires dont 15 annoncées sans coût pour l'État (chiffres annoncés par le candidat)",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Fabien Verdier — Candidat pour la gauche socialiste et démocratique",
+        "url": "https://fabienverdier.fr/",
+        "editeur": "fabienverdier.fr",
+        "type": "officiel",
+        "consulte_le": "2026-09-05"
+      },
+      {
+        "titre": "L'ancien maire de Châteaudun Fabien Verdier candidat à la primaire de la gauche pour porter la voix « des terroirs et des sous-préfectures »",
+        "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-maire-de-chateaudun-fabien-verdier-candidat-a-la-primaire-de-la-gauche-pour-porter-la-voix-des-sous-prefectures_8176064.html",
+        "editeur": "franceinfo",
+        "type": "media",
+        "consulte_le": "2026-09-05"
+      }
+    ]
+  },
+  {
+    "id": "verdier-sante-01",
+    "candidat": "verdier-fabien",
+    "theme": "sante",
+    "titre": "Supprimer les agences régionales de santé et confier le pilotage aux élus",
+    "resume": "Supprimer les agences régionales de santé et confier aux élus le pilotage de la santé publique au service de leurs habitants.",
+    "citation": "Au niveau de la santé, nous supprimerons les Agences régionales de santé. Les élus pilotent la santé (publique) au service de leurs habitants.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Fabien Verdier — Candidat pour la gauche socialiste et démocratique",
+        "url": "https://fabienverdier.fr/",
+        "editeur": "fabienverdier.fr",
+        "type": "officiel",
+        "consulte_le": "2026-09-05"
+      }
+    ]
   }
 ]

@@ -346,7 +346,7 @@
     "couleur": "#2b5f9e",
     "site_officiel": "https://www.avecretailleau.fr/",
     "programme_url": null,
-    "note": "A annoncé sa candidature le 12 février 2026, puis a été désigné candidat des Républicains par vote des adhérents à la mi-avril 2026 (73,8 % des voix) ; campagne lancée le 20 juin 2026 au Parc floral de Paris. Aucun document programmatique complet n'était publié sur son site officiel au 5 septembre 2026 : les éléments ci-dessous proviennent d'entretiens et de discours. Un livre est annoncé pour fin septembre 2026.",
+    "note": "A annoncé sa candidature le 12 février 2026, puis a été désigné candidat des Républicains par vote des adhérents à la mi-avril 2026 (73,8 % des voix) ; campagne lancée le 20 juin 2026 au Parc floral de Paris. Aucun document programmatique complet n'était publié sur son site officiel au 10 août 2026 : les éléments ci-dessous proviennent d'entretiens et de discours. Un livre est annoncé pour fin septembre 2026.",
     "sources": [
       { "titre": "Présidentielle 2027 : Bruno Retailleau annonce sa candidature", "url": "https://www.franceinfo.fr/politique/bruno-retailleau/presidentielle-2027-bruno-retailleau-annonce-sa-candidature_7802885.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-08-06" },
       { "titre": "Présidentielle : Bruno Retailleau choisi comme candidat officiel des Républicains", "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-choisi-comme-candidat-officiel-des-republicains-435440", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
@@ -366,7 +366,7 @@
     "note": "A confirmé en août 2026 qu'il serait candidat à l'élection présidentielle. La date de sa déclaration initiale n'est pas établie par une source de niveau 1 ou 2 à ce jour, le champ « date_declaration » reste donc vide.",
     "sources": [
       { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
-      { "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection", "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+      { "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle", "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
   },
   {
@@ -522,6 +522,54 @@
     "sources": [
       { "titre": "Primaire du PS et de l'espace social-démocrate : le tarif de la discorde", "url": "https://lcp.fr/actualites/primaire-du-ps-et-de-l-espace-social-democrate-le-tarif-de-la-discorde-440219", "editeur": "LCP", "type": "media", "consulte_le": "2026-08-10" },
       { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+    ]
+  },
+  {
+    "id": "verdier-fabien",
+    "nom": "Fabien Verdier",
+    "parti": "Mouvement pour le développement des villes sous-préfectures",
+    "famille": "gauche",
+    "statut": "conditionnel",
+    "date_declaration": "2026-09-03",
+    "etat_programme": "orientations",
+    "couleur": "#c9738d",
+    "site_officiel": "https://fabienverdier.fr/",
+    "programme_url": "https://fabienverdier.fr/",
+    "note": "Ancien maire de Châteaudun (Eure-et-Loir) et ancien conseiller régional du Centre-Val de Loire, ancien secrétaire national du Parti socialiste qu'il a quitté. Candidat à la primaire de la gauche socialiste et démocratique, annoncé à l'AFP le 3 septembre 2026. Son site de campagne publie trois axes développés et sollicite des parrainages ; il ne présente pas de programme complet, d'où l'état « orientations ».",
+    "sources": [
+      { "titre": "Fabien Verdier — Candidat pour la gauche socialiste et démocratique", "url": "https://fabienverdier.fr/", "editeur": "fabienverdier.fr", "type": "officiel", "consulte_le": "2026-09-05" },
+      { "titre": "L'ancien maire de Châteaudun Fabien Verdier candidat à la primaire de la gauche pour porter la voix « des terroirs et des sous-préfectures »", "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-maire-de-chateaudun-fabien-verdier-candidat-a-la-primaire-de-la-gauche-pour-porter-la-voix-des-sous-prefectures_8176064.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-09-05" }
+    ]
+  },
+  {
+    "id": "maurel-emmanuel",
+    "nom": "Emmanuel Maurel",
+    "parti": "Gauche républicaine et socialiste",
+    "famille": "gauche",
+    "statut": "conditionnel",
+    "date_declaration": "2026-09-04",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#c4405f",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Député. A officialisé le 4 septembre 2026 sa candidature à la primaire de la gauche socialiste et démocratique, à laquelle la Gauche républicaine et socialiste participe aux côtés du Parti socialiste et de Place publique.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
+    ]
+  },
+  {
+    "id": "lalanne-francis",
+    "nom": "Francis Lalanne",
+    "parti": "France Libre",
+    "famille": "divers",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#8f7d6b",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Recensé par LCP parmi les candidats déclarés. La date de sa déclaration n'est pas établie par une source de niveau 1 ou 2 à ce jour, le champ « date_declaration » reste donc vide.",
+    "sources": [
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
     ]
   },
   {

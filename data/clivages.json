@@ -183,6 +183,7 @@
     "question": "Faut-il taxer davantage les héritages ?",
     "options": [
       { "id": "taxer-plus", "label": "Taxer davantage les héritages les plus élevés" },
+      { "id": "deplacer-vers-donations", "label": "Alourdir la transmission au décès, exonérer les donations du vivant" },
       { "id": "alleger", "label": "Alléger la fiscalité des successions et des donations" },
       { "id": "statu-quo", "label": "Maintenir la fiscalité actuelle" }
     ],
@@ -193,7 +194,8 @@
       "hollande-francois": { "option": "taxer-plus", "proposition": "hollande-fiscalite-01" },
       "retailleau-bruno": { "option": "alleger", "proposition": "retailleau-fiscalite-01" },
       "philippe-edouard": { "option": "alleger", "proposition": "philippe-fiscalite-01" },
-      "attal-gabriel": { "option": "alleger", "proposition": "attal-fiscalite-01" }
+      "attal-gabriel": { "option": "alleger", "proposition": "attal-fiscalite-01" },
+      "villepin-dominique": { "option": "deplacer-vers-donations", "proposition": "villepin-fiscalite-02" }
     }
   },
   {

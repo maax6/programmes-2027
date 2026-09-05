@@ -103,9 +103,10 @@
     "couleur": "#b5233a",
     "site_officiel": "https://www.pcf.fr/",
     "programme_url": null,
-    "note": "Candidat en 2022. En juin 2026, plus de 60 % des militants PCF ont validé un texte affirmant la légitimité d'une candidature communiste.",
+    "note": "Candidat en 2022. En juin 2026, plus de 60 % des militants PCF ont validé un texte affirmant la légitimité d'une candidature communiste. Une officialisation est annoncée pour le 6 septembre 2026, après un vote des militants.",
     "sources": [
-      { "titre": "PCF : la ligne de la direction sortante confortée", "url": "https://www.humanite.fr/politique/40e-congres-du-pcf-2026/pcf-la-ligne-de-la-direction-sortante-confortee", "editeur": "L'Humanité", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "PCF : la ligne de la direction sortante confortée", "url": "https://www.humanite.fr/politique/40e-congres-du-pcf-2026/pcf-la-ligne-de-la-direction-sortante-confortee", "editeur": "L'Humanité", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
     ]
   },
   {
@@ -178,14 +179,16 @@
     "nom": "Olivier Faure",
     "parti": "Parti socialiste",
     "famille": "gauche",
-    "statut": "pressenti",
+    "statut": "conditionnel",
+    "date_declaration": "2026-08-30",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#e8829b",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Premier secrétaire du PS, désavoué lors du vote militant du 9 juillet 2026 ; doit annoncer s'il participe à la primaire.",
+    "note": "Premier secrétaire du PS, désavoué lors du vote militant du 9 juillet 2026 sur le principe d'une primaire fermée. S'est déclaré candidat à cette primaire le 30 août 2026. Statut « conditionnel » comme les autres candidats à ce scrutin : la candidature à la présidentielle dépend de son issue.",
     "sources": [
-      { "titre": "Présidentielle : le PS se prononce pour une primaire fermée, un désaveu pour Olivier Faure", "url": "https://lcp.fr/actualites/presidentielle-le-ps-se-prononce-pour-une-primaire-fermee-un-desaveu-pour-olivier-faure", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle : le PS se prononce pour une primaire fermée, un désaveu pour Olivier Faure", "url": "https://lcp.fr/actualites/presidentielle-le-ps-se-prononce-pour-une-primaire-fermee-un-desaveu-pour-olivier-faure", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
     ]
   },
   {
@@ -343,7 +346,7 @@
     "couleur": "#2b5f9e",
     "site_officiel": "https://www.avecretailleau.fr/",
     "programme_url": null,
-    "note": "A annoncé sa candidature le 12 février 2026, puis a été désigné candidat des Républicains par vote des adhérents à la mi-avril 2026 (73,8 % des voix) ; campagne lancée le 20 juin 2026 au Parc floral de Paris. Aucun document programmatique complet n'était publié sur son site officiel au 10 août 2026 : les éléments ci-dessous proviennent d'entretiens et de discours. Un livre est annoncé pour fin septembre 2026.",
+    "note": "A annoncé sa candidature le 12 février 2026, puis a été désigné candidat des Républicains par vote des adhérents à la mi-avril 2026 (73,8 % des voix) ; campagne lancée le 20 juin 2026 au Parc floral de Paris. Aucun document programmatique complet n'était publié sur son site officiel au 5 septembre 2026 : les éléments ci-dessous proviennent d'entretiens et de discours. Un livre est annoncé pour fin septembre 2026.",
     "sources": [
       { "titre": "Présidentielle 2027 : Bruno Retailleau annonce sa candidature", "url": "https://www.franceinfo.fr/politique/bruno-retailleau/presidentielle-2027-bruno-retailleau-annonce-sa-candidature_7802885.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-08-06" },
       { "titre": "Présidentielle : Bruno Retailleau choisi comme candidat officiel des Républicains", "url": "https://lcp.fr/actualites/presidentielle-bruno-retailleau-choisi-comme-candidat-officiel-des-republicains-435440", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
@@ -363,7 +366,7 @@
     "note": "A confirmé en août 2026 qu'il serait candidat à l'élection présidentielle. La date de sa déclaration initiale n'est pas établie par une source de niveau 1 ou 2 à ce jour, le champ « date_declaration » reste donc vide.",
     "sources": [
       { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
-      { "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle", "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+      { "titre": "2027 : figure de la droite, Xavier Bertrand confirme qu'il sera candidat à l'élection", "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
   },
   {

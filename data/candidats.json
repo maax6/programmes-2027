@@ -69,11 +69,12 @@
     "statut": "conditionnel",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#2e9e5b",
-    "site_officiel": "https://lesecologistes.fr/",
+    "site_officiel": "https://marinetondelier.fr/",
     "programme_url": null,
-    "note": "Investie par son parti dans la perspective d'une primaire de la gauche et des écologistes, abandonnée en juillet 2026. Les Écologistes doivent redéfinir leur stratégie.",
+    "note": "Investie par son parti dans la perspective d'une primaire de la gauche et des écologistes, abandonnée en juillet 2026. Site de campagne personnel ouvert sous son nom, distinct du site des Écologistes : il publie un blog, un manifeste, des livrets thématiques et des carnets de doctrine. La page « Programme 2027 » qu'il annonce renvoie vers un document hébergé par lesecologistes.fr, qui n'a pas pu être ouvert par la passe du 5 septembre 2026 : programme_url reste vide tant que le document n'a pas été consulté.",
     "sources": [
-      { "titre": "« Les adhérents du PS ont décidé d'enterrer la primaire » : Marine Tondelier acte la rupture", "url": "https://lcp.fr/actualites/les-adherents-du-ps-ont-decide-d-enterrer-la-primaire-marine-tondelier-acte-la-rupture", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "« Les adhérents du PS ont décidé d'enterrer la primaire » : Marine Tondelier acte la rupture", "url": "https://lcp.fr/actualites/les-adherents-du-ps-ont-decide-d-enterrer-la-primaire-marine-tondelier-acte-la-rupture", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Marine Tondelier — site de campagne", "url": "https://marinetondelier.fr/", "editeur": "marinetondelier.fr", "type": "officiel", "consulte_le": "2026-09-05" }
     ]
   },
   {

@@ -211,5 +211,24 @@
       "dupont-aignan-nicolas": { "option": "sortie", "proposition": "dupont-aignan-europe-01" },
       "melenchon-jean-luc": { "option": "modifier-traites", "proposition": "melenchon-europe-01" }
     }
+  },
+  {
+    "id": "comptes-publics",
+    "theme": "economie",
+    "question": "Comment redresser les comptes publics ?",
+    "options": [
+      { "id": "baisse-depense", "label": "Par la baisse de la dépense publique" },
+      { "id": "hausse-prelevements", "label": "Par la hausse des prélèvements obligatoires" },
+      { "id": "les-deux", "label": "Par les deux à la fois" }
+    ],
+    "positions": {
+      "philippe-edouard": { "option": "baisse-depense", "proposition": "philippe-economie-05" },
+      "attal-gabriel": { "option": "baisse-depense", "proposition": "attal-economie-02" },
+      "retailleau-bruno": { "option": "baisse-depense", "proposition": "retailleau-economie-01" },
+      "le-pen-marine": { "option": "baisse-depense", "proposition": "le-pen-economie-01" },
+      "dupont-aignan-nicolas": { "option": "baisse-depense", "proposition": "dupont-aignan-economie-01" },
+      "villepin-dominique": { "option": "baisse-depense", "proposition": "villepin-economie-01" },
+      "hollande-francois": { "option": "hausse-prelevements", "proposition": "hollande-fiscalite-02" }
+    }
   }
 ]

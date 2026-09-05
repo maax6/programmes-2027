@@ -333,5 +333,18 @@
     "sources": [
       { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
+  },
+  {
+    "id": "philippe-economie-05",
+    "candidat": "philippe-edouard",
+    "theme": "economie",
+    "titre": "Diminuer la dépense sociale plutôt qu'augmenter les impôts",
+    "resume": "Écarte la hausse des prélèvements, présentée comme « la pente traditionnelle du débat public français », au profit d'une diminution de la dépense publique et en particulier de la dépense sociale, dont il déclare qu'elle « n'est plus soutenable ». Déclare que la priorité est « l'intérêt des actifs », qui doivent être « les plus encouragés et les plus préservés », et appelle à travailler « un peu plus longtemps ».",
+    "citation": "Osons dire que si nous voulons sortir de notre ornière, nous allons devoir chacun faire un effort et travailler un peu plus longtemps.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : à Sens, la nécessité d'une « union des démocrates » face aux « extrêmes » au cœur du débat", "url": "https://lcp.fr/actualites/presidentielle-2027-a-sens-la-necessite-d-une-union-des-democrates-face-aux-extremes-au", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-31" }
+    ]
   }
 ]

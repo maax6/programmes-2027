@@ -11,12 +11,12 @@
       "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
       "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
       "editeur": "LCP - Assemblée nationale",
-      "consulte_le": "2026-07-31"
+      "consulte_le": "2026-09-05"
     }
   },
   "derniere_mise_a_jour": "2026-09-05",
-  "version_donnees": "0.3.2",
-  "avertissement": "Nous sommes à environ huit mois du premier tour. La très grande majorité des candidats n'a pas encore publié de programme complet. Ce site n'affiche que ce qui est publiquement documenté à ce jour, avec la source et la date de chaque élément. Une case vide signifie « pas encore de position publique sourcée », jamais « pas d'avis ». La couverture est inégale entre candidats : onze d'entre eux sont documentés sur trente-cinq, et deux concentrent la majorité des entrées, parce qu'eux seuls publient des documents programmatiques détaillés en continu. Un tableau plus rempli pour un candidat ne dit rien de la qualité ni de l'ampleur de son projet. Les données sont mises à jour et publiées chaque semaine par une passe automatisée dont le périmètre et les garde-fous sont décrits dans CHARTE.md ; chaque décision est un commit public et révocable.",
+  "version_donnees": "0.4.0",
+  "avertissement": "Nous sommes à environ sept mois du premier tour. La très grande majorité des candidats n'a pas encore publié de programme complet. Ce site n'affiche que ce qui est publiquement documenté à ce jour, avec la source et la date de chaque élément. Une case vide signifie « pas encore de position publique sourcée », jamais « pas d'avis ». La couverture est très inégale : douze candidats sont documentés sur trente-huit, et deux d'entre eux concentrent la majorité des entrées. Cette inégalité tient à ce que chaque candidat a publié à ce jour, et à ce que notre veille a pu trouver et vérifier ; elle ne dit rien de la qualité, du sérieux ni de l'ampleur d'un projet. Un tableau plus rempli pour un candidat ne signifie pas qu'il en propose davantage. Les données sont mises à jour et publiées chaque semaine par une passe automatisée dont le périmètre et les garde-fous sont décrits dans CHARTE.md ; chaque décision est un commit public et révocable.",
   "licence_donnees": "CC BY-SA 4.0",
   "licence_code": "MIT",
   "depot": "https://github.com/maax6/programmes-2027"

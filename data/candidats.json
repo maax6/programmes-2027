@@ -435,14 +435,16 @@
     "nom": "Éric Zemmour",
     "parti": "Reconquête",
     "famille": "extreme-droite",
-    "statut": "conditionnel",
+    "statut": "declare",
+    "date_declaration": "2026-09-17",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#3a3a6e",
     "site_officiel": "https://www.parti-reconquete.fr/",
     "programme_url": null,
-    "note": "A déclaré : « S'il n'y a pas de primaire, je serai candidat. S'il y en a, je serai candidat à la primaire. »",
+    "note": "A officialisé sa candidature le 17 septembre 2026 sur BFMTV : « Vous avez compris, je serai candidat à la présidentielle ». Il avait auparavant déclaré : « S'il n'y a pas de primaire, je serai candidat. S'il y en a, je serai candidat à la primaire. »",
     "sources": [
-      { "titre": "Éric Zemmour affirme sur RTL qu'il se prépare à la présidentielle 2027", "url": "https://www.rtl.fr/actu/politique/s-il-n-y-a-pas-de-primaire-je-serai-candidat-eric-zemmour-affirme-sur-rtl-qu-il-se-prepare-a-la-presidentielle-2027-malgre-la-percee-magnifique-de-sarah-knafo-7900630227", "editeur": "RTL", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Éric Zemmour affirme sur RTL qu'il se prépare à la présidentielle 2027", "url": "https://www.rtl.fr/actu/politique/s-il-n-y-a-pas-de-primaire-je-serai-candidat-eric-zemmour-affirme-sur-rtl-qu-il-se-prepare-a-la-presidentielle-2027-malgre-la-percee-magnifique-de-sarah-knafo-7900630227", "editeur": "RTL", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : Éric Zemmour officialise sa candidature", "url": "https://lcp.fr/actualites/presidentielle-2027-eric-zemmour-officialise-sa-candidature-441871", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {

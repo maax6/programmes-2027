@@ -63,5 +63,18 @@
     "sources": [
       { "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans", "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
+  },
+  {
+    "id": "melenchon-education-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "education",
+    "titre": "Abolir Parcoursup et créer 150 000 places dans l'enseignement supérieur",
+    "resume": "Abolition de Parcoursup et création de 150 000 places supplémentaires dans l'enseignement supérieur, afin que « tout bachelier » puisse « s'inscrire dans la formation de son choix ». La source attribue cette position conjointement à La France insoumise et à son candidat.",
+    "citation": "tout bachelier [puisse] s'inscrire dans la formation de son choix comme la Constitution le prévoit",
+    "chiffrage": "150 000 places supplémentaires",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle", "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
   }
 ]

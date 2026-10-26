@@ -50,5 +50,18 @@
     "sources": [
       { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
+  },
+  {
+    "id": "glucksmann-education-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "education",
+    "titre": "Remplacer Parcoursup à l'issue d'états généraux de l'orientation",
+    "resume": "Fixer « un calendrier précis » pour supprimer Parcoursup et le remplacer par un dispositif présenté comme « plus juste », défini à l'issue d'« états généraux de l'orientation avec les lycéens, les parents et les enseignants ».",
+    "citation": "le supprimer pour le remplacer",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle", "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
   }
 ]

@@ -38,5 +38,18 @@
       { "titre": "Il faut une loi pour interdire le mensonge en politique", "url": "https://marinetondelier.fr/blog/il-faut-interdire-le-mensonge-en-politique", "editeur": "marinetondelier.fr", "type": "officiel", "consulte_le": "2026-09-05" },
       { "titre": "Marine Tondelier veut « interdire le mensonge en politique » et sanctionner les élus pris en faute", "url": "https://lcp.fr/actualites/marine-tondelier-veut-interdire-le-mensonge-en-politique-et-sanctionner-les-elus-pris-en", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
     ]
+  },
+  {
+    "id": "tondelier-education-01",
+    "candidat": "tondelier-marine",
+    "theme": "education",
+    "titre": "Supprimer Parcoursup avant la présidentielle",
+    "resume": "Supprimer Parcoursup, qualifié d'« algorithme injuste, opaque » qui « stresse les élèves et leurs parents », et ce « avant la présidentielle ».",
+    "citation": "algorithme injuste, opaque",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle", "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
   }
 ]

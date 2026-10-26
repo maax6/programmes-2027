@@ -363,5 +363,18 @@
     "sources": [
       { "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?", "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
+  },
+  {
+    "id": "attal-education-07",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Faire de Parcoursup « un outil qui accompagne davantage »",
+    "resume": "Proposé lors de son meeting de Lyon, le 10 octobre 2026 : faire de la plateforme Parcoursup « un outil qui accompagne davantage ».",
+    "citation": "un outil qui accompagne davantage",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle", "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
   }
 ]

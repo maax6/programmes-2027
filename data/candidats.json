@@ -591,13 +591,16 @@
     "nom": "Olivier Becht",
     "parti": "Apparenté Ensemble pour la République",
     "famille": "centre",
-    "statut": "pressenti",
+    "statut": "declare",
+    "date_declaration": "2026-09-24",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#f0c68a",
     "site_officiel": null,
     "programme_url": null,
+    "note": "Député apparenté Ensemble pour la République. A annoncé sa candidature à l'élection présidentielle le 24 septembre 2026, selon le recensement de LCP.",
     "sources": [
-      { "titre": "Présidentielle 2027 : Olivier Becht envisage une candidature", "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-ancien-ministre-et-camarade-de-macron-a-l-ena-olivier-becht-envisage-une-candidature_AN-202606160283.html", "editeur": "BFMTV", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle 2027 : Olivier Becht envisage une candidature", "url": "https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-2027-ancien-ministre-et-camarade-de-macron-a-l-ena-olivier-becht-envisage-une-candidature_AN-202606160283.html", "editeur": "BFMTV", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {

@@ -96,5 +96,32 @@
     "sources": [
       { "titre": "Héritages et droits de succession : que proposent les candidats à l'élection présidentielle ?", "url": "https://lcp.fr/actualites/heritages-et-droits-de-succession-que-proposent-les-candidats-a-l-election", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
+  },
+  {
+    "id": "retailleau-economie-03",
+    "candidat": "retailleau-bruno",
+    "theme": "economie",
+    "titre": "197 milliards d'euros d'économies cumulées d'ici 2032, sans impôt nouveau",
+    "resume": "Plan présenté le 12 octobre 2026 : 197 milliards d'euros d'économies cumulées jusqu'en 2032, pour ramener le déficit sous 3 % en 2031 et à 2,2 % en 2032. 96 milliards sur l'État, dont le non-remplacement de 400 000 fonctionnaires partant à la retraite d'ici 2032 et la suppression d'agences et d'opérateurs ; 91 milliards dans le domaine social, dont 42 milliards sur les retraites, 4 milliards sur les arrêts maladie et 10 milliards sur l'immigration ; 10 milliards demandés aux collectivités. Sur le total, 146 milliards affectés à la réduction de la dépense et de la dette, 51 milliards « rendus aux Français » : 21 milliards aux ménages, 30 milliards aux entreprises, notamment par la suppression d'impôts de production.",
+    "citation": "Il n'y aura pas d'impôt nouveau.",
+    "chiffrage": "197 Md€ cumulés jusqu'en 2032 ; déficit sous 3 % en 2031 (chiffres annoncés par le candidat)",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Face à une France \"quasiment en faillite\", Bruno Retailleau présente un plan d'économies de 197 milliards d'euros sur cinq ans", "url": "https://lcp.fr/actualites/face-a-une-france-quasiment-en-faillite-bruno-retailleau-presente-un-plan-d-economies-de", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
+  },
+  {
+    "id": "retailleau-education-01",
+    "candidat": "retailleau-bruno",
+    "theme": "education",
+    "titre": "Remplacer Parcoursup par une plateforme fondée sur le seul mérite, et assumer la sélection à l'université",
+    "resume": "Remplacer Parcoursup, qualifié de « boîte noire », par une nouvelle plateforme d'orientation fondée « uniquement » sur le mérite, et instaurer une sélection à l'entrée de l'université.",
+    "citation": "Je pense qu'il faut une nouvelle plateforme, Parcoursup c'est une boîte noire. [...] La nouvelle plateforme que je proposerais, ce sera uniquement le mérite.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Crise lycéenne : Bruno Retailleau veut « une sélection à l'université »", "url": "https://www.publicsenat.fr/actualites/politique/crise-lyceenne-bruno-retailleau-veut-une-selection-a-luniversite", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" },
+      { "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle", "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
   }
 ]

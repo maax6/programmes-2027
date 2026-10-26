@@ -25,5 +25,57 @@
     "sources": [
       { "titre": "Présidentielle 2027 : ce qu'il faut retenir du premier débat entre les candidats", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qu-il-faut-retenir-du-premier-debat-entre-les-candidats-440670", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
     ]
+  },
+  {
+    "id": "le-pen-economie-02",
+    "candidat": "le-pen-marine",
+    "theme": "economie",
+    "titre": "140 milliards d'euros d'économies d'ici 2032",
+    "resume": "Trajectoire des finances publiques sur cinq ans présentée le 6 octobre 2026 : 140 milliards d'euros d'économies d'ici 2032, soit 15 milliards de plus que le montant annoncé fin août (voir le-pen-economie-01), pour faire passer la dette de 121 % du PIB en 2027 à 112 % en 2032. Postes annoncés : immigration (15 milliards en 2027, 29 milliards en année pleine), retraites (15 à 20 milliards par la correction de « mesures injustes »), contribution à l'Union européenne (9 milliards), réorganisation de l'État (20,7 milliards dès 2027, dont la suppression de la « quasi-totalité » des agences de l'État, chiffrée à 3,4 milliards), contribution des collectivités territoriales (8,2 milliards en 2027) et centralisation des recettes de TVA.",
+    "citation": "effort radical",
+    "chiffrage": "140 Md€ d'économies d'ici 2032 ; dette de 121 % à 112 % du PIB (chiffres annoncés par la candidate)",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "140 milliards d'euros d'économies d'ici 2032 : « l'effort radical » proposé par Marine Le Pen pour « redresser » les finances publiques", "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
+    ]
+  },
+  {
+    "id": "le-pen-economie-03",
+    "candidat": "le-pen-marine",
+    "theme": "economie",
+    "titre": "Une règle d'or budgétaire inscrite dans la Constitution par référendum",
+    "resume": "Inscrire dans la Constitution, par la voie du référendum, une « règle d'or » fixant un seuil maximal de déficit, établi au niveau en dessous duquel la dette se stabilise. Le référendum serait organisé « dans les douze mois » suivant l'élection.",
+    "citation": "dans les douze mois",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "140 milliards d'euros d'économies d'ici 2032 : « l'effort radical » proposé par Marine Le Pen pour « redresser » les finances publiques", "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
+    ]
+  },
+  {
+    "id": "le-pen-retraites-02",
+    "candidat": "le-pen-marine",
+    "theme": "retraites",
+    "titre": "Un « pilier de capitalisation » pour les retraites",
+    "resume": "Proposer un « pilier de capitalisation » dans le système de retraite, annoncé lors de la présentation de la trajectoire budgétaire du 6 octobre 2026. Les modalités ne sont pas détaillées ; la réforme des retraites de la candidate n'est pas encore publiée.",
+    "citation": "pilier de capitalisation",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "140 milliards d'euros d'économies d'ici 2032 : « l'effort radical » proposé par Marine Le Pen pour « redresser » les finances publiques", "url": "https://www.publicsenat.fr/actualites/politique/140-milliards-deuros-deconomies-dici-2032-leffort-radical-propose-par-marine-le-pen-pour-redresser-les-f", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
+    ]
+  },
+  {
+    "id": "le-pen-education-01",
+    "candidat": "le-pen-marine",
+    "theme": "education",
+    "titre": "Réformer Parcoursup, avec une transparence totale des critères",
+    "resume": "Réformer Parcoursup en cas d'élection, en rendant entièrement transparents les critères retenus par les universités et les écoles.",
+    "citation": "Ce que nous souhaitons, c'est qu'il y ait une transparence totale dans les critères qui sont choisis par les différentes universités ou les différentes écoles.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle", "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
   }
 ]

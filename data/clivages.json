@@ -232,5 +232,24 @@
       "villepin-dominique": { "option": "baisse-depense", "proposition": "villepin-economie-01" },
       "hollande-francois": { "option": "hausse-prelevements", "proposition": "hollande-fiscalite-02" }
     }
+  },
+  {
+    "id": "parcoursup",
+    "theme": "education",
+    "question": "Que faire de Parcoursup ?",
+    "options": [
+      { "id": "supprimer", "label": "Le supprimer" },
+      { "id": "remplacer", "label": "Le remplacer par un nouveau dispositif d'orientation" },
+      { "id": "reformer", "label": "Le conserver en le réformant" }
+    ],
+    "positions": {
+      "melenchon-jean-luc": { "option": "supprimer", "proposition": "melenchon-education-01" },
+      "tondelier-marine": { "option": "supprimer", "proposition": "tondelier-education-01" },
+      "roussel-fabien": { "option": "supprimer", "proposition": "roussel-education-01" },
+      "glucksmann-raphael": { "option": "remplacer", "proposition": "glucksmann-education-01" },
+      "retailleau-bruno": { "option": "remplacer", "proposition": "retailleau-education-01" },
+      "le-pen-marine": { "option": "reformer", "proposition": "le-pen-education-01" },
+      "attal-gabriel": { "option": "reformer", "proposition": "attal-education-07" }
+    }
   }
 ]

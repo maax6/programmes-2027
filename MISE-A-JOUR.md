@@ -9,12 +9,12 @@ Un comparateur de programmes ne vaut que par sa fraîcheur. Ce document fixe le 
 | Échéance | Date | Effet sur les données |
 |---|---|---|
 | ~~Parlement du Parti socialiste~~ | 25 août 2026 | *Fait.* PS et Place publique ont ratifié les modalités de la primaire |
-| Officialisation de Fabien Roussel | 6 septembre 2026 (annoncée) | Statut candidat, après vote des militants PCF |
-| Dépôt des candidatures à la primaire sociale-démocrate | 1er au 15 septembre 2026 | Fige le champ des prétendants socialistes |
-| Livre de Bruno Retailleau | fin septembre 2026 (annoncé) | Première matière programmatique d'un candidat majeur non documenté |
-| Plan d'économies de Marine Le Pen (125 Md€) | fin septembre 2026 (annoncé) | Première matière chiffrée du Rassemblement national |
-| Décision de Bruno Le Maire | octobre 2026 (annoncée) | Statut candidat |
-| Primaire de la gauche socialiste et démocratique | 9-10 et 16-17 octobre 2026 | Élimine plusieurs candidatures socialistes, en consacre une |
+| ~~Officialisation de Fabien Roussel~~ | 6 septembre 2026 | *Fait.* Candidature validée à 72 % par les adhérents du PCF |
+| ~~Dépôt des candidatures à la primaire sociale-démocrate~~ | 1er au 15 septembre 2026 | *Fait.* Cinq candidats retenus le 16 septembre ; Philippe Brun non ratifié |
+| ~~Livre de Bruno Retailleau~~ | octobre 2026 | *Paru.* Dix-huit lettres thématiques, présenté par l'auteur comme n'étant « pas un livre programme » ; plan d'économies de 197 Md€ présenté séparément le 12 octobre |
+| ~~Plan d'économies de Marine Le Pen~~ | 6 octobre 2026 | *Fait.* 140 Md€ d'économies d'ici 2032 (contre 125 Md€ annoncés fin août) |
+| Décision de Bruno Le Maire | octobre 2026 (annoncée) | Statut candidat. Aucune décision trouvée au 26 octobre 2026 |
+| ~~Primaire de la gauche socialiste et démocratique~~ | 9-11 octobre 2026 | *Fait.* Raphaël Glucksmann désigné dès le premier tour (66,17 %), vote prolongé jusqu'au 11 octobre ; pas de second tour |
 | Programme de Jean-Luc Mélenchon | novembre 2026 (annoncé) | Actualisation 2027 de « L'Avenir en commun » |
 | Décision de François Hollande | décembre 2026 (annoncée) | Statut candidat |
 | Publication des programmes détaillés | hiver 2026-2027 (usage) | Pic de charge principal |
@@ -46,7 +46,7 @@ Chaque passe laisse une trace, même si elle ne change rien : un compte rendu da
 ## Procédure d'une passe de mise à jour
 
 1. **Relever les statuts.** Parcourir la liste de veille (ci-dessous) et vérifier chaque candidat : déclaré, retiré, désigné, éliminé en primaire. Vérifier aussi que le dépôt ne manque pas un candidat que la source de recensement liste déjà — c'est ainsi que Francis Lalanne est resté absent pendant cinq semaines.
-2. **Chercher le site du candidat, pas celui du parti.** Avant toute autre chose, prendre un candidat dont le `site_officiel` porte une adresse de parti et chercher s'il a ouvert un site à son nom. Cinq fiches sont dans ce cas au 5 septembre 2026 : **Arthaud** (`lutte-ouvriere.org`), **Zemmour** (`parti-reconquete.fr`), **Philippot** (`les-patriotes.fr`), **Asselineau** (`upr.fr`), **Roussel** (`pcf.fr`). C'est le gisement le plus sûr du projet et il ne demande aucun arbitrage (voir « Deux leçons de méthode »).
+2. **Chercher le site du candidat, pas celui du parti.** Avant toute autre chose, prendre un candidat dont le `site_officiel` porte une adresse de parti et chercher s'il a ouvert un site à son nom. Quatre fiches sont dans ce cas au 26 octobre 2026 : **Arthaud** (`lutte-ouvriere.org`), **Zemmour** (`parti-reconquete.fr`), **Philippot** (`les-patriotes.fr`), **Asselineau** (`upr.fr`). Roussel est sorti de la liste le 26 octobre (`fabienroussel2027.fr`). C'est le gisement le plus sûr du projet et il ne demande aucun arbitrage (voir « Deux leçons de méthode »).
 3. **Vérifier les sites officiels connus.** Pour chaque candidat dont `programme_url` est renseigné, vérifier que l'URL répond et que le contenu n'a pas changé. Pour ceux dont il est `null`, vérifier si un programme est apparu.
 4. **Extraire les nouvelles propositions.** Une entrée par mesure, dans le vocabulaire du candidat, avec citation quand la formulation compte.
 5. **Compléter les questions clés.** Pour chaque nouvelle proposition, se demander si elle répond à une question clé existante. Si oui, classer le candidat en rattachant la proposition. Si la position ne rentre dans aucune option, créer l'option ou laisser vide — jamais d'approximation. Si elle appelle une nouvelle question, **chercher activement la position des autres candidats** avant de l'ouvrir (règle 5 de la charte).
@@ -86,6 +86,7 @@ Chaque passe laisse une trace, même si elle ne change rien : un compte rendu da
 | Nicolas Dupont-Aignan | https://www.dupontaignan.fr/ |
 | Clara Egger | https://solutiondemocratique.fr/ |
 | Fabien Verdier | https://fabienverdier.fr/ |
+| Fabien Roussel | https://www.fabienroussel2027.fr/ |
 
 **Sites de parti — à ne pas confondre avec les précédents**
 
@@ -107,7 +108,7 @@ Chaque passe laisse une trace, même si elle ne change rien : un compte rendu da
 
 **Chercher le site du candidat, pas seulement celui du parti.** C'est ainsi que `marinelepen.com` et `dupontaignan.fr` ont été trouvés le 10 août 2026, puis `marinetondelier.fr` le 5 septembre — trois fois la même erreur, sur des fiches qui portaient l'adresse du parti. La leçon est désormais l'étape 2 de la procédure, avec la liste nominative des fiches restant à examiner : une leçon qu'on écrit sans l'inscrire dans la procédure ne s'applique pas.
 
-**Les petites formations rendent plus que les grandes.** Leurs candidats publient des documents courts, signés et immédiatement exploitables — tracts, professions de foi, notes de blog, listes de mesures prioritaires. Quatre passes de suite, le gain de couverture est venu d'un site que le dépôt ne connaissait pas : `dupontaignan.fr` le 10 août, `lafrancehumaniste.fr` le 31 août, `marinetondelier.fr` et `fabienverdier.fr` le 5 septembre. Aucun candidat majeur n'a publié de document nouveau sur la même période. La veille des grands sites de campagne est le travail le moins rentable de la procédure ; elle reste nécessaire, elle ne doit pas être prioritaire.
+**Les petites formations rendent plus que les grandes.** Leurs candidats publient des documents courts, signés et immédiatement exploitables — tracts, professions de foi, notes de blog, listes de mesures prioritaires. Quatre passes de suite, le gain de couverture est venu d'un site que le dépôt ne connaissait pas : `dupontaignan.fr` le 10 août, `lafrancehumaniste.fr` le 31 août, `marinetondelier.fr` et `fabienverdier.fr` le 5 septembre. Le 26 octobre, `fabienroussel2027.fr` a été trouvé, mais sa page d'accueil ne porte que des orientations et ses documents de campagne (PDF) n'ont pas pu être ouverts. Aucun candidat majeur n'a publié de document nouveau sur la même période. La veille des grands sites de campagne est le travail le moins rentable de la procédure ; elle reste nécessaire, elle ne doit pas être prioritaire.
 
 ### Sources à ne jamais utiliser
 
@@ -123,24 +124,24 @@ Leur danger n'est pas d'être grossièrement faux : c'est d'afficher des mesures
 
 Priorités décroissantes, à traiter dès que les sources existent :
 
-1. **Marine Le Pen / RN** — aucun programme 2027 publié, constat revérifié le 5 septembre 2026 sur `marinelepen.com`. Deux entrées, toutes deux en `source-media`. Un plan d'économies de 125 milliards d'euros est annoncé pour l'ouverture du débat budgétaire, fin septembre : ce sera la première matière chiffrée du Rassemblement national.
-2. **Bruno Retailleau** — huit entrées, toutes en `source-media`. Aucun document programmatique sur `avecretailleau.fr`. Projet de réforme des retraites annoncé « dans quelques jours » le 27 août, toujours pas publié au 5 septembre ; livre annoncé fin septembre 2026.
-3. **Jean-Luc Mélenchon** — le corpus « L'Avenir en commun » 2025 compte plusieurs centaines de mesures ; six entrées intégrées sur 18 chapitres. Le candidat annonce son programme 2027 « prêt » en novembre 2026.
-4. **Cinq `site_officiel` portant une adresse de parti** — Arthaud, Zemmour, Philippot, Asselineau, Roussel. Voir l'étape 2 de la procédure. Aucun arbitrage requis, rendement historiquement élevé.
-5. **Candidats déclarés sans aucune entrée** — dix au 5 septembre : Arthaud, Batho, Bouamrane, Cazeneuve, Bertrand, Lisnard, Philippot, Asselineau, Mikolajczak, Lalanne. Cazeneuve est le cas le plus gênant : il s'exprime publiquement et régulièrement, mais sur des questions d'alliance que la règle 7 exclut.
-6. **`clivages.json`** — 15 questions, objectif 30-40. Trois questions restent sous le seuil de deux positions et n'apparaissent qu'en zone de flou : `code-travail`, `regle-or`, `accord-1968`.
+1. **Marine Le Pen / RN** — aucun programme 2027 publié sur `marinelepen.com` (non revérifié le 26 octobre 2026). Six entrées, toutes en `source-media`. La trajectoire de 140 milliards d'euros d'économies présentée le 6 octobre est documentée par la presse ; le document de contre-budget lui-même n'a pas été ouvert.
+2. **Bruno Retailleau** — dix entrées, toutes en `source-media`. Aucun document programmatique consulté sur `avecretailleau.fr`. Le livre paru en octobre est présenté par l'auteur comme n'étant pas un programme ; le plan de 197 milliards du 12 octobre est documenté par la presse.
+3. **Jean-Luc Mélenchon** — le corpus « L'Avenir en commun » 2025 compte plusieurs centaines de mesures ; sept entrées, dont six issues des 18 chapitres du corpus. Le candidat annonce son programme 2027 « prêt » en novembre 2026.
+4. **Quatre `site_officiel` portant une adresse de parti** — Arthaud, Zemmour, Philippot, Asselineau. Voir l'étape 2 de la procédure. Aucun arbitrage requis, rendement historiquement élevé.
+5. **Candidats déclarés sans aucune entrée** — douze au 26 octobre 2026 : Arthaud, Batho, Bouamrane, Cazeneuve, Bertrand, Lisnard, Zemmour, Philippot, Asselineau, Mikolajczak, Lalanne, Becht. Zemmour et Becht y entrent par leur déclaration de septembre. Cazeneuve est le cas le plus gênant : il s'exprime publiquement et régulièrement, mais sur des questions d'alliance que la règle 7 exclut.
+6. **`clivages.json`** — 16 questions, objectif 30-40. Deux questions restent sous le seuil de deux positions et n'apparaissent qu'en zone de flou : `code-travail`, `accord-1968`.
 7. **Thèmes faibles** — `logement` : 2 entrées. `defense` : 3. `sante` : 4. `europe-international` : 4.
 
 ### Déséquilibre de couverture
 
-Au 5 septembre 2026 : **107 propositions, 12 candidats documentés sur 38**, dont deux concentrent 56,1 % des entrées. Vingt-six candidats n'ont aucune entrée.
+Au 26 octobre 2026 : **121 propositions, 14 candidats documentés sur 39**, dont deux concentrent 50,4 % des entrées. Vingt-cinq candidats n'ont aucune entrée.
 
-La part d'Attal et Philippe baisse depuis trois passes — 63 %, puis 61,5 %, 58,4 % et 56,1 % — et il faut être précis sur la cause, parce qu'elle commande la stratégie de veille. Elle ne baisse pas parce que les autres candidats majeurs se sont mis à publier : aucun ne l'a fait. Elle baisse parce que chaque passe a trouvé un document que le dépôt ignorait, sur un site de candidat modeste ou nouveau. La correction ne vient donc pas de la veille des grands sites de campagne, qui ne produit rien depuis le 27 août.
+La part d'Attal et Philippe baisse depuis quatre passes — 63 %, puis 61,5 %, 58,4 %, 56,1 % et 50,4 % — et il faut être précis sur la cause, parce qu'elle commande la stratégie de veille. Elle ne baisse pas parce que les autres candidats majeurs se sont mis à publier : aucun ne l'a fait. Elle baisse parce que chaque passe a trouvé un document que le dépôt ignorait, sur un site de candidat modeste ou nouveau. La correction ne vient donc pas de la veille des grands sites de campagne, qui ne produit rien depuis le 27 août.
 
 Elle vient de deux gisements, dans cet ordre de rendement :
 
 1. **les sites de candidats que le dépôt ne connaît pas encore** — voir l'étape 2 de la procédure ;
-2. **les séquences où tous les candidats parlent du même sujet en même temps** — débats, dossiers thématiques de la presse parlementaire, universités d'été — qui documentent plusieurs candidats d'un coup et sur une base comparable. Le débat du Medef du 27 août a fait entrer deux candidats au corpus et ouvert deux questions clés ; le débat de Sens du 29 août a fourni la matière de la question `comptes-publics`.
+2. **les séquences où tous les candidats parlent du même sujet en même temps** — débats, dossiers thématiques de la presse parlementaire, universités d'été — qui documentent plusieurs candidats d'un coup et sur une base comparable. Le débat du Medef du 27 août a fait entrer deux candidats au corpus et ouvert deux questions clés ; le débat de Sens du 29 août a fourni la matière de la question `comptes-publics` ; le dossier de LCP du 26 octobre sur Parcoursup a documenté sept candidats d'un coup et ouvert la question `parcoursup`. C'est ce second gisement, et non un site inconnu, qui a fait l'essentiel de la baisse au 26 octobre.
 
 Ce déséquilibre n'est pas un choix éditorial : il reflète l'état de publication des candidats. Il est signalé dans l'avertissement de `meta.json` et doit l'être partout où un tableau comparatif est affiché.
 
@@ -188,7 +189,7 @@ La passe de veille **ne peut pas** contrôler ses propres sources : son outil de
 
 Le contrôle est donc délégué à la CI, qui n'a pas cette restriction : `scripts/check-links.mjs`, exécuté par `.github/workflows/liens.yml` chaque lundi à 6 h et à chaque modification de `data/`. Le script échoue sur tout code 4xx ou 5xx, signale les redirections sans échouer, et détecte le cas où l'absence totale de réponse trahit un réseau bloqué plutôt que des liens morts.
 
-Ne jamais conclure d'une exécution locale que des liens sont morts : seul le résultat de la CI fait foi. **Le rapport du workflow doit être relevé à chaque passe** — il ne l'a pas été les 31 août et 5 septembre 2026.
+Ne jamais conclure d'une exécution locale que des liens sont morts : seul le résultat de la CI fait foi. **Le rapport du workflow doit être relevé à chaque passe** — il ne l'a pas été les 31 août et 5 septembre 2026, ni le 26 octobre : l'outil GitHub de la passe n'expose pas les exécutions de workflow. Tant que ce point n'est pas réglé, le rapport est à lire à la main dans l'onglet Actions.
 
 ---
 

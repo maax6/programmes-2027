@@ -161,17 +161,18 @@
     "nom": "Raphaël Glucksmann",
     "parti": "Place publique",
     "famille": "gauche",
-    "statut": "conditionnel",
+    "statut": "declare",
     "date_declaration": "2026-08-23",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#d9587f",
     "site_officiel": null,
     "programme_url": null,
-    "note": "A officialisé sa candidature le 23 août 2026 et annoncé qu'il participerait à la primaire de la gauche socialiste et démocratique, organisée les 9-10 et 16-17 octobre 2026. Statut « conditionnel » comme les autres candidats à cette primaire : la candidature à la présidentielle dépend de son issue.",
+    "note": "A officialisé sa candidature le 23 août 2026 et annoncé qu'il participerait à la primaire de la gauche socialiste et démocratique, organisée les 9-10 et 16-17 octobre 2026. A remporté cette primaire dès le premier tour, le 11 octobre 2026, avec 66,17 % des voix ; il est désigné candidat du Parti socialiste, de Place publique et de la Gauche républicaine et socialiste.",
     "sources": [
       { "titre": "« Gagner en 2027 » : Raphaël Glucksmann lance sa campagne", "url": "https://lcp.fr/actualites/gagner-en-2027-raphael-glucksmann-lance-sa-campagne-et-veut-ramener-la-gauche-au-pouvoir", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
       { "titre": "Raphaël Glucksmann annonce sa candidature à la présidentielle de 2027", "url": "https://www.france24.com/fr/france/20260823-rapha%C3%ABl-glucksmann-annonce-sa-candidature-%C3%A0-la-pr%C3%A9sidentielle-de-2027", "editeur": "France 24", "type": "media", "consulte_le": "2026-08-28" },
-      { "titre": "Présidentielle : dates, candidats, prix… Tout ce qu'il faut savoir sur la primaire sociale-démocrate", "url": "https://lcp.fr/actualites/presidentielle-dates-candidats-prix-tout-ce-qu-il-faut-savoir-sur-la-primaire-sociale", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" }
+      { "titre": "Présidentielle : dates, candidats, prix… Tout ce qu'il faut savoir sur la primaire sociale-démocrate", "url": "https://lcp.fr/actualites/presidentielle-dates-candidats-prix-tout-ce-qu-il-faut-savoir-sur-la-primaire-sociale", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-08-28" },
+      { "titre": "Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %", "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {

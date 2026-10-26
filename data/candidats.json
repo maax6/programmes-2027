@@ -532,10 +532,11 @@
     "couleur": "#e0768d",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Député ; veut être « le candidat des salaires ». Candidat à la primaire fermée du Parti socialiste. La date de sa déclaration n'a pas été établie par une source de niveau 1 ou 2 et n'est donc pas renseignée.",
+    "note": "Député ; veut être « le candidat des salaires ». Candidat à la primaire fermée du Parti socialiste. La date de sa déclaration n'a pas été établie par une source de niveau 1 ou 2 et n'est donc pas renseignée. Le 16 septembre 2026, le bureau national du PS l'a suspendu à titre conservatoire et n'a pas ratifié sa candidature à la primaire, qu'il avait déclaré avoir réunie en parrainages ; il conteste la décision. Aucune source ne documente une déclaration de sa part sur une candidature hors primaire : le statut n'est pas modifié.",
     "sources": [
       { "titre": "Primaire du PS et de l'espace social-démocrate : le tarif de la discorde", "url": "https://lcp.fr/actualites/primaire-du-ps-et-de-l-espace-social-democrate-le-tarif-de-la-discorde-440219", "editeur": "LCP", "type": "media", "consulte_le": "2026-08-10" },
-      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »", "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {
@@ -549,10 +550,11 @@
     "couleur": "#c9738d",
     "site_officiel": "https://fabienverdier.fr/",
     "programme_url": "https://fabienverdier.fr/",
-    "note": "Ancien maire de Châteaudun (Eure-et-Loir) et ancien conseiller régional du Centre-Val de Loire, ancien secrétaire national du Parti socialiste qu'il a quitté. Candidat à la primaire de la gauche socialiste et démocratique, annoncé à l'AFP le 3 septembre 2026. Son site de campagne publie trois axes développés et sollicite des parrainages ; il ne présente pas de programme complet, d'où l'état « orientations ».",
+    "note": "Ancien maire de Châteaudun (Eure-et-Loir) et ancien conseiller régional du Centre-Val de Loire, ancien secrétaire national du Parti socialiste qu'il a quitté. Candidat à la primaire de la gauche socialiste et démocratique, annoncé à l'AFP le 3 septembre 2026. Son site de campagne publie trois axes développés et sollicite des parrainages ; il ne présente pas de programme complet, d'où l'état « orientations ». Ne figure pas parmi les cinq candidats à la primaire officiellement retenus le 16 septembre 2026. Aucune source ne documente une déclaration de sa part sur une candidature hors primaire : le statut n'est pas modifié.",
     "sources": [
       { "titre": "Fabien Verdier — Candidat pour la gauche socialiste et démocratique", "url": "https://fabienverdier.fr/", "editeur": "fabienverdier.fr", "type": "officiel", "consulte_le": "2026-09-05" },
-      { "titre": "L'ancien maire de Châteaudun Fabien Verdier candidat à la primaire de la gauche pour porter la voix « des terroirs et des sous-préfectures »", "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-maire-de-chateaudun-fabien-verdier-candidat-a-la-primaire-de-la-gauche-pour-porter-la-voix-des-sous-prefectures_8176064.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-09-05" }
+      { "titre": "L'ancien maire de Châteaudun Fabien Verdier candidat à la primaire de la gauche pour porter la voix « des terroirs et des sous-préfectures »", "url": "https://www.franceinfo.fr/elections/presidentielle/l-ancien-maire-de-chateaudun-fabien-verdier-candidat-a-la-primaire-de-la-gauche-pour-porter-la-voix-des-sous-prefectures_8176064.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-09-05" },
+      { "titre": "Il y aura cinq candidats à la primaire PS, mais pas Philippe Brun, exclu suite à des « accusations de violence »", "url": "https://www.publicsenat.fr/actualites/politique/il-y-aura-cinq-candidats-a-la-primaire-ps-mais-pas-philippe-brun-exclu-suite-a-des-accusations-de-violence", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {

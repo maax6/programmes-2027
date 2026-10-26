@@ -36,14 +36,16 @@
     "nom": "Clémentine Autain",
     "parti": "L'Après",
     "famille": "gauche",
-    "statut": "conditionnel",
+    "statut": "retire",
+    "date_retrait": "2026-07-09",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#e0517a",
     "site_officiel": null,
     "programme_url": null,
     "note": "Candidature initialement déposée dans le cadre d'une primaire de la gauche non-mélenchoniste, abandonnée le 9 juillet 2026 après le vote des militants socialistes en faveur d'une primaire fermée.",
     "sources": [
-      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {

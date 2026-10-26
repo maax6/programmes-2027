@@ -581,6 +581,25 @@
     ]
   },
   {
+    "id": "attal-education-07",
+    "candidat": "attal-gabriel",
+    "theme": "education",
+    "titre": "Faire de Parcoursup « un outil qui accompagne davantage »",
+    "resume": "Proposé lors de son meeting de Lyon, le 10 octobre 2026 : faire de la plateforme Parcoursup « un outil qui accompagne davantage ».",
+    "citation": "un outil qui accompagne davantage",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle",
+        "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-10-26"
+      }
+    ]
+  },
+  {
     "id": "philippe-economie-01",
     "candidat": "philippe-edouard",
     "theme": "economie",
@@ -1252,6 +1271,25 @@
     ]
   },
   {
+    "id": "melenchon-education-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "education",
+    "titre": "Abolir Parcoursup et créer 150 000 places dans l'enseignement supérieur",
+    "resume": "Abolition de Parcoursup et création de 150 000 places supplémentaires dans l'enseignement supérieur, afin que « tout bachelier » puisse « s'inscrire dans la formation de son choix ». La source attribue cette position conjointement à La France insoumise et à son candidat.",
+    "citation": "tout bachelier [puisse] s'inscrire dans la formation de son choix comme la Constitution le prévoit",
+    "chiffrage": "150 000 places supplémentaires",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle",
+        "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-10-26"
+      }
+    ]
+  },
+  {
     "id": "retailleau-positionnement-01",
     "candidat": "retailleau-bruno",
     "theme": "securite-justice",
@@ -1648,6 +1686,25 @@
     ]
   },
   {
+    "id": "glucksmann-education-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "education",
+    "titre": "Remplacer Parcoursup à l'issue d'états généraux de l'orientation",
+    "resume": "Fixer « un calendrier précis » pour supprimer Parcoursup et le remplacer par un dispositif présenté comme « plus juste », défini à l'issue d'« états généraux de l'orientation avec les lycéens, les parents et les enseignants ».",
+    "citation": "le supprimer pour le remplacer",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle",
+        "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-10-26"
+      }
+    ]
+  },
+  {
     "id": "egger-institutions-01",
     "candidat": "egger-clara",
     "theme": "institutions",
@@ -1926,6 +1983,25 @@
         "editeur": "LCP - Assemblée nationale",
         "type": "media",
         "consulte_le": "2026-09-05"
+      }
+    ]
+  },
+  {
+    "id": "tondelier-education-01",
+    "candidat": "tondelier-marine",
+    "theme": "education",
+    "titre": "Supprimer Parcoursup avant la présidentielle",
+    "resume": "Supprimer Parcoursup, qualifié d'« algorithme injuste, opaque » qui « stresse les élèves et leurs parents », et ce « avant la présidentielle ».",
+    "citation": "algorithme injuste, opaque",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle",
+        "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-10-26"
       }
     ]
   },

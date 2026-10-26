@@ -98,15 +98,17 @@
     "nom": "Fabien Roussel",
     "parti": "Parti communiste français",
     "famille": "gauche",
-    "statut": "pressenti",
+    "statut": "declare",
+    "date_declaration": "2026-09-06",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#b5233a",
     "site_officiel": "https://www.pcf.fr/",
     "programme_url": null,
-    "note": "Candidat en 2022. En juin 2026, plus de 60 % des militants PCF ont validé un texte affirmant la légitimité d'une candidature communiste. Une officialisation est annoncée pour le 6 septembre 2026, après un vote des militants.",
+    "note": "Candidat en 2022. A officialisé sa candidature le 6 septembre 2026 au journal de TF1, après un vote des adhérents du PCF, du 3 au 6 septembre, qui l'a validée à 72 %.",
     "sources": [
       { "titre": "PCF : la ligne de la direction sortante confortée", "url": "https://www.humanite.fr/politique/40e-congres-du-pcf-2026/pcf-la-ligne-de-la-direction-sortante-confortee", "editeur": "L'Humanité", "type": "media", "consulte_le": "2026-07-31" },
-      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" },
+      { "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {

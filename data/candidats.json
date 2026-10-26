@@ -102,13 +102,14 @@
     "date_declaration": "2026-09-06",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#b5233a",
-    "site_officiel": "https://www.pcf.fr/",
+    "site_officiel": "https://www.fabienroussel2027.fr/",
     "programme_url": null,
     "note": "Candidat en 2022. A officialisé sa candidature le 6 septembre 2026 au journal de TF1, après un vote des adhérents du PCF, du 3 au 6 septembre, qui l'a validée à 72 %.",
     "sources": [
       { "titre": "PCF : la ligne de la direction sortante confortée", "url": "https://www.humanite.fr/politique/40e-congres-du-pcf-2026/pcf-la-ligne-de-la-direction-sortante-confortee", "editeur": "L'Humanité", "type": "media", "consulte_le": "2026-07-31" },
       { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" },
-      { "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+      { "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027", "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" },
+      { "titre": "Fabien Roussel 2027", "url": "https://www.fabienroussel2027.fr/", "editeur": "fabienroussel2027.fr", "type": "officiel", "consulte_le": "2026-10-26" }
     ]
   },
   {

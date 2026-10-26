@@ -2077,5 +2077,43 @@
         "consulte_le": "2026-10-26"
       }
     ]
+  },
+  {
+    "id": "roussel-fiscalite-01",
+    "candidat": "roussel-fabien",
+    "theme": "fiscalite",
+    "titre": "Prison, déchéance des droits civiques ou travaux d'intérêt général pour les fraudeurs fiscaux",
+    "resume": "Faire du « combat contre la fraude et l'évasion fiscale » un axe de campagne, avec des sanctions pénales pour les fraudeurs : emprisonnement, déchéance des droits civiques ou travaux d'intérêt général.",
+    "citation": "Il faut que les fraudeurs passent par la case prison, par la déchéance des droits civiques ou (...) par des travaux d'intérêt général.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Fabien Roussel officiellement candidat du PCF à l'élection présidentielle de 2027",
+        "url": "https://lcp.fr/actualites/fabien-roussel-officiellement-candidat-du-pcf-a-l-election-presidentielle-de-2027-441389",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-10-26"
+      }
+    ]
+  },
+  {
+    "id": "roussel-education-01",
+    "candidat": "roussel-fabien",
+    "theme": "education",
+    "titre": "Abroger Parcoursup",
+    "resume": "Se déclare favorable à l'abrogation de Parcoursup afin « d'ouvrir les études à toutes et à tous ».",
+    "citation": "d'ouvrir les études à toutes et à tous",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle",
+        "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la",
+        "editeur": "LCP - Assemblée nationale",
+        "type": "media",
+        "consulte_le": "2026-10-26"
+      }
+    ]
   }
 ]

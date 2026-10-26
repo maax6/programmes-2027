@@ -1,0 +1,27 @@
+[
+  {
+    "id": "polony-salaires-01",
+    "candidat": "polony-natacha",
+    "theme": "travail-salaires",
+    "titre": "Augmenter les salaires de 20 à 30 %",
+    "resume": "Augmenter les salaires de 20 à 30 %, mesure citée parmi celles qu'elle porte lors de l'annonce de sa candidature, le 14 octobre 2026. Le compte rendu ne précise ni les salaires concernés ni les modalités.",
+    "chiffrage": "+20 à 30 % (objectif annoncé par la candidate)",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Natacha Polony annonce sa candidature à l'élection présidentielle", "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
+  },
+  {
+    "id": "polony-economie-01",
+    "candidat": "polony-natacha",
+    "theme": "economie",
+    "titre": "Un « état d'urgence de la production »",
+    "resume": "Mettre en place un « état d'urgence de la production » : priorité donnée à la production française dans la commande publique et suppression des aides aux entreprises qui ne sont pas conditionnées à une production sur le sol national.",
+    "citation": "un état d'urgence de la production",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Natacha Polony annonce sa candidature à l'élection présidentielle", "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
+    ]
+  }
+]

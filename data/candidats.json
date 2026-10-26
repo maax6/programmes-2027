@@ -114,15 +114,17 @@
     "nom": "Jérôme Guedj",
     "parti": "Parti socialiste",
     "famille": "gauche",
-    "statut": "conditionnel",
+    "statut": "retire",
+    "date_retrait": "2026-10-11",
     "date_declaration": "2026-02-05",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#e8546a",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Candidat pour représenter une « gauche républicaine », « universaliste » et « laïque ». Candidat à la primaire fermée du Parti socialiste, dont l'issue conditionne la candidature à la présidentielle.",
+    "note": "Candidat pour représenter une « gauche républicaine », « universaliste » et « laïque ». Candidat à la primaire fermée du Parti socialiste, dont l'issue conditionne la candidature à la présidentielle. Éliminé au premier tour de la primaire de la gauche socialiste et démocratique, le 11 octobre 2026, avec 5,83 % des voix ; la primaire a désigné Raphaël Glucksmann dès le premier tour.",
     "sources": [
-      { "titre": "L'invité de 7h50 du jeudi 5 février 2026", "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-jeudi-05-fevrier-2026-7548548", "editeur": "France Inter", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "L'invité de 7h50 du jeudi 5 février 2026", "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-jeudi-05-fevrier-2026-7548548", "editeur": "France Inter", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %", "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {
@@ -145,15 +147,17 @@
     "nom": "Ségolène Royal",
     "parti": "Parti socialiste",
     "famille": "gauche",
-    "statut": "conditionnel",
+    "statut": "retire",
+    "date_retrait": "2026-10-11",
     "date_declaration": "2026-07-10",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#ef7d95",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Candidate à la primaire fermée du Parti socialiste, annoncée le 10 juillet 2026.",
+    "note": "Candidate à la primaire fermée du Parti socialiste, annoncée le 10 juillet 2026. Éliminée au premier tour de la primaire de la gauche socialiste et démocratique, le 11 octobre 2026, avec 7,62 % des voix ; la primaire a désigné Raphaël Glucksmann dès le premier tour.",
     "sources": [
-      { "titre": "Présidentielle 2027 : Ségolène Royal annonce sa candidature à la primaire socialiste", "url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
+      { "titre": "Présidentielle 2027 : Ségolène Royal annonce sa candidature à la primaire socialiste", "url": "https://lcp.fr/actualites/presidentielle-2027-segolene-royal-annonce-sa-candidature-a-la-primaire-socialiste", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
+      { "titre": "Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %", "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {
@@ -180,16 +184,18 @@
     "nom": "Olivier Faure",
     "parti": "Parti socialiste",
     "famille": "gauche",
-    "statut": "conditionnel",
+    "statut": "retire",
+    "date_retrait": "2026-10-11",
     "date_declaration": "2026-08-30",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#e8829b",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Premier secrétaire du PS, désavoué lors du vote militant du 9 juillet 2026 sur le principe d'une primaire fermée. S'est déclaré candidat à cette primaire le 30 août 2026. Statut « conditionnel » comme les autres candidats à ce scrutin : la candidature à la présidentielle dépend de son issue.",
+    "note": "Premier secrétaire du PS, désavoué lors du vote militant du 9 juillet 2026 sur le principe d'une primaire fermée. S'est déclaré candidat à cette primaire le 30 août 2026. Statut « conditionnel » comme les autres candidats à ce scrutin : la candidature à la présidentielle dépend de son issue. Éliminé au premier tour de la primaire de la gauche socialiste et démocratique, le 11 octobre 2026, avec 14,46 % des voix ; la primaire a désigné Raphaël Glucksmann dès le premier tour.",
     "sources": [
       { "titre": "Présidentielle : le PS se prononce pour une primaire fermée, un désaveu pour Olivier Faure", "url": "https://lcp.fr/actualites/presidentielle-le-ps-se-prononce-pour-une-primaire-fermee-un-desaveu-pour-olivier-faure", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
-      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" },
+      { "titre": "Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %", "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {
@@ -547,15 +553,17 @@
     "nom": "Emmanuel Maurel",
     "parti": "Gauche républicaine et socialiste",
     "famille": "gauche",
-    "statut": "conditionnel",
+    "statut": "retire",
+    "date_retrait": "2026-10-11",
     "date_declaration": "2026-09-04",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#c4405f",
     "site_officiel": null,
     "programme_url": null,
-    "note": "Député. A officialisé le 4 septembre 2026 sa candidature à la primaire de la gauche socialiste et démocratique, à laquelle la Gauche républicaine et socialiste participe aux côtés du Parti socialiste et de Place publique.",
+    "note": "Député. A officialisé le 4 septembre 2026 sa candidature à la primaire de la gauche socialiste et démocratique, à laquelle la Gauche républicaine et socialiste participe aux côtés du Parti socialiste et de Place publique. Éliminé au premier tour de la primaire de la gauche socialiste et démocratique, le 11 octobre 2026, avec 5,92 % des voix ; la primaire a désigné Raphaël Glucksmann dès le premier tour.",
     "sources": [
-      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" }
+      { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-09-05" },
+      { "titre": "Primaire de la gauche : Raphaël Glucksmann plie le match et remporte le scrutin dès le premier tour avec 66 %", "url": "https://www.publicsenat.fr/actualites/politique/primaire-de-la-gauche-raphael-glucksmann-plie-le-match-et-remporte-le-scrutin-des-le-premier-tour-avec-66", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-10-26" }
     ]
   },
   {

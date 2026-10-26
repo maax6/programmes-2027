@@ -74,7 +74,8 @@
       { "id": "contre", "label": "Contre" }
     ],
     "positions": {
-      "philippe-edouard": { "option": "pour", "proposition": "philippe-economie-02" }
+      "philippe-edouard": { "option": "pour", "proposition": "philippe-economie-02" },
+      "le-pen-marine": { "option": "pour", "proposition": "le-pen-economie-03" }
     }
   },
   {

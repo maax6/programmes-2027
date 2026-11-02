@@ -132,7 +132,8 @@
     ],
     "positions": {
       "attal-gabriel": { "option": "augmenter", "proposition": "attal-defense-01" },
-      "philippe-edouard": { "option": "augmenter", "proposition": "philippe-defense-01" }
+      "philippe-edouard": { "option": "augmenter", "proposition": "philippe-defense-01" },
+      "kazib-anasse": { "option": "reduire", "proposition": "kazib-defense-01" }
     }
   },
   {

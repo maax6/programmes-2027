@@ -638,5 +638,23 @@
     "sources": [
       { "titre": "Natacha Polony annonce sa candidature à l'élection présidentielle", "url": "https://lcp.fr/actualites/natacha-polony-annonce-sa-candidature-a-l-election-presidentielle-443808", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
     ]
+  },
+  {
+    "id": "kazib-anasse",
+    "nom": "Anasse Kazib",
+    "parti": "Révolution permanente",
+    "famille": "extreme-gauche",
+    "statut": "declare",
+    "date_declaration": "2026-06-01",
+    "etat_programme": "orientations",
+    "couleur": "#a3123a",
+    "site_officiel": "https://anasse2027.fr/",
+    "programme_url": "https://anasse2027.fr/programme",
+    "note": "Cheminot, porte-parole de Révolution permanente. Candidature présentée le 1er juin 2026 sur le site de campagne, qui renvoie aux comptes rendus de franceinfo et du Parisien (1er juin) et de Libération (2 juin) ; ces trois articles n'ont pas été ouverts lors de la passe, la date repose donc sur le site de campagne. La page « Programme » se présente comme le premier 4 pages de campagne, le programme 2027 étant encore en cours d'élaboration. Il figure parmi les noms cités par Public Sénat (14 octobre 2026) mais pas dans le décompte de LCP (14 octobre 2026).",
+    "sources": [
+      { "titre": "Anasse Kazib 2027", "url": "https://anasse2027.fr/", "editeur": "Comité de la campagne Anasse Kazib 2027", "type": "officiel", "consulte_le": "2026-11-02" },
+      { "titre": "Actualités — Anasse Kazib 2027", "url": "https://anasse2027.fr/actualites", "editeur": "Comité de la campagne Anasse Kazib 2027", "type": "officiel", "consulte_le": "2026-11-02" },
+      { "titre": "Élection présidentielle 2027 : qui sont les candidats déclarés ou presque ?", "url": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-02" }
+    ]
   }
 ]

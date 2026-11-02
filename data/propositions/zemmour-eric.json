@@ -1,0 +1,38 @@
+[
+  {
+    "id": "zemmour-immigration-01",
+    "candidat": "zemmour-eric",
+    "theme": "immigration",
+    "titre": "Expulser les étrangers sans emploi depuis un an et les étrangers détenus ou condamnés",
+    "resume": "Expulser les étrangers, y compris en situation régulière, après un an sans emploi, ainsi que les étrangers détenus, ceux qui exécutent une peine hors de prison, ceux en situation irrégulière et ceux qui vivent exclusivement d'aides sociales. Mesure énoncée lors de son entretien sur BFMTV le 17 septembre 2026, rapporté par Public Sénat.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Éric Zemmour officialise sa candidature à la présidentielle 2027",
+        "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027",
+        "editeur": "Public Sénat",
+        "type": "media",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "zemmour-immigration-02",
+    "candidat": "zemmour-eric",
+    "theme": "immigration",
+    "titre": "Recourir à l'automatisation plutôt qu'à la main-d'œuvre immigrée",
+    "resume": "Recourir à des robots plutôt qu'à la main-d'œuvre immigrée pour les emplois qu'il décrit comme ceux « dont les Français ne veulent pas », en citant la Chine et le Japon comme exemples. Propos tenus sur BFMTV le 17 septembre 2026, rapportés par Public Sénat.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Éric Zemmour officialise sa candidature à la présidentielle 2027",
+        "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027",
+        "editeur": "Public Sénat",
+        "type": "media",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  }
+]

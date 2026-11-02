@@ -1,0 +1,242 @@
+[
+  {
+    "id": "kazib-travail-salaires-01",
+    "candidat": "kazib-anasse",
+    "theme": "travail-salaires",
+    "titre": "SMIC à 2 000 € net",
+    "resume": "Porter le SMIC à 2 000 € net, revaloriser toutes les allocations, augmenter les salaires et les indexer sur l'inflation.",
+    "citation": "SMIC à 2000 € net",
+    "chiffrage": "SMIC à 2 000 € net (objectif annoncé par le candidat)",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-retraites-01",
+    "candidat": "kazib-anasse",
+    "theme": "retraites",
+    "titre": "Retraite à 60 ans, 55 ans pour les métiers pénibles",
+    "resume": "Fixer l'âge de la retraite à 60 ans, et à 55 ans pour les métiers pénibles.",
+    "citation": "Retraite à 60 ans et 55 ans pour les métiers pénibles",
+    "chiffrage": "60 ans ; 55 ans pour les métiers pénibles (objectif annoncé par le candidat)",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-travail-salaires-02",
+    "candidat": "kazib-anasse",
+    "theme": "travail-salaires",
+    "titre": "Interdiction des licenciements",
+    "resume": "Interdire les licenciements.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-travail-salaires-03",
+    "candidat": "kazib-anasse",
+    "theme": "travail-salaires",
+    "titre": "Semaine de 28 heures sans baisse de salaire",
+    "resume": "Répartir le travail pour instaurer une semaine de 28 heures sans baisse de salaire.",
+    "chiffrage": "28 heures hebdomadaires (objectif annoncé par le candidat)",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-travail-salaires-04",
+    "candidat": "kazib-anasse",
+    "theme": "travail-salaires",
+    "titre": "Fin de la sous-traitance, CDI pour tous, même travail même salaire",
+    "resume": "Mettre fin à la sous-traitance, généraliser le CDI et appliquer le principe « même travail, même salaire ».",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-logement-01",
+    "candidat": "kazib-anasse",
+    "theme": "logement",
+    "titre": "Expropriation des logements vides, plafonnement et gel des loyers",
+    "resume": "Exproprier les logements vides et plafonner et geler les loyers.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-economie-01",
+    "candidat": "kazib-anasse",
+    "theme": "economie",
+    "titre": "Expropriation des groupes bancaires, prêts à taux zéro, fin des agios",
+    "resume": "Exproprier les groupes bancaires, instaurer des prêts à taux zéro et supprimer les agios.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-economie-02",
+    "candidat": "kazib-anasse",
+    "theme": "economie",
+    "titre": "Expropriation des secteurs stratégiques, suppression des aides aux grandes entreprises",
+    "resume": "Exproprier les secteurs stratégiques (énergie, transports, banques, santé) et supprimer les aides publiques aux grandes entreprises.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-education-01",
+    "candidat": "kazib-anasse",
+    "theme": "education",
+    "titre": "Revenu étudiant à hauteur du SMIC, financé par le patronat",
+    "resume": "Instaurer un revenu étudiant à hauteur du SMIC, financé par le patronat.",
+    "citation": "Revenu étudiant à hauteur du SMIC, financé par le patronat.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-immigration-01",
+    "candidat": "kazib-anasse",
+    "theme": "immigration",
+    "titre": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation",
+    "resume": "Régulariser tous les sans-papiers et instaurer la liberté de circulation et d'installation.",
+    "citation": "Régularisation de tous les sans-papiers, liberté de circulation et d'installation.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-institutions-01",
+    "candidat": "kazib-anasse",
+    "theme": "institutions",
+    "titre": "Fin de la Ve République, du Sénat et de la figure présidentielle",
+    "resume": "Mettre fin à la Ve République, au Sénat et à la figure présidentielle. Le programme ne précise pas dans la page consultée par quel mécanisme (assemblée constituante, démocratie directe ou autre).",
+    "citation": "Fin de la Ve République, du Sénat et de la figure présidentielle.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-securite-justice-01",
+    "candidat": "kazib-anasse",
+    "theme": "securite-justice",
+    "titre": "Abrogation des lois sécuritaires, amnistie des manifestants, dissolution des corps spéciaux de police",
+    "resume": "Abroger toutes les lois qu'il qualifie de sécuritaires, racistes et islamophobes, à commencer par la loi de 2004 ; amnistier les manifestants, jeunes de quartiers populaires et syndicalistes réprimés ; dissoudre les corps spéciaux de police.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "kazib-defense-01",
+    "candidat": "kazib-anasse",
+    "theme": "defense",
+    "titre": "Démantèlement de l'appareil militaire français, retrait des troupes à l'étranger, non au SNU",
+    "resume": "Ne consacrer « pas un euro pour la guerre », démanteler l'appareil militaire français, retirer les troupes françaises de l'étranger et refuser le SNU.",
+    "citation": "Pas un euro pour la guerre, démantèlement de la machine de guerre française",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme — Anasse Kazib 2027",
+        "url": "https://anasse2027.fr/programme",
+        "editeur": "Comité de la campagne Anasse Kazib 2027",
+        "type": "officiel",
+        "consulte_le": "2026-11-02"
+      }
+    ]
+  }
+]

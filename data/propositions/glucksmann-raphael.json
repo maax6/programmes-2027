@@ -63,5 +63,31 @@
     "sources": [
       { "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle", "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
     ]
+  },
+  {
+    "id": "glucksmann-ecologie-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "ecologie",
+    "titre": "Plan de 200 milliards d'euros d'investissements publics pour la sortie des énergies fossiles",
+    "resume": "Annonce, le 9 novembre 2026, un plan de 200 milliards d'euros d'investissements publics sur le quinquennat pour financer son projet de « révolution écologique » et engager la « sortie des énergies fossiles », avec pour objectifs la neutralité carbone en 2050 et la stabilisation de la dette à l'horizon 2032. Il a présenté le même jour les « 100 premiers jours » de ce projet.",
+    "citation": "sortie des énergies fossiles",
+    "chiffrage": "200 Md€ d'investissements publics sur le quinquennat (montant annoncé par le candidat)",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles", "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles", "editeur": "France 24", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "glucksmann-institutions-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "institutions",
+    "titre": "Inscrire le principe d'une « République écologique » dans la Constitution",
+    "resume": "Propose de proclamer « l'état d'urgence écologique », d'inscrire le principe d'une « République écologique » dans la Constitution et d'adopter une « loi de programmation écologique ». Mesures présentées le 9 novembre 2026.",
+    "citation": "République écologique",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles", "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles", "editeur": "France 24", "type": "media", "consulte_le": "2026-11-09" }
+    ]
   }
 ]

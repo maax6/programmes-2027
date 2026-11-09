@@ -656,5 +656,23 @@
       { "titre": "Actualités — Anasse Kazib 2027", "url": "https://anasse2027.fr/actualites", "editeur": "Comité de la campagne Anasse Kazib 2027", "type": "officiel", "consulte_le": "2026-11-02" },
       { "titre": "Élection présidentielle 2027 : qui sont les candidats déclarés ou presque ?", "url": "https://www.publicsenat.fr/actualites/politique/election-presidentielle-2027-qui-sont-les-candidats-declares-ou-presque", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-02" }
     ]
+  },
+  {
+    "id": "riner-teddy",
+    "nom": "Teddy Riner",
+    "parti": "Sans parti",
+    "famille": "divers",
+    "statut": "declare",
+    "date_declaration": "2026-11-09",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#4d7c8a",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Judoka, quintuple champion olympique. A annoncé sa candidature le 9 novembre 2026 dans une vidéo publiée sur ses réseaux sociaux et un entretien au Parisien, sous le slogan « La France qu'on veut ». Se présente comme « ni de droite, ni de gauche » ; aucun parti n'est mentionné par les comptes rendus lus, le champ « parti » porte donc « Sans parti ». Famille « divers » faute de rattachement documenté. Aucun site de campagne ni document programmatique n'a été trouvé à cette date. L'entretien au Parisien n'a pas été ouvert : les deux propositions référencées reposent sur les comptes rendus de Public Sénat et d'Outre-mer La 1ère.",
+    "sources": [
+      { "titre": "« La résignation n'est pas une option » : Teddy Riner annonce sa candidature à l'élection présidentielle 2027", "url": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html", "editeur": "franceinfo", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027", "url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée, au milieu d'une multitude de candidats", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+    ]
   }
 ]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "riner-retraites-01",
+    "candidat": "riner-teddy",
+    "theme": "retraites",
+    "titre": "Réformer les retraites en préservant la répartition, sans exclure « une part de capitalisation »",
+    "resume": "Propose une réforme des retraites qui tienne compte de la démographie, préserve le système par répartition et s'appuie sur des critères de pénibilité, sans exclure « une part de capitalisation ». Position exprimée dans son entretien au Parisien du 9 novembre 2026, rapportée par Public Sénat. Le compte rendu ne donne ni âge légal ni durée de cotisation.",
+    "citation": "une part de capitalisation",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée, au milieu d'une multitude de candidats", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "riner-salaires-01",
+    "candidat": "riner-teddy",
+    "theme": "travail-salaires",
+    "titre": "Augmenter le salaire net par des allègements de charges",
+    "resume": "Déclare vouloir « augmenter le salaire net », ce qui « doit passer par des allègements de charges », et permettre « aux Français qui le veulent d'augmenter leurs revenus en travaillant plus ». Propos tenus dans son entretien au Parisien du 9 novembre 2026, rapportés par Outre-mer La 1ère. Le compte rendu ne précise ni les charges concernées ni les montants.",
+    "citation": "augmenter le salaire net",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Le judoka Teddy Riner est candidat à l'élection présidentielle de 2027", "url": "https://la1ere.franceinfo.fr/polynesie/le-judoka-teddy-riner-est-candidat-a-l-election-presidentielle-de-2027-1756191.html", "editeur": "Outre-mer La 1ère (franceinfo)", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  }
+]

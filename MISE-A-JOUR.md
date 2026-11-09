@@ -13,19 +13,20 @@ Un comparateur de programmes ne vaut que par sa fraîcheur. Ce document fixe le 
 | ~~Dépôt des candidatures à la primaire sociale-démocrate~~ | 1er au 15 septembre 2026 | *Fait.* Cinq candidats retenus le 16 septembre ; Philippe Brun non ratifié |
 | ~~Livre de Bruno Retailleau~~ | octobre 2026 | *Paru.* Dix-huit lettres thématiques, présenté par l'auteur comme n'étant « pas un livre programme » ; plan d'économies de 197 Md€ présenté séparément le 12 octobre |
 | ~~Plan d'économies de Marine Le Pen~~ | 6 octobre 2026 | *Fait.* 140 Md€ d'économies d'ici 2032 (contre 125 Md€ annoncés fin août) |
-| Décision de Bruno Le Maire | octobre 2026 (annoncée) | Statut candidat. Aucune décision trouvée au 26 octobre 2026 |
+| Décision de Bruno Le Maire | octobre 2026 (annoncée) | Statut candidat. Aucune décision trouvée au 9 novembre 2026 |
 | ~~Primaire de la gauche socialiste et démocratique~~ | 9-11 octobre 2026 | *Fait.* Raphaël Glucksmann désigné dès le premier tour (66,17 %), vote prolongé jusqu'au 11 octobre ; pas de second tour |
-| Programme de Jean-Luc Mélenchon | novembre 2026 (annoncé) | Actualisation 2027 de « L'Avenir en commun » |
+| ~~Programme de Jean-Luc Mélenchon~~ | 6 novembre 2026 | *Paru.* Nouvelle édition de « L'Avenir en commun », 1 069 mesures annoncées ; sept entrées reprises le 9 novembre, texte intégral non ouvert |
+| Vote des adhérents des Écologistes sur la stratégie présidentielle | 10-13 décembre 2026 (annoncé) | Statut de Marine Tondelier |
 | Décision de François Hollande | décembre 2026 (annoncée) | Statut candidat |
 | Publication des programmes détaillés | hiver 2026-2027 (usage) | Pic de charge principal |
-| Période de recueil des parrainages | ~janvier-mars 2027 | Filtre décisif : 500 parrainages, 30 départements minimum, 10 % max par département |
-| Publication de la liste officielle par le Conseil constitutionnel | mars 2027 | **Bascule** : passage des « prétendants » aux candidats officiels |
+| Période de recueil des parrainages | du lendemain du décret de convocation au 12 mars 2027, 18 h | Filtre décisif : 500 parrainages, 30 départements minimum, 10 % max par département |
+| Publication de la liste officielle par le Conseil constitutionnel | au plus tard le 26 mars 2027 | **Bascule** : passage des « prétendants » aux candidats officiels |
 | Professions de foi officielles | avril 2027 | Source de référence absolue, remplace les sites de campagne |
-| Campagne officielle | ~début avril 2027 | Gel progressif des modifications de structure |
+| Campagne officielle | 5 avril 2027 | Gel progressif des modifications de structure |
 | **1er tour** | **18 avril 2027** | Réduction à deux candidats |
 | **2nd tour** | **2 mai 2027** | Archivage, passage du dépôt en lecture seule |
 
-*Les dates du scrutin ont été confirmées par le gouvernement le 1er juillet 2026 ([LCP](https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373)). Les dates de la primaire sociale-démocrate ont été arrêtées le 25 août 2026 par le Conseil national du PS et l'Assemblée politique nationale de Place publique ([LCP](https://lcp.fr/actualites/presidentielle-dates-candidats-prix-tout-ce-qu-il-faut-savoir-sur-la-primaire-sociale)). Le scrutin est électronique et **ouvert deux jours par tour** : du vendredi 9 octobre 8 h au samedi 10 octobre 20 h, puis du vendredi 16 octobre 8 h au samedi 17 octobre 20 h. C'est ce qui explique que certains comptes rendus le résument par une seule date et d'autres par deux ; l'article de recensement de LCP écrit « 10 et 11 octobre », c'est la seule source discordante et elle n'est pas retenue. Les autres dates sont indicatives et à réviser à chaque passe.*
+*Les dates du scrutin ont été confirmées par le gouvernement le 1er juillet 2026 ([LCP](https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373)). Les dates de la primaire sociale-démocrate ont été arrêtées le 25 août 2026 par le Conseil national du PS et l'Assemblée politique nationale de Place publique ([LCP](https://lcp.fr/actualites/presidentielle-dates-candidats-prix-tout-ce-qu-il-faut-savoir-sur-la-primaire-sociale)). Le scrutin est électronique et **ouvert deux jours par tour** : du vendredi 9 octobre 8 h au samedi 10 octobre 20 h, puis du vendredi 16 octobre 8 h au samedi 17 octobre 20 h. C'est ce qui explique que certains comptes rendus le résument par une seule date et d'autres par deux ; l'article de recensement de LCP écrit « 10 et 11 octobre », c'est la seule source discordante et elle n'est pas retenue. Les dates des parrainages, de la liste officielle et de la campagne officielle sont celles du calendrier publié par le Gouvernement ([info.gouv.fr](https://www.info.gouv.fr/actualite/election-presidentielle-2027), consulté le 9 novembre 2026) ; elles sont reprises dans `data/meta.json` (`election.calendrier`) et affichées par la page « Calendrier » du site. Les autres dates sont indicatives et à réviser à chaque passe.*
 
 ---
 

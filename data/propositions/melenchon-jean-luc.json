@@ -76,5 +76,95 @@
     "sources": [
       { "titre": "Parcoursup: suppression, remplacement, réforme... Ce que proposent les candidats à la présidentielle", "url": "https://lcp.fr/actualites/parcoursup-suppression-remplacement-reforme-ce-que-proposent-les-candidats-a-la", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-10-26" }
     ]
+  },
+  {
+    "id": "melenchon-salaires-02",
+    "candidat": "melenchon-jean-luc",
+    "theme": "travail-salaires",
+    "titre": "SMIC à 1 700 € net dans l'édition 2026 de « L'Avenir en commun »",
+    "resume": "Augmenter immédiatement le SMIC à 1 700 euros net, selon la présentation de l'édition 2026 du programme (212 pages, 1 069 mesures dont 238 nouvelles selon LFI). Cette entrée succède à celle de 1 600 euros net, tirée de l'édition 2025.",
+    "chiffrage": "SMIC 1 700 € net",
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "melenchon-retraites-02",
+    "candidat": "melenchon-jean-luc",
+    "theme": "retraites",
+    "titre": "Supprimer les avantages fiscaux de la retraite par capitalisation",
+    "resume": "Supprimer les avantages fiscaux de la capitalisation pour financer le système par répartition ; droit à la retraite à 60 ans à taux plein après 40 annuités de cotisations.",
+    "citation": "supprimer les avantages fiscaux de la retraite par capitalisation pour financer le système par répartition",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "melenchon-fiscalite-02",
+    "candidat": "melenchon-jean-luc",
+    "theme": "fiscalite",
+    "titre": "Rétablir l'ISF avec un volet climatique et supprimer la flat tax",
+    "resume": "Rétablissement d'un impôt de solidarité sur la fortune incluant un volet climatique, impôt sur le revenu progressif à 14 tranches et suppression de la flat tax, selon la présentation de l'édition 2026.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "melenchon-defense-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "defense",
+    "titre": "Sortir du commandement intégré de l'OTAN",
+    "resume": "Retrait immédiat du commandement intégré de l'OTAN, puis retrait par étapes de l'organisation ; rejet de l'objectif de 5 % du PIB consacré à la défense, selon LCP.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "melenchon-ecologie-02",
+    "candidat": "melenchon-jean-luc",
+    "theme": "ecologie",
+    "titre": "Règle verte, sortie progressive du nucléaire et objectif de -65 % d'émissions en 2033",
+    "resume": "Inscription d'une « règle verte » et d'une « règle bleue » dans la Constitution, sortie progressive du nucléaire et des énergies fossiles, objectif de 65 % de réduction des émissions d'ici 2033 et de 100 % d'énergies renouvelables au plus tard en 2060.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "melenchon-institutions-02",
+    "candidat": "melenchon-jean-luc",
+    "theme": "institutions",
+    "titre": "Constituante par référendum, proportionnelle et suppression du 49.3",
+    "resume": "Convocation d'une assemblée constituante par référendum fondé sur l'article 11, scrutin proportionnel pour l'Assemblée nationale et suppression de l'article 49.3, selon LCP.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : avec la « Nouvelle France », Jean-Luc Mélenchon fait de l'écologie la clé de voûte de son programme", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-avec-la-nouvelle-france-jean-luc-melenchon-fait-de-lecologie-la-cle-de-voute-de-son-programme", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "melenchon-economie-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "economie",
+    "titre": "Geler la part de la dette publique détenue par la BCE",
+    "resume": "« Geler » la part de la dette publique détenue par la BCE et modifier les traités et le statut de la BCE pour lui permettre d'acheter de la dette sans passer par les banques privées.",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" }
+    ]
   }
 ]

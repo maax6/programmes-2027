@@ -12,11 +12,88 @@
       "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
       "editeur": "LCP - Assemblée nationale",
       "consulte_le": "2026-09-05"
-    }
+    },
+    "fin_mandat": "2027-05-13",
+    "source_calendrier": {
+      "titre": "Élection présidentielle 2027 : dates, calendrier et démarches",
+      "url": "https://www.info.gouv.fr/actualite/election-presidentielle-2027",
+      "editeur": "info.gouv.fr (Gouvernement)",
+      "consulte_le": "2026-11-09"
+    },
+    "calendrier": [
+      {
+        "id": "dates-annoncees",
+        "date": "2026-07-01",
+        "titre": "Les dates du scrutin sont annoncées",
+        "detail": "Le Conseil des ministres fixe le premier tour au 18 avril 2027 et le second au 2 mai.",
+        "court": "Dates annoncées"
+      },
+      {
+        "id": "decret",
+        "date": null,
+        "titre": "Décret de convocation des électeurs",
+        "detail": "Sa date n'est pas encore connue. Le recueil des parrainages s'ouvre le lendemain de sa publication."
+      },
+      {
+        "id": "inscription",
+        "date": "2027-03-12",
+        "titre": "Dernier jour pour s'inscrire sur les listes électorales",
+        "detail": "Date limite, sauf situations particulières."
+      },
+      {
+        "id": "parrainages",
+        "date": "2027-03-12",
+        "heure": "18:00",
+        "titre": "Clôture des parrainages",
+        "detail": "À 18 heures. Il faut 500 présentations d'élus pour figurer sur le bulletin.",
+        "court": "Clôture des parrainages"
+      },
+      {
+        "id": "liste-officielle",
+        "date": "2027-03-26",
+        "au_plus_tard": true,
+        "titre": "Liste officielle des candidatures",
+        "detail": "Publiée au plus tard à cette date. Avant elle, personne n'est officiellement candidat.",
+        "court": "Liste officielle"
+      },
+      {
+        "id": "campagne-1",
+        "date": "2027-04-05",
+        "titre": "Début de la campagne officielle du premier tour",
+        "detail": null,
+        "court": "Campagne officielle"
+      },
+      {
+        "id": "tour-1",
+        "date": "2027-04-18",
+        "titre": "Premier tour",
+        "detail": "Le 17 avril dans certains territoires.",
+        "court": "Premier tour"
+      },
+      {
+        "id": "campagne-2",
+        "date": "2027-04-19",
+        "titre": "Début de la campagne officielle du second tour",
+        "detail": null
+      },
+      {
+        "id": "tour-2",
+        "date": "2027-05-02",
+        "titre": "Second tour",
+        "detail": "Le 1er mai dans certains territoires.",
+        "court": "Second tour"
+      },
+      {
+        "id": "fin-mandat",
+        "date": "2027-05-13",
+        "titre": "Fin du mandat du président en exercice",
+        "detail": null
+      }
+    ]
   },
   "derniere_mise_a_jour": "2026-11-09",
-  "version_donnees": "0.5.2",
-  "avertissement": "Nous sommes à moins de six mois du premier tour. La très grande majorité des candidats n'a pas encore publié de programme complet. Ce site n'affiche que ce qui est publiquement documenté à ce jour, avec la source et la date de chaque élément. Une case vide signifie « pas encore de position publique sourcée », jamais « pas d'avis ». La couverture est très inégale : seize candidats sont documentés sur quarante, et deux d'entre eux concentrent plus de 42 % des entrées. Cette inégalité tient à ce que chaque candidat a publié à ce jour, et à ce que notre veille a pu trouver et vérifier ; elle ne dit rien de la qualité, du sérieux ni de l'ampleur d'un projet. Un tableau plus rempli pour un candidat ne signifie pas qu'il en propose davantage. Les données sont mises à jour et publiées chaque semaine par une passe automatisée dont le périmètre et les garde-fous sont décrits dans CHARTE.md ; chaque décision est un commit public et révocable.",
+  "version_donnees": "0.6.0",
+  "avertissement": "Nous sommes à moins de six mois du premier tour. La très grande majorité des candidats n'a pas encore publié de programme complet. Ce site n'affiche que ce qui est publiquement documenté à ce jour, avec la source et la date de chaque élément. Une case vide signifie « pas encore de position publique sourcée », jamais « pas d'avis ». La couverture est très inégale : dix-sept candidats sont documentés sur quarante-trois, et deux d'entre eux concentrent plus de 41 % des entrées. Cette inégalité tient à ce que chaque candidat a publié à ce jour, et à ce que notre veille a pu trouver et vérifier ; elle ne dit rien de la qualité, du sérieux ni de l'ampleur d'un projet. Un tableau plus rempli pour un candidat ne signifie pas qu'il en propose davantage. Les données sont mises à jour et publiées chaque semaine par une passe automatisée dont le périmètre et les garde-fous sont décrits dans CHARTE.md ; chaque décision est un commit public et révocable.",
   "licence_donnees": "CC BY-SA 4.0",
   "licence_code": "MIT",
   "depot": "https://github.com/maax6/programmes-2027"

@@ -1867,6 +1867,44 @@
     ]
   },
   {
+    "id": "glucksmann-ecologie-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "ecologie",
+    "titre": "Plan de 200 milliards d'euros d'investissements publics pour la sortie des énergies fossiles",
+    "resume": "Annonce, le 9 novembre 2026, un plan de 200 milliards d'euros d'investissements publics sur le quinquennat pour financer son projet de « révolution écologique » et engager la « sortie des énergies fossiles », avec pour objectifs la neutralité carbone en 2050 et la stabilisation de la dette à l'horizon 2032. Il a présenté le même jour les « 100 premiers jours » de ce projet.",
+    "citation": "sortie des énergies fossiles",
+    "chiffrage": "200 Md€ d'investissements publics sur le quinquennat (montant annoncé par le candidat)",
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+        "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+        "editeur": "France 24",
+        "type": "media",
+        "consulte_le": "2026-11-09"
+      }
+    ]
+  },
+  {
+    "id": "glucksmann-institutions-01",
+    "candidat": "glucksmann-raphael",
+    "theme": "institutions",
+    "titre": "Inscrire le principe d'une « République écologique » dans la Constitution",
+    "resume": "Propose de proclamer « l'état d'urgence écologique », d'inscrire le principe d'une « République écologique » dans la Constitution et d'adopter une « loi de programmation écologique ». Mesures présentées le 9 novembre 2026.",
+    "citation": "République écologique",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle : Glucksmann promet 200 milliards d'euros pour la sortie des énergies fossiles",
+        "url": "https://www.france24.com/fr/france/20261109-pr%C3%A9sidentielle-glucksmann-promet-200-milliards-euros-sortie-%C3%A9nergies-fossiles",
+        "editeur": "France 24",
+        "type": "media",
+        "consulte_le": "2026-11-09"
+      }
+    ]
+  },
+  {
     "id": "egger-institutions-01",
     "candidat": "egger-clara",
     "theme": "institutions",
@@ -2748,6 +2786,44 @@
         "editeur": "Public Sénat",
         "type": "media",
         "consulte_le": "2026-11-02"
+      }
+    ]
+  },
+  {
+    "id": "riner-retraites-01",
+    "candidat": "riner-teddy",
+    "theme": "retraites",
+    "titre": "Réformer les retraites en préservant la répartition, sans exclure « une part de capitalisation »",
+    "resume": "Propose une réforme des retraites qui tienne compte de la démographie, préserve le système par répartition et s'appuie sur des critères de pénibilité, sans exclure « une part de capitalisation ». Position exprimée dans son entretien au Parisien du 9 novembre 2026, rapportée par Public Sénat. Le compte rendu ne donne ni âge légal ni durée de cotisation.",
+    "citation": "une part de capitalisation",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée, au milieu d'une multitude de candidats",
+        "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats",
+        "editeur": "Public Sénat",
+        "type": "media",
+        "consulte_le": "2026-11-09"
+      }
+    ]
+  },
+  {
+    "id": "riner-salaires-01",
+    "candidat": "riner-teddy",
+    "theme": "travail-salaires",
+    "titre": "Augmenter le salaire net par des allègements de charges",
+    "resume": "Déclare vouloir « augmenter le salaire net », ce qui « doit passer par des allègements de charges », et permettre « aux Français qui le veulent d'augmenter leurs revenus en travaillant plus ». Propos tenus dans son entretien au Parisien du 9 novembre 2026, rapportés par Outre-mer La 1ère. Le compte rendu ne précise ni les charges concernées ni les montants.",
+    "citation": "augmenter le salaire net",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      {
+        "titre": "Le judoka Teddy Riner est candidat à l'élection présidentielle de 2027",
+        "url": "https://la1ere.franceinfo.fr/polynesie/le-judoka-teddy-riner-est-candidat-a-l-election-presidentielle-de-2027-1756191.html",
+        "editeur": "Outre-mer La 1ère (franceinfo)",
+        "type": "media",
+        "consulte_le": "2026-11-09"
       }
     ]
   }

@@ -49,7 +49,7 @@
     if (!iso) return '';
     const parts = String(iso).split('-');
     const mois = ['janvier', 'février', 'mars', 'avril', 'mai', 'juin', 'juillet', 'août', 'septembre', 'octobre', 'novembre', 'décembre'];
-    if (parts.length === 3) return `${Number(parts[2])} ${mois[Number(parts[1]) - 1]} ${parts[0]}`;
+    if (parts.length === 3) return `${Number(parts[2]) === 1 ? '1er' : Number(parts[2])} ${mois[Number(parts[1]) - 1]} ${parts[0]}`;
     if (parts.length === 2) return `${mois[Number(parts[1]) - 1]} ${parts[0]}`;
     return parts[0];
   };
@@ -65,6 +65,12 @@
     </div>`;
   };
 
+  /* Le statut porte le même signe partout : carré plein (déclaré), demi-carré
+     (sous conditions), carré vide (pressenti), carré barré (retiré). */
+  const signe = (statut) => `<i class="st ${esc(STATUTS[statut] ? statut : 'pressenti')}" aria-hidden="true"></i>`;
+  const pluriel = (n, mot) => `${n} ${mot}${n > 1 ? 's' : ''}`;
+  const nProps = (n) => `${pluriel(n, 'proposition')} référencée${n > 1 ? 's' : ''}`;
+
   const propsFor = (candidatId) => DB.propositions.filter((p) => p.candidat === candidatId);
   const themeOf = (id) => byId(DB.themes, id) || { id, nom: id, icone: '•' };
 
@@ -74,11 +80,14 @@
     const st = STATUTS[c.statut] || STATUTS.pressenti;
     const ep = ETATS_PROGRAMME[c.etat_programme] || ETATS_PROGRAMME['aucun-publie-2027'];
     const n = propsFor(c.id).length;
-    return `<a class="cand-card" href="#/candidat/${esc(c.id)}" style="--c:${esc(c.couleur || '#999')}">
-      <div class="cand-name"><span class="dot"></span><h3>${esc(c.nom)}</h3></div>
+    return `<a class="cand-card" href="#/candidat/${esc(c.id)}">
+      <h3>${esc(c.nom)}</h3>
       <div class="parti">${esc(c.parti)}</div>
-      <div class="row">${badge(st.label, st.cls)}${badge(ep.label, ep.cls)}</div>
-      <div class="muted small">${n} proposition${n > 1 ? 's' : ''} référencée${n > 1 ? 's' : ''}</div>
+      <div class="etat">
+        <span>${signe(c.statut)}${esc(st.label)}</span>
+        <span>${esc(ep.label)}</span>
+        <span>${n ? nProps(n) : 'Aucune proposition référencée'}</span>
+      </div>
     </a>`;
   }
 
@@ -86,12 +95,12 @@
     const v = VERIF[p.statut_verification] || VERIF['a-verifier'];
     const c = byId(DB.candidats, p.candidat);
     return `<article class="prop">
-      <div class="row" style="justify-content:space-between;margin-bottom:6px">
-        <span class="badge neutral">${esc(themeOf(p.theme).icone)} ${esc(themeOf(p.theme).nom)}</span>
+      <div class="row between">
+        <span class="badge plain">${esc(themeOf(p.theme).nom)}</span>
         ${badge(v.label, v.cls, v.desc)}
       </div>
       <h4>${esc(p.titre)}</h4>
-      ${withCandidat && c ? `<div class="muted small" style="margin:-4px 0 8px">${esc(c.nom)} — ${esc(c.parti)}</div>` : ''}
+      ${withCandidat && c ? `<p class="qui"><a href="#/candidat/${esc(c.id)}">${esc(c.nom)}</a>, ${esc(c.parti)}</p>` : ''}
       <p>${esc(p.resume)}</p>
       ${p.citation ? `<blockquote class="quote">« ${esc(p.citation)} »</blockquote>` : ''}
       ${p.chiffrage ? `<span class="chiffrage">${esc(p.chiffrage)}</span>` : ''}
@@ -101,50 +110,254 @@
 
   /* ---------- vues ---------- */
 
+  /* ---------- calendrier du scrutin ---------- */
+
+  const MOIS_COURTS = ['janv.', 'févr.', 'mars', 'avr.', 'mai', 'juin', 'juil.', 'août', 'sept.', 'oct.', 'nov.', 'déc.'];
+  const fmtCourt = (iso) => {
+    const [a, m, j] = iso.split('-').map(Number);
+    return `${j === 1 ? '1er' : j} ${MOIS_COURTS[m - 1]} ${a}`;
+  };
+  /* Le compte à rebours se lit sur l'horloge de Paris : on compare deux heures
+     murales, pour que le passage à l'heure d'été ne retire pas une heure. */
+  const murParis = () => {
+    const p = Object.fromEntries(new Intl.DateTimeFormat('en-GB', {
+      timeZone: 'Europe/Paris', hourCycle: 'h23', year: 'numeric', month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit', second: '2-digit'
+    }).formatToParts(new Date()).map((x) => [x.type, x.value]));
+    return Date.UTC(+p.year, +p.month - 1, +p.day, +p.hour, +p.minute, +p.second);
+  };
+  const aujourdhuiIso = () => new Intl.DateTimeFormat('fr-CA', { timeZone: 'Europe/Paris' }).format(new Date());
+  const joursAvant = (iso) => Math.round((Date.parse(iso) - Date.parse(aujourdhuiIso())) / 86400000);
+
+  function etapes() {
+    const liste = (DB.meta.election.calendrier || []).slice();
+    const today = aujourdhuiIso();
+    let prochaineVue = false;
+    return liste.map((e) => {
+      const faite = !!e.date && e.date < today;
+      const prochaine = !!e.date && !faite && !prochaineVue;
+      if (prochaine) prochaineVue = true;
+      return { ...e, faite, prochaine };
+    });
+  }
+
+  function carteElectorale() {
+    const garder = ['dates-annoncees', 'parrainages', 'liste-officielle', 'campagne-1', 'tour-1', 'tour-2'];
+    const cases = etapes().filter((e) => garder.includes(e.id));
+    return `<aside class="carte" aria-labelledby="carteTitre">
+      <div class="carte-head">
+        <h2 id="carteTitre">Avant le premier tour</h2>
+        <a href="#/calendrier">Tout le calendrier</a>
+      </div>
+      <div class="rebours" id="rebours" role="timer" aria-live="off"></div>
+      <p class="rebours-legende">jusqu'au dimanche ${fmtDate(DB.meta.election.premier_tour)}, minuit à Paris.</p>
+      <ol class="cases">
+        ${cases.map((e) => `<li class="case${e.faite ? ' faite' : ''}${e.prochaine ? ' prochaine' : ''}">
+          <span class="quoi">${esc(e.court || e.titre)}</span>
+          <span class="quand">${e.au_plus_tard ? 'au plus tard le ' : ''}${fmtCourt(e.date)}</span>
+          ${e.faite ? `<span class="tampon" aria-label="Étape passée">${fmtCourt(e.date).replace(/ (\d{4})$/, '<br>$1')}</span>` : ''}
+        </li>`).join('')}
+      </ol>
+    </aside>`;
+  }
+
+  let minuterie = null;
+  function lancerRebours() {
+    clearInterval(minuterie);
+    const el = document.getElementById('rebours');
+    if (!el) return;
+    const cible = Date.parse(DB.meta.election.premier_tour);
+    const deux = (n) => String(n).padStart(2, '0');
+    const tic = () => {
+      if (!el.isConnected) { clearInterval(minuterie); return; }
+      const reste = Math.max(0, cible - murParis());
+      const j = Math.floor(reste / 86400000);
+      const h = Math.floor(reste / 3600000) % 24;
+      const m = Math.floor(reste / 60000) % 60;
+      const sec = Math.floor(reste / 1000) % 60;
+      el.innerHTML = `<div><b>${j}</b><span>jour${j > 1 ? 's' : ''}</span></div>
+        <div><b>${deux(h)}</b><span>h</span></div><div><b>${deux(m)}</b><span>min</span></div><div><b>${deux(sec)}</b><span>s</span></div>`;
+      el.setAttribute('aria-label', `${j} jours, ${h} heures et ${m} minutes avant le premier tour`);
+    };
+    tic();
+    minuterie = setInterval(tic, 1000);
+  }
+
+  function vueCalendrier() {
+    const src = DB.meta.election.source_calendrier;
+    const lignes = etapes().map((e) => {
+      const d = e.date ? joursAvant(e.date) : null;
+      const dans = d === null ? 'Date à venir' : d < 0 ? 'Passé' : d === 0 ? "Aujourd'hui" : `Dans ${pluriel(d, 'jour')}`;
+      return `<li class="${e.faite ? 'faite' : ''}${e.prochaine ? ' prochaine' : ''}">
+        <div class="quand">${e.date ? fmtDate(e.date) : 'Date non fixée'}${e.au_plus_tard ? '<small>au plus tard</small>' : ''}${e.heure ? `<small>à ${esc(e.heure.replace(':00', ' h').replace(':', ' h '))}</small>` : ''}</div>
+        <div><h3>${esc(e.titre)}</h3>${e.detail ? `<p>${esc(e.detail)}</p>` : ''}</div>
+        <div class="dans">${e.prochaine ? 'Prochaine étape. ' : ''}${dans}</div>
+      </li>`;
+    }).join('');
+    return `<h1>Calendrier du scrutin</h1>
+      <p class="lead">Les étapes officielles, de l'annonce des dates à la fin du mandat en cours. Tant que le Conseil constitutionnel n'a pas publié la liste des candidatures, toutes les personnes suivies ici sont des prétendants.</p>
+      <ol class="frise">${lignes}</ol>
+      ${src ? `<p class="sources" style="border:0">Source : <a href="${esc(src.url)}" target="_blank" rel="noopener noreferrer">${esc(src.titre)}</a>, ${esc(src.editeur)}, consulté le ${fmtDate(src.consulte_le)}. Ce site ne publie ni sondage ni pronostic : ce calendrier ne contient que des échéances institutionnelles.</p>` : ''}
+      <div class="section-title"><h2>Les 500 parrainages</h2></div>
+      <div class="card stack">
+        <p>Se déclarer ne suffit pas. Pour figurer sur le bulletin, il faut réunir 500 présentations d'élus, issus d'au moins 30 départements ou collectivités, sans que plus d'un dixième provienne d'un même département.</p>
+        <p>À ce jour, ${DB.candidats.filter((c) => c.statut === 'declare').length} des ${DB.candidats.length} personnes suivies sur ce site ont déclaré leur candidature. <a href="#/candidats">Voir la liste</a>.</p>
+      </div>`;
+  }
+
+  /* ---------- le peloton : une case par personne suivie ---------- */
+
+  function peloton() {
+    const ordre = ['declare', 'conditionnel', 'pressenti', 'retire'];
+    const libelles = { declare: 'candidatures déclarées', conditionnel: 'sous conditions', pressenti: 'pressentis, non déclarés', retire: 'retraits' };
+    const groupes = ordre.map((st) => {
+      const list = DB.candidats.filter((c) => c.statut === st).sort((a, b) => a.id.localeCompare(b.id, 'fr'));
+      if (!list.length) return '';
+      return `<div class="peloton-groupe">
+        <h3><b>${list.length}</b>${esc(libelles[st])}</h3>
+        <ul class="peloton-cases">${list.map((c) => {
+          const n = propsFor(c.id).length;
+          const txt = `${c.nom}, ${c.parti} : ${n ? nProps(n) : 'aucune proposition référencée'}`;
+          return `<li><a href="#/candidat/${esc(c.id)}" class="${n ? 'doc' : ''}" data-qui="${esc(c.nom)}" data-quoi="${esc(`${c.parti} · ${n ? nProps(n) : 'aucune proposition référencée'}`)}" aria-label="${esc(txt)}">${signe(c.statut)}</a></li>`;
+        }).join('')}</ul>
+      </div>`;
+    }).join('');
+    return `<div class="peloton" id="peloton">
+      <div class="peloton-groupes">${groupes}</div>
+      <p class="peloton-qui" id="pelotonQui" aria-hidden="true">Passez sur une case pour voir de qui il s'agit.</p>
+      <p class="peloton-legende">Une case par personne, rangée par ordre alphabétique. Un point au centre : au moins une proposition sourcée est référencée ici.</p>
+    </div>`;
+  }
+
+  function brancherPeloton() {
+    const box = document.getElementById('peloton');
+    const out = document.getElementById('pelotonQui');
+    if (!box || !out) return;
+    const repos = out.textContent;
+    const montrer = (e) => {
+      const a = e.target.closest('a[data-qui]');
+      if (!a) return;
+      out.innerHTML = `<b>${esc(a.dataset.qui)}</b> ${esc(a.dataset.quoi.replace(' · ', ', '))}`;
+    };
+    box.addEventListener('pointerover', montrer);
+    box.addEventListener('focusin', montrer);
+    box.addEventListener('pointerleave', () => { out.textContent = repos; });
+  }
+
+  /* ---------- à l'aveugle : la mesure avant le nom ----------
+     Le tirage se fait d'abord parmi les candidats documentés, puis parmi leurs
+     propositions : chaque candidat a la même chance de sortir, quel que soit
+     le nombre d'entrées qu'il a dans le dépôt (charte, règle 5). */
+
+  let tirage = null;
+  function tirer() {
+    const docs = DB.candidats.filter((c) => propsFor(c.id).length > 0);
+    if (!docs.length) return null;
+    let p;
+    do {
+      const c = docs[Math.floor(Math.random() * docs.length)];
+      const ps = propsFor(c.id);
+      p = ps[Math.floor(Math.random() * ps.length)];
+    } while (tirage && docs.length > 1 && p.id === tirage.id);
+    return p;
+  }
+
+  function aveugleHtml(revele) {
+    const p = tirage;
+    if (!p) return `<div class="empty-state">Aucune proposition à tirer pour l'instant.</div>`;
+    const c = byId(DB.candidats, p.candidat);
+    return `<p class="aveugle-theme">${esc(themeOf(p.theme).nom)}</p>
+      <h3>${esc(p.titre)}</h3>
+      <p class="resume">${esc(p.resume)}</p>
+      ${p.chiffrage ? `<span class="chiffrage">${esc(p.chiffrage)}</span>` : ''}
+      <div class="aveugle-qui${revele ? ' revele' : ''}" aria-live="polite">
+        ${revele && c
+          ? `<span class="dot" style="--c:${esc(c.couleur || '#999')}"></span>
+             <span><span class="nom">${esc(c.nom)}</span><br><span class="parti">${esc(c.parti)}</span></span>
+             <a class="btn" href="#/candidat/${esc(c.id)}" style="margin-left:auto">Voir sa fiche</a>`
+          : `<span class="muted">Qui propose cette mesure ?</span>`}
+      </div>
+      ${revele ? sourcesHtml(p.sources) : ''}
+      <div class="row aveugle-actions">
+        ${revele ? '' : `<button class="btn primary" type="button" data-action="reveler">Voir qui la propose</button>`}
+        <button class="btn${revele ? ' primary' : ''}" type="button" data-action="tirer">Tirer une autre mesure</button>
+      </div>`;
+  }
+
+  function brancherAveugle() {
+    const box = document.getElementById('aveugle');
+    if (!box) return;
+    box.addEventListener('click', (e) => {
+      const b = e.target.closest('button[data-action]');
+      if (!b) return;
+      if (b.dataset.action === 'tirer') { tirage = tirer(); box.innerHTML = aveugleHtml(false); }
+      if (b.dataset.action === 'reveler') { box.innerHTML = aveugleHtml(true); }
+      box.querySelector('button')?.focus();
+    });
+  }
+
+  /* ---------- vues ---------- */
+
   function vueAccueil() {
     const m = DB.meta;
-    const t1 = new Date(m.election.premier_tour + 'T00:00:00');
-    const jours = Math.max(0, Math.ceil((t1 - new Date()) / 86400000));
     const declares = DB.candidats.filter((c) => c.statut === 'declare');
-    const avecProg = DB.candidats.filter((c) => ['complet', 'partiel', 'orientations', 'corpus-existant'].includes(c.etat_programme));
-    const misEnAvant = DB.candidats
+    const documentes = DB.candidats
       .filter((c) => propsFor(c.id).length > 0)
-      .sort((a, b) => propsFor(b.id).length - propsFor(a.id).length);
+      .sort((a, b) => a.id.localeCompare(b.id, 'fr'));
+    tirage = tirer();
 
     return `
     <section class="hero">
-      <h1>Comparer les programmes, pas les slogans</h1>
-      <p class="lead">${esc(m.sous_titre)}. Chaque proposition affichée ici renvoie à sa source d'origine et à sa date. Vous jugez, nous documentons.</p>
-      <div class="countdown">
-        <div><b>J−${jours}</b><span>1<sup>er</sup> tour · ${fmtDate(m.election.premier_tour)}</span></div>
-        <div><b>${DB.candidats.length}</b><span>candidats suivis</span></div>
-        <div><b>${declares.length}</b><span>déclarés</span></div>
-        <div><b>${avecProg.length}</b><span>avec éléments programmatiques</span></div>
-        <div><b>${DB.propositions.length}</b><span>propositions sourcées</span></div>
+      <div>
+        <h1>Comparer les programmes, pas les slogans</h1>
+        <p class="lead">Ce que les candidats à la présidentielle de 2027 proposent, mesure par mesure. Chaque ligne renvoie à sa source et à sa date. Vous jugez, nous documentons.</p>
+        <ul class="hero-figures">
+          <li><b>${DB.candidats.length}</b><span>personnes suivies</span></li>
+          <li><b>${declares.length}</b><span>candidatures déclarées</span></li>
+          <li><b>${DB.propositions.length}</b><span>propositions sourcées</span></li>
+        </ul>
       </div>
+      ${carteElectorale()}
     </section>
 
-    <div class="notice"><strong>À lire avant tout.</strong> ${esc(m.avertissement)}</div>
+    <details class="notice" open>
+      <summary>À lire avant tout</summary>
+      <p>${esc(m.avertissement)}</p>
+    </details>
 
-    <div class="section-title"><h2>Par où commencer</h2></div>
+    <div class="section-title"><h2>Qui est sur la ligne de départ</h2><span class="count">au ${fmtDate(m.derniere_mise_a_jour)}</span></div>
+    ${peloton()}
+
+    <div class="section-title"><h2>À l'aveugle</h2></div>
+    <p class="section-intro">Une mesure tirée au sort, sans le nom de la personne qui la porte. Lisez-la d'abord, regardez ensuite qui la propose.</p>
+    <div class="aveugle" id="aveugle">${aveugleHtml(false)}</div>
+
+    <div class="section-title"><h2>Trois façons de comparer</h2></div>
     <div class="grid cols-3">
-      <a class="card" href="#/comparateur" style="text-decoration:none;color:inherit">
-        <h3>⚖️ Comparateur</h3>
-        <p class="muted">Mettez côte à côte jusqu'à six candidats, thème par thème.</p>
+      <a class="card" href="#/comparateur">
+        <h3>Comparateur</h3>
+        <p class="muted">Jusqu'à six candidats côte à côte, thème par thème.</p>
       </a>
-      <a class="card" href="#/convergences" style="text-decoration:none;color:inherit">
-        <h3>🤝 Accords &amp; désaccords</h3>
-        <p class="muted">Où les candidats convergent, où ils s'opposent, et où les positions restent floues.</p>
+      <a class="card" href="#/convergences">
+        <h3>Accords et désaccords</h3>
+        <p class="muted">Où les candidats se rejoignent, où ils s'opposent, où rien n'est encore dit.</p>
       </a>
-      <a class="card" href="#/themes" style="text-decoration:none;color:inherit">
-        <h3>🗂️ Par thème</h3>
-        <p class="muted">Retraites, immigration, économie, écologie… toutes les positions connues.</p>
+      <a class="card" href="#/themes">
+        <h3>Par thème</h3>
+        <p class="muted">Retraites, immigration, économie, écologie : toutes les positions connues.</p>
       </a>
     </div>
 
-    <div class="section-title"><h2>Candidats déjà documentés</h2><span class="count">${misEnAvant.length} sur ${DB.candidats.length}</span></div>
-    <div class="grid cols-3">${misEnAvant.map(candCard).join('')}</div>
-    <p style="margin-top:14px"><a href="#/candidats">Voir les ${DB.candidats.length} candidats et prétendants suivis →</a></p>
+    <div class="section-title"><h2>Candidats déjà documentés</h2><span class="count">${documentes.length} sur ${DB.candidats.length}, par ordre alphabétique</span></div>
+    <ul class="liste-cand">${documentes.map((c) => {
+      const n = propsFor(c.id).length;
+      return `<li><a href="#/candidat/${esc(c.id)}">
+        <span class="nom">${signe(c.statut)}${esc(c.nom)}</span>
+        <span class="parti">${esc(c.parti)}</span>
+        <span class="n">${nProps(n)}</span>
+      </a></li>`;
+    }).join('')}</ul>
+    <p style="margin-top:14px"><a href="#/candidats">Voir les ${DB.candidats.length} candidats et prétendants suivis</a></p>
     `;
   }
 
@@ -159,7 +372,7 @@
     }).join('');
 
     return `<h1>Candidats et prétendants</h1>
-      <p class="lead muted">Toute personne publiquement déclarée ou dont la candidature est activement évoquée dans la presse est listée ici, qu'elle ait ou non publié un programme. Le classement par famille politique reprend celui utilisé par les rédactions parlementaires ; il est indicatif et discutable — <a href="#/methodologie">voir la méthodologie</a>.</p>
+      <p class="lead">Toute personne publiquement déclarée ou dont la candidature est activement évoquée dans la presse est listée ici, qu'elle ait ou non publié un programme. Le classement par famille politique reprend celui utilisé par les rédactions parlementaires ; il est indicatif et discutable (<a href="#/methodologie">voir la méthodologie</a>).</p>
       <div class="notice small">Rappel : se déclarer ne suffit pas. Pour figurer sur le bulletin, un candidat doit réunir 500 parrainages d'élus issus d'au moins 30 départements ou collectivités, sans que plus d'un dixième provienne d'un même département.</div>
       ${groupes}`;
   }
@@ -178,17 +391,17 @@
       .filter((cl) => cl.positions && cl.positions[c.id])
       .map((cl) => {
         const opt = cl.options.find((o) => o.id === cl.positions[c.id].option);
-        return `<li><strong>${esc(cl.question)}</strong><br><span class="muted">${esc(opt ? opt.label : '—')}</span></li>`;
+        return `<li><strong>${esc(cl.question)}</strong><br><span class="muted">${esc(opt ? opt.label : 'Non documenté')}</span></li>`;
       });
 
     return `
       <p class="breadcrumb"><a href="#/candidats">Candidats</a> / ${esc(c.nom)}</p>
-      <div class="card" style="border-left:6px solid ${esc(c.couleur || '#999')}">
-        <h1 style="margin-bottom:4px">${esc(c.nom)}</h1>
-        <p class="muted" style="margin-bottom:10px">${esc(c.parti)}${c.date_declaration ? ` · déclaré en ${fmtDate(c.date_declaration)}` : ''}${c.date_retrait ? ` · retrait le ${fmtDate(c.date_retrait)}` : ''}</p>
-        <div class="row">${badge(st.label, st.cls)}${badge(ep.label, ep.cls)}</div>
-        ${c.note ? `<p style="margin-top:14px">${esc(c.note)}</p>` : ''}
-        <div class="row" style="margin-top:12px">
+      <div class="fiche">
+        <h1><span class="dot" style="--c:${esc(c.couleur || '#999')}" aria-hidden="true"></span>${esc(c.nom)}</h1>
+        <p class="muted">${esc(c.parti)}${c.date_declaration ? `, candidature déclarée ${String(c.date_declaration).length > 7 ? 'le' : 'en'} ${fmtDate(c.date_declaration)}` : ''}${c.date_retrait ? `, retrait le ${fmtDate(c.date_retrait)}` : ''}</p>
+        <div class="row"><span class="badge plain">${signe(c.statut)}${esc(st.label)}</span>${badge(ep.label, ep.cls)}</div>
+        ${c.note ? `<p class="note">${esc(c.note)}</p>` : ''}
+        <div class="row" style="margin-top:14px">
           ${c.site_officiel ? `<a class="btn" href="${esc(c.site_officiel)}" target="_blank" rel="noopener noreferrer">Site officiel ↗</a>` : ''}
           ${c.programme_url ? `<a class="btn primary" href="${esc(c.programme_url)}" target="_blank" rel="noopener noreferrer">Programme publié ↗</a>` : ''}
           <a class="btn" href="#/comparateur?c=${esc(c.id)}">Comparer</a>
@@ -202,26 +415,26 @@
       <div class="section-title"><h2>Propositions référencées</h2><span class="count">${props.length}</span></div>
       ${props.length
         ? parTheme.map(([t, ps]) => `
-            <h3 style="margin-top:1.6rem">${esc(t.icone)} ${esc(t.nom)}</h3>
+            <h3 style="margin-top:1.8rem">${esc(t.nom)}</h3>
             <div class="grid cols-2">${ps.map((p) => propCard(p)).join('')}</div>`).join('')
         : `<div class="empty-state">
              <p><strong>Aucune proposition sourcée à ce jour.</strong></p>
-             <p class="small">Cela ne signifie pas que ce candidat n'a pas d'idées : cela signifie qu'aucun document programmatique public et vérifiable n'a encore été publié, ou qu'il n'a pas encore été intégré ici. Une source à nous signaler ? <a href="${esc(DB.meta.depot)}/issues/new/choose">Ouvrez un ticket</a>.</p>
+             <p>Cela ne signifie pas que ce candidat n'a pas d'idées : aucun document programmatique public et vérifiable n'a encore été publié, ou il n'a pas encore été intégré ici. Une source à signaler ? <a href="${esc(DB.meta.depot)}/issues/new/choose">Ouvrez un ticket</a>.</p>
            </div>`}
     `;
   }
 
   function vueThemes() {
     return `<h1>Thèmes</h1>
-      <p class="lead muted">Chaque thème regroupe les propositions sourcées de tous les candidats, et les questions clés qui les séparent.</p>
+      <p class="lead">Chaque thème regroupe les propositions sourcées de tous les candidats, et les questions clés qui les séparent.</p>
       <div class="grid cols-3">
         ${DB.themes.map((t) => {
           const n = DB.propositions.filter((p) => p.theme === t.id).length;
           const q = DB.clivages.filter((c) => c.theme === t.id).length;
-          return `<a class="card" href="#/theme/${esc(t.id)}" style="text-decoration:none;color:inherit">
-            <h3>${esc(t.icone)} ${esc(t.nom)}</h3>
-            <p class="muted small">${esc(t.description)}</p>
-            <div class="row">${badge(`${n} proposition${n > 1 ? 's' : ''}`)}${badge(`${q} question${q > 1 ? 's' : ''} clé${q > 1 ? 's' : ''}`)}</div>
+          return `<a class="card" href="#/theme/${esc(t.id)}">
+            <h3>${esc(t.nom)}</h3>
+            <p class="muted">${esc(t.description)}</p>
+            <p class="badge plain">${pluriel(n, 'proposition')}, ${q} question${q > 1 ? 's' : ''} clé${q > 1 ? 's' : ''}</p>
           </a>`;
         }).join('')}
       </div>`;
@@ -234,8 +447,8 @@
     const clivages = DB.clivages.filter((c) => c.theme === id);
 
     return `<p class="breadcrumb"><a href="#/themes">Thèmes</a> / ${esc(t.nom)}</p>
-      <h1>${esc(t.icone)} ${esc(t.nom)}</h1>
-      <p class="lead muted">${esc(t.description)}</p>
+      <h1>${esc(t.nom)}</h1>
+      <p class="lead">${esc(t.description)}</p>
 
       ${clivages.length ? `<div class="section-title"><h2>Questions clés</h2></div>
         ${clivages.map(tableauClivage).join('')}` : ''}
@@ -291,7 +504,7 @@
 
     const html = `
       <h1>Comparateur</h1>
-      <p class="lead muted">Sélectionnez les candidats à mettre côte à côte. Le tableau n'affiche que des positions sourcées ; une case vide signifie « aucune position publique documentée à ce jour ».</p>
+      <p class="lead">Sélectionnez les candidats à mettre côte à côte. Le tableau n'affiche que des positions sourcées ; une case vide signifie « aucune position publique documentée à ce jour ».</p>
       <fieldset>
         <legend>Candidats <span class="muted small" id="cmpCount"></span></legend>
         <div class="checks" id="cmpChecks">
@@ -372,14 +585,14 @@
         return `<td><ul class="clean">${ps.map((p) => `<li><strong>${esc(p.titre)}</strong>${p.chiffrage ? `<br><span class="chiffrage">${esc(p.chiffrage)}</span>` : ''}${p.sources && p.sources[0] ? `<br><a class="small" href="${esc(p.sources[0].url)}" target="_blank" rel="noopener noreferrer">source ↗</a>` : ''}</li>`).join('')}</ul></td>`;
       });
       if (cells.every((c) => c.includes('Non documenté'))) return '';
-      return `<tr><th class="rowhead" scope="row">${esc(t.icone)} ${esc(t.nom)}</th>${cells.join('')}</tr>`;
+      return `<tr><th class="rowhead" scope="row">${esc(t.nom)}</th>${cells.join('')}</tr>`;
     }).filter(Boolean);
 
     const vides = DB.themes.length - blocs.length;
 
     return `${cands.length > 4 ? `<p class="muted small" style="margin:0 0 8px">${cands.length} colonnes. Défilement horizontal : deux doigts sur le trackpad, molette horizontale, ou Maj + molette. La colonne des thèmes et la ligne des candidats restent fixes.</p>` : ''}
       <div class="table-scroll cmp"><table>
-        <thead><tr><th>Thème</th>${cands.map((c) => `<th><span class="dot" style="--c:${esc(c.couleur)};display:inline-block;margin-right:6px"></span>${esc(c.nom)}<br><span class="muted small" style="font-weight:400;text-transform:none;letter-spacing:0">${esc(c.parti)}</span></th>`).join('')}</tr></thead>
+        <thead><tr><th>Thème</th>${cands.map((c) => `<th><span class="dot" style="--c:${esc(c.couleur)};display:inline-block;margin-right:6px"></span>${esc(c.nom)}<small>${esc(c.parti)}</small></th>`).join('')}</tr></thead>
         <tbody>${blocs.join('') || `<tr><td colspan="${cands.length + 1}" class="empty">Aucune donnée pour cette sélection.</td></tr>`}</tbody>
       </table></div>
       ${vides ? `<p class="muted small" style="margin-top:10px">${vides} thème${vides > 1 ? 's' : ''} masqué${vides > 1 ? 's' : ''} : aucun des candidats sélectionnés n'y a de position documentée.</p>` : ''}`;
@@ -427,7 +640,7 @@
     const labelOpt = (cl, opt) => cl.options.find((o) => o.id === opt)?.label || opt;
 
     return `<h1>Accords &amp; désaccords</h1>
-      <p class="lead muted">Cette page compare les candidats sur des <strong>questions clés</strong> : des choix binaires ou à options limitées, où une position documentée peut être rangée sans interprétation abusive. Le pourcentage de convergence ne porte que sur les questions où <em>les deux</em> candidats ont une position sourcée.</p>
+      <p class="lead">Cette page compare les candidats sur des <strong>questions clés</strong> : des choix binaires ou à options limitées, où une position documentée peut être rangée sans interprétation abusive. Le pourcentage de convergence ne porte que sur les questions où <em>les deux</em> candidats ont une position sourcée.</p>
 
       <div class="notice small"><strong>Ce que ce chiffre n'est pas.</strong> Un taux de convergence élevé ne veut pas dire « même projet ». Deux candidats peuvent converger sur un objectif et diverger radicalement sur les moyens, le calendrier ou le financement. À ce stade de la campagne, le nombre de questions documentées est faible : lisez le détail plutôt que le pourcentage.</div>
 
@@ -440,7 +653,7 @@
           <h3>${esc(cl.question)}</h3>
           <p><strong>${esc(labelOpt(cl, opt))}</strong></p>
           <p class="muted small">${esc(nomsDe(cids))}</p>
-          <p class="small"><a href="#/theme/${esc(cl.theme)}">Voir le détail et les sources →</a></p>
+          <p class="small"><a href="#/theme/${esc(cl.theme)}">Voir le détail et les sources</a></p>
         </div>`).join('')}</div>` : `<div class="empty-state">Aucun accord documenté entre au moins deux candidats pour l'instant.</div>`}
 
       <div class="section-title"><h2>Points de désaccord</h2><span class="count">${desaccords.length}</span></div>
@@ -448,7 +661,7 @@
           <div class="row" style="margin-bottom:6px">${badge(themeOf(cl.theme).nom)}${badge('Désaccord', 'diff')}</div>
           <h3>${esc(cl.question)}</h3>
           <ul class="clean">${Object.entries(groupes).map(([opt, cids]) => `<li><strong>${esc(labelOpt(cl, opt))}</strong><br><span class="muted small">${esc(nomsDe(cids))}</span></li>`).join('')}</ul>
-          <p class="small" style="margin-top:10px"><a href="#/theme/${esc(cl.theme)}">Voir le détail et les sources →</a></p>
+          <p class="small" style="margin-top:10px"><a href="#/theme/${esc(cl.theme)}">Voir le détail et les sources</a></p>
         </div>`).join('')}</div>` : `<div class="empty-state">Aucun désaccord documenté pour l'instant.</div>`}
 
       <div class="section-title"><h2>Zones de flou</h2><span class="count">${flous.length}</span></div>
@@ -466,14 +679,14 @@
     }).join('');
 
     return `<h1>Méthodologie</h1>
-      <p class="lead muted">Ce site est un projet ouvert. Tout ce qu'il affiche est vérifiable, et tout ce qu'il ne sait pas est signalé comme tel.</p>
+      <p class="lead">Ce site est un projet ouvert. Tout ce qu'il affiche est vérifiable, et tout ce qu'il ne sait pas est signalé comme tel.</p>
 
       <div class="section-title"><h2>Règles de publication</h2></div>
       <div class="card stack">
         <p><strong>1. Rien sans source.</strong> Aucune proposition n'est publiée sans au moins une source vérifiable, avec son URL, son éditeur et la date de consultation. Les sources officielles (site de campagne, document programmatique, profession de foi) priment sur les sources média.</p>
         <p><strong>2. Le vide est une information.</strong> Une case « non documenté » signifie qu'aucune position publique sourcée n'a été trouvée. Elle ne signifie jamais que le candidat n'a pas d'avis, et n'est jamais comblée par déduction ou par extrapolation à partir de son parti.</p>
         <p><strong>3. Pas de reformulation orientée.</strong> Les résumés reprennent le vocabulaire du candidat. Quand la formulation est disputée ou porteuse d'enjeu, la citation textuelle est affichée à côté du résumé.</p>
-        <p><strong>4. Pas d'évaluation.</strong> Ce site ne dit pas si une mesure est bonne, réaliste ou finaçable. Il ne note pas les candidats et n'émet aucune recommandation de vote. Le chiffrage affiché est celui annoncé par le candidat, pas une estimation indépendante.</p>
+        <p><strong>4. Pas d'évaluation.</strong> Ce site ne dit pas si une mesure est bonne, réaliste ou finançable. Il ne note pas les candidats et n'émet aucune recommandation de vote. Le chiffrage affiché est celui annoncé par le candidat, pas une estimation indépendante.</p>
         <p><strong>5. Traitement symétrique.</strong> Tous les candidats sont soumis aux mêmes règles, au même niveau de détail et au même degré d'exigence sur les sources, sans exception liée à leur position dans les sondages ou à leur famille politique.</p>
         <p><strong>6. Traçabilité.</strong> Toutes les données vivent dans des fichiers JSON versionnés sur GitHub. Chaque modification est un commit horodaté, publiquement consultable et réversible.</p>
       </div>
@@ -518,13 +731,17 @@
       case 'theme': html = vueTheme(seg[1]); active = 'themes'; break;
       case 'comparateur': html = vueComparateur(query); active = 'comparateur'; break;
       case 'convergences': html = vueConvergences(); active = 'convergences'; break;
+      case 'calendrier': html = vueCalendrier(); active = 'calendrier'; break;
       case 'methodologie': html = vueMethodologie(); active = 'methodologie'; break;
       default: html = `<div class="empty-state">Page introuvable. <a href="#/">Retour à l'accueil</a></div>`;
     }
 
     app.innerHTML = html;
     app.querySelectorAll('.table-scroll').forEach(enableHScroll);
-    document.querySelectorAll('nav a').forEach((a) => a.classList.toggle('active', a.dataset.route === active));
+    lancerRebours();
+    brancherPeloton();
+    brancherAveugle();
+    document.querySelectorAll('#mainNav a').forEach((a) => a.classList.toggle('active', a.dataset.route === active));
     document.getElementById('mainNav')?.classList.remove('open');
     document.getElementById('navToggle')?.setAttribute('aria-expanded', 'false');
     if (!seg.length) window.scrollTo({ top: 0 });
@@ -545,7 +762,7 @@
       Object.assign(DB, { meta, themes, candidats, propositions, clivages });
 
       const fm = document.getElementById('footerMeta');
-      if (fm) fm.textContent = `Dernière mise à jour des données : ${fmtDate(meta.derniere_mise_a_jour)} · version ${meta.version_donnees}`;
+      if (fm) fm.textContent = `Données mises à jour le ${fmtDate(meta.derniere_mise_a_jour)}, version ${meta.version_donnees}.`;
       if (meta.depot) {
         document.getElementById('repoLink').href = meta.depot;
         document.getElementById('issueLink').href = `${meta.depot}/issues/new/choose`;

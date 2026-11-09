@@ -3,13 +3,18 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Programmes 2027 — Comparer les programmes de la présidentielle française</title>
-<meta name="description" content="Outil citoyen, ouvert et sourcé, pour comparer les programmes officiels des candidats à l'élection présidentielle française de 2027.">
+<title>Programmes 2027 : comparer les programmes de la présidentielle française</title>
+<meta name="description" content="Outil citoyen, ouvert et sourcé, pour comparer les programmes des candidats à l'élection présidentielle française de 2027.">
 <meta property="og:title" content="Programmes 2027">
-<meta property="og:description" content="Comparer les programmes officiels des candidats à la présidentielle française de 2027. Chaque information est sourcée et datée.">
+<meta property="og:description" content="Comparer les programmes des candidats à la présidentielle française de 2027. Chaque information est sourcée et datée.">
 <meta property="og:type" content="website">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#161d27" media="(prefers-color-scheme: dark)">
+<link rel="preload" href="assets/fonts/archivo-latin-wdth-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/source-serif-4-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="assets/style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗳️</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='5' fill='%233538a0'/><rect x='10' y='5' width='12' height='13' fill='white'/><rect x='5' y='18' width='22' height='3' fill='white'/><rect x='7' y='21' width='18' height='6' fill='none' stroke='white' stroke-width='2'/></svg>">
 </head>
 <body>
 
@@ -18,18 +23,23 @@
 <header class="site-header">
   <div class="wrap header-inner">
     <a class="brand" href="#/">
-      <span class="brand-mark" aria-hidden="true">🗳️</span>
+      <svg viewBox="0 0 32 32" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.2">
+        <rect x="10.5" y="3" width="11" height="13" fill="currentColor" stroke="none"/>
+        <path d="M3 17h26"/>
+        <rect x="5.5" y="17" width="21" height="11.5"/>
+      </svg>
       <span>
         <strong>Programmes 2027</strong>
-        <small>Présidentielle française · outil citoyen</small>
+        <small>Présidentielle française, outil citoyen</small>
       </span>
     </a>
-    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="mainNav">☰<span class="sr-only">Menu</span></button>
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="mainNav">Menu</button>
     <nav id="mainNav" aria-label="Navigation principale">
       <a href="#/candidats" data-route="candidats">Candidats</a>
       <a href="#/themes" data-route="themes">Thèmes</a>
       <a href="#/comparateur" data-route="comparateur">Comparateur</a>
-      <a href="#/convergences" data-route="convergences">Accords &amp; désaccords</a>
+      <a href="#/convergences" data-route="convergences">Accords et désaccords</a>
+      <a href="#/calendrier" data-route="calendrier">Calendrier</a>
       <a href="#/methodologie" data-route="methodologie">Méthodologie</a>
     </nav>
   </div>
@@ -44,15 +54,15 @@
 <footer class="site-footer">
   <div class="wrap">
     <p>
-      <strong>Programmes 2027</strong> — projet ouvert et non partisan. Données sous licence CC BY-SA 4.0, code sous licence MIT.
+      <strong>Programmes 2027</strong> est un projet ouvert et non partisan. Il n'est affilié à aucun candidat, parti ou institution et ne formule aucune recommandation de vote.
     </p>
-    <p class="muted" id="footerMeta"></p>
+    <p id="footerMeta"></p>
     <p>
-      <a id="repoLink" href="https://github.com/maax6/programmes-2027">Code source et données sur GitHub</a> ·
-      <a href="#/methodologie">Méthodologie</a> ·
-      <a id="issueLink" href="https://github.com/maax6/programmes-2027/issues/new/choose">Signaler une erreur</a>
+      <a id="repoLink" href="https://github.com/maax6/programmes-2027">Code source et données sur GitHub</a>,
+      <a href="#/methodologie">méthodologie</a>,
+      <a id="issueLink" href="https://github.com/maax6/programmes-2027/issues/new/choose">signaler une erreur</a>.
     </p>
-    <p class="muted small">Ce site n'est affilié à aucun candidat, parti ou institution. Il ne formule aucune recommandation de vote.</p>
+    <p class="small">Données sous licence CC BY-SA 4.0, code sous licence MIT, polices Archivo et Source Serif 4 sous licence SIL OFL 1.1.</p>
   </div>
 </footer>
 

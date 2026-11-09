@@ -674,5 +674,39 @@
       { "titre": "Le judoka Teddy Riner annonce sa candidature à l'élection présidentielle de 2027", "url": "https://lcp.fr/actualites/le-judoka-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-de-2027-444920", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" },
       { "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée, au milieu d'une multitude de candidats", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
     ]
+  },
+  {
+    "id": "labib-selma",
+    "nom": "Selma Labib",
+    "parti": "NPA-Révolutionnaires",
+    "famille": "extreme-gauche",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#9c2531",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Conductrice de bus et militante syndicale à la CGT (LCP). Candidate désignée par le NPA-Révolutionnaires, formation issue de la scission du NPA ; l'AFP la décrit en octobre 2026 à la recherche des 500 parrainages. La date de sa désignation n'a pu être établie par une source de niveau 1 ou 2 : date_declaration reste vide. Citée parmi les candidats déclarés par Public Sénat et Toute l'Europe.",
+    "sources": [
+      { "titre": "« On ne cherche pas un accord politique » : sur les routes, le NPA en quête de parrainages", "url": "https://www.boursedirect.fr/fr/actualites/categorie/politique/on-ne-cherche-pas-un-accord-politique-sur-les-routes-le-npa-en-quete-de-parrainages-afp-d490d0889a7a24796c56526e925208b907c2a721", "editeur": "AFP (reprise Bourse Direct)", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : Philippe Poutou renonce à se présenter et se range derrière Jean-Luc Mélenchon", "url": "https://lcp.fr/actualites/presidentielle-2027-philippe-poutou-renonce-a-se-presenter-et-se-range-derriere-jean-luc", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée, au milieu d'une multitude de candidats", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+    ]
+  },
+  {
+    "id": "branco-juan",
+    "nom": "Juan Branco",
+    "parti": "Les Ruches",
+    "famille": "divers",
+    "statut": "declare",
+    "etat_programme": "aucun-publie-2027",
+    "couleur": "#6d6a7c",
+    "site_officiel": null,
+    "programme_url": null,
+    "note": "Avocat et essayiste. Sud Radio rapporte, à l'occasion d'un entretien du 19 décembre, qu'il « se présente à l'élection présidentielle de 2027 » avec un projet de « plus de 300 propositions » ; ce document n'a pas été trouvé ni ouvert, etat_programme reste donc « aucun-publie-2027 » et aucune proposition n'est référencée. L'étiquette « Les Ruches » est celle que donnent Public Sénat et Toute l'Europe. La date de la première annonce n'est pas établie : date_declaration reste vide. Famille « divers » faute de rattachement documenté.",
+    "sources": [
+      { "titre": "L'avocat Juan Branco, candidat à la présidentielle", "url": "https://www.sudradio.fr/sud-radio/lavocat-juan-branco-candidat-a-la-presidentielle", "editeur": "Sud Radio", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : quel est le dernier décompte des candidats déjà sur la ligne de départ ?", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/", "editeur": "Touteleurope.eu", "type": "media", "consulte_le": "2026-11-09" }
+    ]
   }
 ]

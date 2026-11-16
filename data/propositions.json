@@ -1166,34 +1166,17 @@
     "candidat": "melenchon-jean-luc",
     "theme": "retraites",
     "titre": "Retraite à 60 ans",
-    "resume": "Rétablissement du droit à la retraite à 60 ans, mesure présentée comme l'une des propositions phares du programme « L'Avenir en commun » (édition 2025), corpus de référence pour la candidature 2027.",
+    "resume": "Abroger la réforme portant l'âge de départ à 64 ans et « restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations », par un abaissement progressif de l'âge de départ.",
+    "citation": "restaurer le droit à la retraite à 60 ans à taux plein pour 40 annuités de cotisations",
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
       {
-        "titre": "L'Avenir en commun, édition 2025",
-        "url": "https://melenchon2027.fr/programme2025/livre/",
+        "titre": "L'Avenir en commun, édition 2027 — partie 3, « À chacun selon ses besoins »",
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
         "editeur": "melenchon2027.fr",
         "type": "officiel",
-        "consulte_le": "2026-07-31"
-      }
-    ]
-  },
-  {
-    "id": "melenchon-salaires-01",
-    "candidat": "melenchon-jean-luc",
-    "theme": "travail-salaires",
-    "titre": "SMIC à 1 600 € net",
-    "resume": "Porter le SMIC à 1 600 euros net, mesure phare affichée par le site officiel de campagne.",
-    "chiffrage": "SMIC 1 600 € net",
-    "statut_verification": "source-primaire",
-    "sources": [
-      {
-        "titre": "L'Avenir en commun, édition 2025",
-        "url": "https://melenchon2027.fr/programme2025/livre/",
-        "editeur": "melenchon2027.fr",
-        "type": "officiel",
-        "consulte_le": "2026-07-31"
+        "consulte_le": "2026-11-16"
       }
     ]
   },
@@ -1203,15 +1186,16 @@
     "theme": "institutions",
     "titre": "VIe République par une Assemblée constituante",
     "resume": "Convocation d'une Assemblée constituante pour instaurer une VIe République, chapitre « Le pouvoir au peuple » du programme.",
+    "citation": "Convoquer une Constituante pour passer à la 6e République",
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
       {
-        "titre": "L'Avenir en commun — Chapitre 1 : Le pouvoir au peuple",
-        "url": "https://melenchon2027.fr/programme2025/livre/chapitre1",
+        "titre": "L'Avenir en commun, édition 2027 — partie 5, « Le pouvoir au peuple »",
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
         "editeur": "melenchon2027.fr",
         "type": "officiel",
-        "consulte_le": "2026-07-31"
+        "consulte_le": "2026-11-16"
       }
     ]
   },
@@ -1220,16 +1204,17 @@
     "candidat": "melenchon-jean-luc",
     "theme": "ecologie",
     "titre": "Planification écologique",
-    "resume": "Organisation de l'État et des territoires autour d'objectifs écologiques contraignants (« planification écologique » et « bifurcation écologique »), développée aux chapitres 12 à 14 du programme.",
+    "resume": "Inscrire dans la Constitution le principe de la « règle verte », adopter des lois-cadres instaurant une planification écologique et démocratique, et créer un conseil à la planification écologique pour l'organiser (partie « Pour une bifurcation écologique et sociale », chapitre 1).",
+    "citation": "Adopter des lois-cadres instaurant une planification écologique et démocratique coordonnant les échelles nationale et locale",
     "chiffrage": null,
     "statut_verification": "source-primaire",
     "sources": [
       {
-        "titre": "L'Avenir en commun — Chapitre 12 : Planification écologique",
-        "url": "https://melenchon2027.fr/programme2025/livre/chapitre12",
+        "titre": "L'Avenir en commun, édition 2027 — partie 1, « Planification écologique »",
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
         "editeur": "melenchon2027.fr",
         "type": "officiel",
-        "consulte_le": "2026-07-31"
+        "consulte_le": "2026-11-16"
       }
     ]
   },
@@ -1256,11 +1241,19 @@
     "id": "melenchon-fiscalite-01",
     "candidat": "melenchon-jean-luc",
     "theme": "fiscalite",
-    "titre": "Taxer l'intégralité des héritages au-delà de 12 millions d'euros",
-    "resume": "Taxer la totalité de la part d'un héritage dépassant un seuil de 12 millions d'euros.",
+    "titre": "Créer un héritage maximal de 12 millions d'euros",
+    "resume": "Créer un héritage maximal de 12 millions d'euros, la part dépassant ce seuil étant taxée en totalité, et exonérer de droits de succession les héritages inférieurs à 150 000 euros.",
+    "citation": "créer un héritage maximal de 12 millions d'euros",
     "chiffrage": "Seuil de 12 millions d'euros",
-    "statut_verification": "source-media",
+    "statut_verification": "source-primaire",
     "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 2, « Partager les richesses »",
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
       {
         "titre": "Chômage : Édouard Philippe veut abaisser la durée d'indemnisation à douze mois maximum pour les moins de 50 ans",
         "url": "https://lcp.fr/actualites/chomage-edouard-philippe-veut-abaisser-la-duree-d-indemnisation-a-douze-mois-maximum",
@@ -1293,11 +1286,19 @@
     "id": "melenchon-salaires-02",
     "candidat": "melenchon-jean-luc",
     "theme": "travail-salaires",
-    "titre": "SMIC à 1 700 € net dans l'édition 2026 de « L'Avenir en commun »",
-    "resume": "Augmenter immédiatement le SMIC à 1 700 euros net, selon la présentation de l'édition 2026 du programme (212 pages, 1 069 mesures dont 238 nouvelles selon LFI). Cette entrée succède à celle de 1 600 euros net, tirée de l'édition 2025.",
+    "titre": "SMIC à 1 700 € net",
+    "resume": "Porter immédiatement le SMIC mensuel à 1 700 euros net. L'édition 2025 du programme, qui n'est plus en ligne à son adresse d'origine, fixait ce montant à 1 600 euros net.",
+    "citation": "Porter immédiatement le SMIC mensuel à 1 700 euros net",
     "chiffrage": "SMIC 1 700 € net",
-    "statut_verification": "source-media",
+    "statut_verification": "source-primaire",
     "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 2, « Partager les richesses »",
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
       {
         "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
         "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
@@ -1322,8 +1323,15 @@
     "resume": "Supprimer les avantages fiscaux de la capitalisation pour financer le système par répartition ; droit à la retraite à 60 ans à taux plein après 40 annuités de cotisations.",
     "citation": "supprimer les avantages fiscaux de la retraite par capitalisation pour financer le système par répartition",
     "chiffrage": null,
-    "statut_verification": "source-media",
+    "statut_verification": "source-primaire",
     "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 3, « À chacun selon ses besoins »",
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
       {
         "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
         "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
@@ -1337,11 +1345,19 @@
     "id": "melenchon-fiscalite-02",
     "candidat": "melenchon-jean-luc",
     "theme": "fiscalite",
-    "titre": "Rétablir l'ISF avec un volet climatique et supprimer la flat tax",
-    "resume": "Rétablissement d'un impôt de solidarité sur la fortune incluant un volet climatique, impôt sur le revenu progressif à 14 tranches et suppression de la flat tax, selon la présentation de l'édition 2026.",
+    "titre": "Rétablir et renforcer l'ISF, barème à 14 tranches et suppression de la flat tax",
+    "resume": "Rétablir et renforcer l'impôt de solidarité sur la fortune, rendre l'impôt sur le revenu plus progressif avec un barème à 14 tranches contre 5, supprimer la flat tax et imposer les revenus du capital comme ceux du travail. Le « volet climatique » de l'ISF est rapporté par LCP et Public Sénat ; il n'a pas été relevé dans le chapitre consulté.",
+    "citation": "Supprimer la flat tax et imposer les revenus du capital comme ceux du travail",
     "chiffrage": null,
-    "statut_verification": "source-media",
+    "statut_verification": "source-primaire",
     "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 2, « Partager les richesses »",
+        "url": "https://melenchon2027.fr/programme/livre/une-economie-au-service-des-besoins/chapitre2",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
       {
         "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
         "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
@@ -1363,10 +1379,18 @@
     "candidat": "melenchon-jean-luc",
     "theme": "defense",
     "titre": "Sortir du commandement intégré de l'OTAN",
-    "resume": "Retrait immédiat du commandement intégré de l'OTAN, puis retrait par étapes de l'organisation ; rejet de l'objectif de 5 % du PIB consacré à la défense, selon LCP.",
+    "resume": "Se retirer immédiatement du commandement intégré de l'OTAN puis, par étapes, de l'organisation elle-même ; « rejeter le tribut, exigé par les États-Unis, de 5 % du PIB consacré aux dépenses de défense ». Le chapitre ne fixe pas de niveau de dépenses militaires.",
+    "citation": "Se retirer immédiatement du commandement intégré de l'OTAN puis, par étapes, de l'organisation elle-même",
     "chiffrage": null,
-    "statut_verification": "source-media",
+    "statut_verification": "source-primaire",
     "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 6, « Une France indépendante au service de la paix »",
+        "url": "https://melenchon2027.fr/programme/livre/un-monde-ordonne/chapitre2",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
       {
         "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
         "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
@@ -1387,11 +1411,26 @@
     "id": "melenchon-ecologie-02",
     "candidat": "melenchon-jean-luc",
     "theme": "ecologie",
-    "titre": "Règle verte, sortie progressive du nucléaire et objectif de -65 % d'émissions en 2033",
-    "resume": "Inscription d'une « règle verte » et d'une « règle bleue » dans la Constitution, sortie progressive du nucléaire et des énergies fossiles, objectif de 65 % de réduction des émissions d'ici 2033 et de 100 % d'énergies renouvelables au plus tard en 2060.",
+    "titre": "100 % d'énergies renouvelables au plus tard en 2060, arrêt du programme EPR2 et -65 % d'émissions d'ici 2033",
+    "resume": "Baisse de 65 % des émissions de gaz à effet de serre d'ici 2033 ; sortie des énergies fossiles avant 2050 et 100 % d'énergies renouvelables au plus tard en 2060 ; fermeture progressive des centrales nucléaires existantes, sans prolongation au-delà de 60 ans, et arrêt du programme de nouveau nucléaire (EPR2). La « règle bleue » est rapportée par LCP et Public Sénat ; elle n'a pas été relevée dans les chapitres consultés.",
+    "citation": "Atteindre le 100 % d'énergies renouvelables au plus tard en 2060",
     "chiffrage": null,
-    "statut_verification": "source-media",
+    "statut_verification": "source-primaire",
     "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 1, « Les grands chantiers de la bifurcation écologique »",
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre3",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 1, « Planification écologique »",
+        "url": "https://melenchon2027.fr/programme/livre/pour-une-bifurcation-ecologique-et-sociale/chapitre1",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
       {
         "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
         "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
@@ -1413,10 +1452,18 @@
     "candidat": "melenchon-jean-luc",
     "theme": "institutions",
     "titre": "Constituante par référendum, proportionnelle et suppression du 49.3",
-    "resume": "Convocation d'une assemblée constituante par référendum fondé sur l'article 11, scrutin proportionnel pour l'Assemblée nationale et suppression de l'article 49.3, selon LCP.",
+    "resume": "Convoquer un référendum fondé sur l'article 11 pour engager le processus constituant, élire l'Assemblée nationale au scrutin proportionnel et abolir les procédures de « votes forcés » du Parlement comme l'article 49.3.",
+    "citation": "Élire l'Assemblée nationale au scrutin proportionnel",
     "chiffrage": null,
-    "statut_verification": "source-media",
+    "statut_verification": "source-primaire",
     "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 5, « Le pouvoir au peuple »",
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre1",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
       {
         "titre": "Présidentielle 2027: ce qui change dans le nouveau programme de Jean-Luc Mélenchon",
         "url": "https://lcp.fr/actualites/presidentielle-2027-ce-qui-change-dans-le-nouveau-programme-de-jean-luc-melenchon-444841",
@@ -1448,6 +1495,51 @@
         "editeur": "LCP - Assemblée nationale",
         "type": "media",
         "consulte_le": "2026-11-09"
+      }
+    ]
+  },
+  {
+    "id": "melenchon-logement-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "logement",
+    "titre": "200 000 logements publics par an et gel des loyers",
+    "resume": "Produire 200 000 logements publics par an, interdire les expulsions locatives sans relogement public et geler les loyers le temps de déployer un encadrement des loyers sur tout le territoire.",
+    "citation": "Produire 200 000 logements publics par an",
+    "chiffrage": "200 000 logements publics par an (objectif annoncé par le candidat)",
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 5, « Une France sans déserts de droits »",
+        "url": "https://melenchon2027.fr/programme/livre/fonder-la-6e-republique/chapitre3",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      }
+    ]
+  },
+  {
+    "id": "melenchon-sante-01",
+    "candidat": "melenchon-jean-luc",
+    "theme": "sante",
+    "titre": "« 100 % Sécu » et sortie de la tarification à l'acte à l'hôpital",
+    "resume": "Instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits, sortir de la tarification à l'acte (T2A) à l'hôpital et assurer un service public de santé de proximité à moins de 30 minutes de chaque Français.",
+    "citation": "Instaurer le « 100 % Sécu » en remboursant à 100 % les soins de santé prescrits",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 3, « À chacun selon ses besoins »",
+        "url": "https://melenchon2027.fr/programme/livre/mettre-en-securite-sociale/chapitre1",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
+      },
+      {
+        "titre": "L'Avenir en commun, édition 2027 — partie 4, « Faire de la santé un enjeu global »",
+        "url": "https://melenchon2027.fr/programme/livre/le-gout-du-futur-aux-nouvelles-frontieres-de-l-humanite/chapitre4",
+        "editeur": "melenchon2027.fr",
+        "type": "officiel",
+        "consulte_le": "2026-11-16"
       }
     ]
   },

@@ -4,12 +4,13 @@
     "candidat": "riner-teddy",
     "theme": "retraites",
     "titre": "Réformer les retraites en préservant la répartition, sans exclure « une part de capitalisation »",
-    "resume": "Propose une réforme des retraites qui tienne compte de la démographie, préserve le système par répartition et s'appuie sur des critères de pénibilité, sans exclure « une part de capitalisation ». Position exprimée dans son entretien au Parisien du 9 novembre 2026, rapportée par Public Sénat. Le compte rendu ne donne ni âge légal ni durée de cotisation.",
+    "resume": "Propose une réforme des retraites qu'il qualifie de « nécessité incontournable », qui garde le « système solidaire par répartition », s'appuie sur des critères de pénibilité et n'exclut pas « une part de capitalisation ». Position exprimée dans son entretien au Parisien du 9 novembre 2026, rapportée par Public Sénat et LCP. Aucun des deux comptes rendus ne donne d'âge légal ni de durée de cotisation.",
     "citation": "une part de capitalisation",
     "chiffrage": null,
     "statut_verification": "source-media",
     "sources": [
-      { "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée, au milieu d'une multitude de candidats", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" }
+      { "titre": "Présidentielle 2027 : le judoka Teddy Riner se lance dans la course à l'Élysée, au milieu d'une multitude de candidats", "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats", "editeur": "Public Sénat", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Retraites, salaires, sécurité: que propose Teddy Riner pour la présidentielle?", "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-16" }
     ]
   },
   {
@@ -17,12 +18,26 @@
     "candidat": "riner-teddy",
     "theme": "travail-salaires",
     "titre": "Augmenter le salaire net par des allègements de charges",
-    "resume": "Déclare vouloir « augmenter le salaire net », ce qui « doit passer par des allègements de charges », et permettre « aux Français qui le veulent d'augmenter leurs revenus en travaillant plus ». Propos tenus dans son entretien au Parisien du 9 novembre 2026, rapportés par Outre-mer La 1ère. Le compte rendu ne précise ni les charges concernées ni les montants.",
+    "resume": "Déclare vouloir « augmenter le salaire net », ce qui « doit passer par des allègements de charges », et permettre « aux Français qui le veulent d'augmenter leurs revenus en travaillant plus ». Propos tenus dans son entretien au Parisien du 9 novembre 2026, rapportés par Outre-mer La 1ère et LCP, qui résume la mesure comme la réduction de l'écart entre le salaire net et le salaire brut. Aucun des deux comptes rendus ne précise les charges concernées ni les montants.",
     "citation": "augmenter le salaire net",
     "chiffrage": null,
     "statut_verification": "source-media",
     "sources": [
-      { "titre": "Le judoka Teddy Riner est candidat à l'élection présidentielle de 2027", "url": "https://la1ere.franceinfo.fr/polynesie/le-judoka-teddy-riner-est-candidat-a-l-election-presidentielle-de-2027-1756191.html", "editeur": "Outre-mer La 1ère (franceinfo)", "type": "media", "consulte_le": "2026-11-09" }
+      { "titre": "Le judoka Teddy Riner est candidat à l'élection présidentielle de 2027", "url": "https://la1ere.franceinfo.fr/polynesie/le-judoka-teddy-riner-est-candidat-a-l-election-presidentielle-de-2027-1756191.html", "editeur": "Outre-mer La 1ère (franceinfo)", "type": "media", "consulte_le": "2026-11-09" },
+      { "titre": "Retraites, salaires, sécurité: que propose Teddy Riner pour la présidentielle?", "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-16" }
+    ]
+  },
+  {
+    "id": "riner-travail-01",
+    "candidat": "riner-teddy",
+    "theme": "travail-salaires",
+    "titre": "Sortir du « carcan figé des 35 heures » sans les remettre en question",
+    "resume": "Propose de « sortir du carcan figé des 35 heures, mais sans le remettre en question », pour permettre à ceux qui le souhaitent de travailler plus. Propos tenus dans son entretien au Parisien du 9 novembre 2026, rapportés par LCP ; les modalités ne sont pas précisées.",
+    "citation": "sortir du carcan figé des 35 heures, mais sans le remettre en question",
+    "chiffrage": null,
+    "statut_verification": "source-media",
+    "sources": [
+      { "titre": "Retraites, salaires, sécurité: que propose Teddy Riner pour la présidentielle?", "url": "https://lcp.fr/actualites/retraites-salaires-securite-que-propose-teddy-riner-pour-la-presidentielle-444935", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-16" }
     ]
   }
 ]

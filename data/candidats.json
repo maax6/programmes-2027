@@ -24,10 +24,10 @@
     "etat_programme": "corpus-existant",
     "couleur": "#cc2443",
     "site_officiel": "https://melenchon2027.fr/",
-    "programme_url": "https://melenchon2027.fr/programme2025/livre/",
-    "note": "Quatrième candidature consécutive. Le programme de référence est « L'Avenir en commun », édition 2025, en cours d'actualisation pour 2027 via des contributions citoyennes et des auditions programmatiques.",
+    "programme_url": "https://melenchon2027.fr/programme/livre/",
+    "note": "Quatrième candidature consécutive. Le programme de référence est « L'Avenir en commun », dont une nouvelle édition, sous-titrée « Le programme de la Nouvelle France », a été publiée le 6 novembre 2026 : six parties et vingt-trois chapitres en ligne. L'ancienne adresse de l'édition 2025 affiche désormais cette édition ; l'édition 2025 n'est plus consultable à son adresse d'origine.",
     "sources": [
-      { "titre": "L'Avenir en commun, édition 2025", "url": "https://melenchon2027.fr/programme2025/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-07-31" },
+      { "titre": "L'Avenir en commun – Table des matières", "url": "https://melenchon2027.fr/programme/livre/", "editeur": "melenchon2027.fr", "type": "officiel", "consulte_le": "2026-11-16" },
       { "titre": "Présidentielle : Jean-Luc Mélenchon officialise sa candidature pour 2027", "url": "https://lcp.fr/actualites/presidentielle-jean-luc-melenchon-officialise-sa-candidature-pour-2027-435851", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
     ]
   },
@@ -407,10 +407,11 @@
     "etat_programme": "orientations",
     "couleur": "#1f4e79",
     "site_officiel": "https://www.dupontaignan.fr/",
-    "programme_url": "https://www.dupontaignan.fr/wp-content/uploads/2026/05/tract-dupont-aignan.pdf",
-    "note": "Site de campagne ouvert le 15 juillet 2026, distinct du site de Debout la France, avec mandataire financier déclaré et page de parrainage. Le document « Mes mesures prioritaires », signé du candidat, réunit quatorze mesures sans développement ni chiffrage global : il constitue des orientations, non un programme complet. Sa date de publication n'a pas pu être établie.",
+    "programme_url": "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/",
+    "note": "Site de campagne ouvert le 15 juillet 2026, distinct du site de Debout la France, avec mandataire financier déclaré et page de parrainage. Le document « Mes mesures prioritaires » (quatorze mesures), sur lequel reposait cette fiche, n'est plus en ligne : son adresse renvoie une erreur depuis novembre 2026. Le candidat a présenté le 12 novembre 2026 un projet économique et un plan de redressement financier, publiés sur son site avec deux documents PDF qui n'ont pas été ouverts ; `programme_url` pointe vers cette page, qui ne couvre que l'économie. Le menu « Projet » du site de campagne renvoie au projet de Debout la France, que le parti dit en cours d'actualisation pour 2027.",
     "sources": [
       { "titre": "Nicolas Dupont-Aignan — Candidat à l'élection présidentielle 2027", "url": "https://www.dupontaignan.fr/", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-08-10" },
+      { "titre": "Présentation du projet économique 2027", "url": "https://www.dupontaignan.fr/actualite/presentation-du-projet-economique-2027/", "editeur": "dupontaignan.fr", "type": "officiel", "consulte_le": "2026-11-16" },
       { "titre": "Suivez toute l'actualité de la présidentielle sur le site de Nicolas Dupont-Aignan !", "url": "https://www.debout-la-france.fr/actualite/suivez-toute-lactualite-de-la-presidentielle-sur-le-site-de-nicolas-dupont-aignan/", "editeur": "Debout La France", "type": "officiel", "consulte_le": "2026-08-10" },
       { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
     ]

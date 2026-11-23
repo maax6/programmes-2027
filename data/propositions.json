@@ -2406,6 +2406,203 @@
     ]
   },
   {
+    "id": "villepin-retraites-01",
+    "candidat": "villepin-dominique",
+    "theme": "retraites",
+    "titre": "Système de retraite par points et « pilier de capitalisation publique »",
+    "resume": "Propose de « refonder les retraites avec les partenaires sociaux » : rétablir l'équilibre par « un système par points », « laisser plus de liberté », « mieux reconnaître la pénibilité » et « créer un pilier de capitalisation publique ». Propose aussi de « confier aux partenaires sociaux la gestion des retraites ». La synthèse consultée ne donne ni âge légal ni durée de cotisation.",
+    "citation": "créer un pilier de capitalisation publique",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Justice sociale : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/justice-sociale.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-salaires-01",
+    "candidat": "villepin-dominique",
+    "theme": "travail-salaires",
+    "titre": "Transférer la revalorisation annuelle du SMIC aux partenaires sociaux",
+    "resume": "Propose de « transférer la revalorisation annuelle du SMIC aux partenaires sociaux », de leur garantir « des compétences propres et une négociation préalable aux grandes réformes sociales », de « laisser davantage de latitude sur la négociation du temps de travail » et d'« inscrire une charte des droits sociaux dans la Constitution ». Propose par ailleurs de « rétablir les CHSCT et les délégués du personnel ».",
+    "citation": "Transférer la revalorisation annuelle du SMIC aux partenaires sociaux.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Justice sociale : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/justice-sociale.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-institutions-01",
+    "candidat": "villepin-dominique",
+    "theme": "institutions",
+    "titre": "Référendum citoyen contraignant à partir de cinq millions de signatures",
+    "resume": "Propose l'« organisation d'un processus référendaire contraignant si 5 millions de signatures sont réunies », précédé d'un « processus de débat national d'un an avec conférence sociale, convention citoyenne et débat parlementaire ». Propose aussi « un recours au référendum pour trancher les grandes questions » et annonce : « Pas de dissolution automatique après l'élection. » La synthèse est sous-titrée « 20 propositions pour remettre la Ve République à l'endroit ».",
+    "citation": "Organisation d'un processus référendaire contraignant si 5 millions de signatures sont réunies.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Projet institutions : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/institutions.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-immigration-01",
+    "candidat": "villepin-dominique",
+    "theme": "immigration",
+    "titre": "« L'immigration maîtrisée » : loi de programmation pluriannuelle des besoins migratoires",
+    "resume": "Sous le titre « L'immigration maîtrisée », propose une « diplomatie migratoire : laissez-passer consulaires contre visas », une « loi de programmation pluriannuelle des besoins migratoires », l'« enregistrement des immigrés clandestins » et la « priorité à l'expulsion d'OQTF présentant un risque pour l'ordre public ». La synthèse « Justice sociale » propose de « mieux réguler l'immigration de travail avec une loi pluriannuelle » et de « construire l'intégration dans les communes ». Les deux synthèses consultées ne mentionnent ni quotas, ni regroupement familial, ni l'accord franco-algérien de 1968.",
+    "citation": "Loi de programmation pluriannuelle des besoins migratoires.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Projet institutions : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/institutions.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      },
+      {
+        "titre": "Justice sociale : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/justice-sociale.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-defense-01",
+    "candidat": "villepin-dominique",
+    "theme": "defense",
+    "titre": "Continuation de la loi de programmation militaire",
+    "resume": "Propose « une planification manœuvrable pour le format des armées », la « continuation de la loi de programmation militaire », une « réévaluation régulière du format et des besoins » et un « lien Armée-Nation renforcé » avec l'« élargissement des réserves opérationnelles ». La synthèse consultée ne fixe aucun niveau de dépenses en part du PIB.",
+    "citation": "Continuation de la loi de programmation militaire.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Projet institutions : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/institutions.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-europe-01",
+    "candidat": "villepin-dominique",
+    "theme": "europe-international",
+    "titre": "« Pacte de souveraineté » avec les Européens volontaires",
+    "resume": "Propose « un pacte de souveraineté avec les Européens volontaires » et « un conseil de sécurité européen avec voix prépondérante commune des 5 principaux États qui s'engagent à toujours voter ensemble au Conseil ».",
+    "citation": "Un pacte de souveraineté avec les Européens volontaires.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Projet institutions : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/institutions.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-justice-01",
+    "candidat": "villepin-dominique",
+    "theme": "securite-justice",
+    "titre": "Un « Procureur général de la Nation » responsable de la politique pénale",
+    "resume": "Propose de créer un « Procureur général de la Nation », « élu au suffrage universel indirect, responsable de la politique pénale » et « en charge des inspections et sanctions disciplinaires », avec un « renforcement du garde des Sceaux comme conseil juridique du gouvernement et défenseur des intérêts de l'État devant les juridictions ».",
+    "citation": "Élu au suffrage universel indirect, responsable de la politique pénale.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Projet institutions : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/institutions.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-logement-01",
+    "candidat": "villepin-dominique",
+    "theme": "logement",
+    "titre": "500 000 logements par an et garantie locative universelle",
+    "resume": "Sous le titre « Un logement abordable », propose « 500 000 logements par an, coopératives de logement social et banque publique du logement, garantie locative universelle, justice du logement en trois mois ».",
+    "citation": "500 000 logements par an",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-sante-01",
+    "candidat": "villepin-dominique",
+    "theme": "sante",
+    "titre": "Plafonner le reste à charge annuel selon le revenu",
+    "resume": "Propose « un bouclier contre le reste à charge » : « plafonner le reste à charge annuel selon le revenu » et « clarifier les rôles de l'assurance maladie et des complémentaires ». Propose aussi de « débureaucratiser l'hôpital et redonner du pouvoir aux équipes médicales et soignantes ».",
+    "citation": "Plafonner le reste à charge annuel selon le revenu.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Justice sociale : 20 propositions de Dominique de Villepin",
+        "url": "https://lafrancehumaniste.fr/programme/justice-sociale.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
+    "id": "villepin-ecologie-01",
+    "candidat": "villepin-dominique",
+    "theme": "ecologie",
+    "titre": "Six EPR2, éolien en mer et électrification des usages",
+    "resume": "Propose « 6 EPR2, éolien en mer industrialisé, électrification massive des usages, pour les ménages comme pour l'industrie ». Sous le titre « L'électricité au prix du nucléaire français », propose des « contrats universels au coût réel de production » et la « fin des quasi-taxes », avec une baisse de la facture qu'il chiffre à 15 %.",
+    "citation": "6 EPR2, éolien en mer industrialisé, électrification massive des usages, pour les ménages comme pour l'industrie.",
+    "chiffrage": null,
+    "statut_verification": "source-primaire",
+    "sources": [
+      {
+        "titre": "Programme économique de Dominique de Villepin : 20 propositions",
+        "url": "https://lafrancehumaniste.fr/programme/economie.html",
+        "editeur": "La France humaniste",
+        "type": "officiel",
+        "consulte_le": "2026-11-23"
+      }
+    ]
+  },
+  {
     "id": "verdier-institutions-01",
     "candidat": "verdier-fabien",
     "theme": "institutions",

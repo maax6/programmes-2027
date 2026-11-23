@@ -13,11 +13,14 @@ Un comparateur de programmes ne vaut que par sa fraîcheur. Ce document fixe le 
 | ~~Dépôt des candidatures à la primaire sociale-démocrate~~ | 1er au 15 septembre 2026 | *Fait.* Cinq candidats retenus le 16 septembre ; Philippe Brun non ratifié |
 | ~~Livre de Bruno Retailleau~~ | octobre 2026 | *Paru.* Dix-huit lettres thématiques, présenté par l'auteur comme n'étant « pas un livre programme » ; plan d'économies de 197 Md€ présenté séparément le 12 octobre |
 | ~~Plan d'économies de Marine Le Pen~~ | 6 octobre 2026 | *Fait.* 140 Md€ d'économies d'ici 2032 (contre 125 Md€ annoncés fin août) |
-| Décision de Bruno Le Maire | octobre 2026 (annoncée) | Statut candidat. Aucune décision trouvée au 16 novembre 2026 ; LCP rapporte qu'il a présenté 50 propositions le 12 novembre, sans déclaration de candidature |
+| Décision de Bruno Le Maire | octobre 2026 (annoncée) | Statut candidat. Aucune décision trouvée au 23 novembre 2026 ; LCP rapporte qu'il a présenté 50 propositions le 12 novembre, sans déclaration de candidature |
 | ~~Primaire de la gauche socialiste et démocratique~~ | 9-11 octobre 2026 | *Fait.* Raphaël Glucksmann désigné dès le premier tour (66,17 %), vote prolongé jusqu'au 11 octobre ; pas de second tour |
 | ~~Programme de Jean-Luc Mélenchon~~ | 6 novembre 2026 | *Paru.* Nouvelle édition de « L'Avenir en commun », 1 069 mesures annoncées ; texte ouvert le 16 novembre à `melenchon2027.fr/programme/livre/` (quinze chapitres sur vingt-trois), quinze entrées dont douze en `source-primaire` |
-| Vote des adhérents des Écologistes sur la stratégie présidentielle | 10-13 décembre 2026 (annoncé) | Statut de Marine Tondelier |
-| Décision de François Hollande | décembre 2026 (annoncée), janvier 2027 selon LCP le 14 novembre | Statut candidat |
+| ~~Officialisation de Dominique de Villepin~~ | 20 novembre 2026 | *Fait.* Candidature annoncée en conférence de presse ; programme « Réussir à nouveau » (258 propositions annoncées) publié le même jour, lié depuis `villepin.fr` |
+| ~~Retrait de François Ruffin~~ | 21 novembre 2026 | *Fait.* Communiqué de retrait, sans soutien à un autre candidat ; statut « retire » |
+| Vote des adhérents des Écologistes sur la stratégie présidentielle | 10-13 décembre 2026 (annoncé) ; « prévu le 13 décembre » selon LCP le 23 novembre | Statut de Marine Tondelier |
+| Décision de François Hollande | décembre 2026 (annoncée), janvier 2027 selon LCP les 14 et 23 novembre | Statut candidat |
+| Décision de Xavier Bertrand | « d'ici la fin de l'année » selon LCP le 23 novembre | Statut candidat : le dépôt le porte « déclaré », LCP le range parmi ceux qui n'ont pas officialisé |
 | Publication des programmes détaillés | hiver 2026-2027 (usage) | Pic de charge principal |
 | Période de recueil des parrainages | du lendemain du décret de convocation au 12 mars 2027, 18 h | Filtre décisif : 500 parrainages, 30 départements minimum, 10 % max par département |
 | Publication de la liste officielle par le Conseil constitutionnel | au plus tard le 26 mars 2027 | **Bascule** : passage des « prétendants » aux candidats officiels |
@@ -89,6 +92,7 @@ Chaque passe laisse une trace, même si elle ne change rien : un compte rendu da
 | Fabien Verdier | https://fabienverdier.fr/ |
 | Fabien Roussel | https://www.fabienroussel2027.fr/ |
 | Anasse Kazib | https://anasse2027.fr/ |
+| Dominique de Villepin | https://villepin.fr/ (programme hébergé sur `lafrancehumaniste.fr/programme/reussir-a-nouveau/`) |
 
 **Sites de parti — à ne pas confondre avec les précédents**
 
@@ -131,13 +135,14 @@ Priorités décroissantes, à traiter dès que les sources existent :
 3. **Jean-Luc Mélenchon** — la nouvelle édition de « L'Avenir en commun » (6 novembre 2026) est en ligne : six parties, vingt-trois chapitres, 1 069 mesures annoncées. Quinze entrées au 16 novembre 2026. Huit chapitres n'ont pas été ouverts ; aucune mesure d'immigration n'a été relevée dans les quinze chapitres lus. L'édition 2025 n'est plus consultable à son adresse d'origine.
 3 bis. **Nicolas Dupont-Aignan** — le tract « Mes mesures prioritaires » a disparu (lien mort). Sept entrées au 16 novembre 2026, dont six appuyées sur les pages du projet de Debout la France auxquelles renvoie le site de campagne ; trois entrées retirées faute de source. Les deux PDF du projet économique du 12 novembre (`Economie-2026_11-12_Livret.pdf`, `Cahier-rouge-2026_11-12.pdf`, sur `dupontaignan.fr`) restent à ouvrir.
 4. **Quatre `site_officiel` portant une adresse de parti** — Arthaud, Zemmour, Philippot, Asselineau. Voir l'étape 2 de la procédure. Aucun arbitrage requis, rendement historiquement élevé.
-5. **Candidats déclarés sans aucune entrée** — treize au 16 novembre 2026 : Arthaud, Batho, Bouamrane, Cazeneuve, Bertrand, Lisnard, Philippot, Asselineau, Mikolajczak, Lalanne, Becht, Labib, Branco. Cazeneuve est le cas le plus gênant : il s'exprime publiquement et régulièrement, mais sur des questions d'alliance que la règle 7 exclut.
+5. **Candidats déclarés sans aucune entrée** — treize au 23 novembre 2026 : Arthaud, Batho, Bouamrane, Cazeneuve, Bertrand, Lisnard, Philippot, Asselineau, Mikolajczak, Lalanne, Becht, Labib, Branco. Cazeneuve est le cas le plus gênant : il s'exprime publiquement et régulièrement, mais sur des questions d'alliance que la règle 7 exclut.
+3 ter. **Dominique de Villepin** — programme « Réussir à nouveau » publié le 20 novembre 2026 : quatre parties, vingt-cinq chapitres, 258 propositions annoncées. Quatorze entrées au 23 novembre 2026, dont dix en `source-primaire` tirées des trois synthèses « en 20 propositions » (économie, justice sociale, institutions). Restent à ouvrir : les vingt-cinq pages de chapitre, la synthèse `programme/mesures.html`, et la seconde moitié de la page du programme. Les quatre entrées d'août, en `source-media`, sont à reprendre depuis le texte. Treize questions clés sur seize restent vides pour lui.
 6. **`clivages.json`** — 16 questions, objectif 30-40. Deux questions restent sous le seuil de deux positions et n'apparaissent qu'en zone de flou : `code-travail`, `accord-1968`.
-7. **Thèmes faibles** — au 16 novembre 2026, `logement`, `defense`, `sante` et `europe-international` : 4 entrées chacun.
+7. **Thèmes faibles** — au 23 novembre 2026, `logement`, `defense`, `sante`, `europe-international` et `numerique-ia` : 5 entrées chacun.
 
 ### Déséquilibre de couverture
 
-Au 16 novembre 2026 : **146 propositions, 17 candidats documentés sur 43**, dont deux concentrent 41,8 % des entrées. Vingt-six candidats n'ont aucune entrée. Au 26 octobre : 121 propositions, 14 candidats sur 39, 50,4 %.
+Au 23 novembre 2026 : **156 propositions, 17 candidats documentés sur 43**, dont deux concentrent 39,1 % des entrées. Vingt-six candidats n'ont aucune entrée. Au 16 novembre : 146 propositions, 41,8 %. Au 26 octobre : 121 propositions, 14 candidats sur 39, 50,4 %.
 
 La part d'Attal et Philippe baisse depuis quatre passes — 63 %, puis 61,5 %, 58,4 %, 56,1 % et 50,4 % — et il faut être précis sur la cause, parce qu'elle commande la stratégie de veille. Elle ne baisse pas parce que les autres candidats majeurs se sont mis à publier : aucun ne l'a fait. Elle baisse parce que chaque passe a trouvé un document que le dépôt ignorait, sur un site de candidat modeste ou nouveau. La correction ne vient donc pas de la veille des grands sites de campagne, qui ne produit rien depuis le 27 août.
 

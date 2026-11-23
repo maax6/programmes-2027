@@ -307,13 +307,17 @@
     "nom": "Dominique de Villepin",
     "parti": "La France humaniste",
     "famille": "centre",
-    "statut": "pressenti",
-    "etat_programme": "aucun-publie-2027",
+    "statut": "declare",
+    "date_declaration": "2026-11-20",
+    "etat_programme": "complet",
     "couleur": "#5b8fb9",
-    "site_officiel": null,
-    "programme_url": null,
-    "note": "Ancien Premier ministre. Non officiellement candidat ; affirme avoir organisé une équipe dédiée à la collecte des 500 parrainages. Le 3 novembre 2026, sur France Inter, il a confirmé son intention de se présenter en précisant qu'il ne souhaitait pas encore officialiser sa candidature : le statut reste « pressenti ».",
+    "site_officiel": "https://villepin.fr/",
+    "programme_url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/",
+    "note": "Ancien Premier ministre. A annoncé sa candidature le 20 novembre 2026, lors d'une conférence de presse à la Maison de l'Amérique latine et par une lettre datée du même jour publiée sur son site : « Je suis candidat à l'élection présidentielle de 2027. » Il a publié le même jour son programme, « Réussir à nouveau », annoncé en quatre parties, vingt-cinq chapitres et 258 propositions. Le site villepin.fr est édité par La France humaniste et renvoie pour le texte du programme vers le site du mouvement.",
     "sources": [
+      { "titre": "Dominique de Villepin, candidat à l'élection présidentielle 2027", "url": "https://villepin.fr/", "editeur": "villepin.fr (La France humaniste)", "type": "officiel", "consulte_le": "2026-11-23" },
+      { "titre": "Réussir à nouveau : le programme de Dominique de Villepin pour 2027", "url": "https://lafrancehumaniste.fr/programme/reussir-a-nouveau/", "editeur": "La France humaniste", "type": "officiel", "consulte_le": "2026-11-23" },
+      { "titre": "Présidentielle 2027: Dominique de Villepin officiellement candidat à l'Élysée", "url": "https://lcp.fr/actualites/presidentielle-2027-dominique-de-villepin-officiellement-candidat-a-l-elysee-445372", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-23" },
       { "titre": "Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants", "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" },
       { "titre": "Présidentielle 2027 : qui sont les principaux candidats déjà déclarés ?", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-qui-sont-les-candidats-deja-declares/", "editeur": "Touteleurope.eu", "type": "media", "consulte_le": "2026-11-09" }
     ]

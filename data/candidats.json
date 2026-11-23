@@ -53,13 +53,15 @@
     "nom": "François Ruffin",
     "parti": "Debout",
     "famille": "gauche",
-    "statut": "conditionnel",
+    "statut": "retire",
+    "date_retrait": "2026-11-21",
     "etat_programme": "aucun-publie-2027",
     "couleur": "#d94f3d",
     "site_officiel": null,
     "programme_url": null,
-    "note": "A déclaré qu'il serait candidat en l'absence de primaire de la gauche : « S'il n'y a pas de primaire, moi j'y vais ».",
+    "note": "Avait déclaré qu'il serait candidat en l'absence de primaire de la gauche : « S'il n'y a pas de primaire, moi j'y vais ». A annoncé le retrait de sa candidature par communiqué le 21 novembre 2026, en écrivant que « les appareils ont rejeté cette grande primaire » ; il n'apporte son soutien à aucun candidat.",
     "sources": [
+      { "titre": "François Ruffin se retire de la présidentielle 2027 sans soutenir aucun des candidats de gauche encore en lice", "url": "https://lcp.fr/actualites/francois-ruffin-se-retire-de-la-presidentielle-2027-sans-soutenir-aucun-des-candidats-de", "editeur": "LCP - Assemblée nationale", "type": "media", "consulte_le": "2026-11-23" },
       { "titre": "Présidentielle 2027 : « S'il n'y a pas de primaire, moi j'y vais », annonce François Ruffin", "url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin", "editeur": "LCP", "type": "media", "consulte_le": "2026-07-31" }
     ]
   },
